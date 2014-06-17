@@ -8,9 +8,9 @@ end
 # You can use this method to custom specify a Rack app
 # you want rack-test to invoke:
 #
-#   app HaroldTreen::App
-#   app HaroldTreen::App.tap { |a| }
-#   app(HaroldTreen::App) do
+#   app HaroldtreenGithubIo::App
+#   app HaroldtreenGithubIo::App.tap { |a| }
+#   app(HaroldtreenGithubIo::App) do
 #     set :foo, :bar
 #   end
 #

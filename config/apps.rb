@@ -27,10 +27,10 @@
 #
 Padrino.configure_apps do
   # enable :sessions
-  set :session_secret, '8b37345f97595ca399c8015cc0cc208d7e4e55568c3513cf8ac259d7f418a627'
+  set :session_secret, '5b7c12d4f0b8dfa85830332b030082569df28652aae046af89fb008139369ee3'
   set :protection, :except => :path_traversal
   set :protect_from_csrf, true
 end
 
 # Mounts the core application for this project
-Padrino.mount('HaroldTreen::App', :app_file => Padrino.root('app/app.rb')).to('/')
+Padrino.mount('HaroldtreenGithubIo::App', :app_file => Padrino.root('app/app.rb')).to('/')

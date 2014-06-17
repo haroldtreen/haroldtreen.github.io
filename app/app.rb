@@ -1,10 +1,15 @@
-module HaroldTreen
+module HaroldtreenGithubIo
   class App < Padrino::Application
     register SassInitializer
     register Padrino::Mailer
     register Padrino::Helpers
 
     enable :sessions
+
+    # Sprockets support
+    require 'sprockets'
+    register Padrino::Sprockets
+    sprockets
 
     ##
     # Caching support.

@@ -1,0 +1,47 @@
+body {
+	margin: 0px;
+}
+
+img.profile {
+	height: 200px;
+	width: 200px;
+	margin-top: 20px;
+	border: 5px solid #9b59b6;
+	border-radius: 100px;
+	-webkit-box-shadow: 10px 10px 50px 0px rgba(0,0,0,0.39);
+	-moz-box-shadow: 10px 10px 50px 0px rgba(0,0,0,0.39);
+	box-shadow: 10px 10px 50px 0px rgba(0,0,0,0.39);
+}
+
+header {
+	width: 100%;
+	text-align: center;
+	background-color: #9b59b6;
+	margin-bottom: 0px;
+}
+
+h1.title {
+	height: 50px;
+	margin-bottom: 0px;
+	color: #ecf0f1;
+}
+
+nav {
+	height: 30px;
+	padding-top: 10px;
+	background-color: #8e44ad;
+	margin: auto 0px;
+}
+
+.cntr {
+	width: 100%;
+	text-align: center;
+}
+
+.container {
+	width: 560px;
+	margin: 10px auto;
+}
+
+
+

@@ -1,5 +1,4 @@
 source 'https://rubygems.org'
-
 # Distribute your app as a gem
 # gemspec
 
@@ -9,6 +8,8 @@ source 'https://rubygems.org'
 
 # Optional JSON codec (faster performance)
 # gem 'oj'
+
+gem 'padrino-sprockets'
 
 # Project requirements
 gem 'rake'
