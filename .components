@@ -1,9 +1,0 @@
----
-:orm: none
-:test: rspec
-:mock: none
-:script: none
-:renderer: slim
-:stylesheet: sass
-:namespace: HaroldtreenGithubIo
-:migration_format: number
