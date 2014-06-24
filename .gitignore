@@ -7,3 +7,5 @@ vendor/gems/*
 .sass-cache/*
 db/*.db
 .*.sw*
+
+/node_modules
