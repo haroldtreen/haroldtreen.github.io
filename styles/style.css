@@ -30,6 +30,7 @@ nav {
   font-family: 'Muli', sans-serif; }
 
 nav a {
+  cursor: pointer;
   font-weight: bold; }
 
 nav a:link {

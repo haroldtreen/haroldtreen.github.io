@@ -1,7 +1,14 @@
 module.exports = function(grunt) {
   grunt.initConfig({
     pkg: grunt.file.readJSON('package.json'),
-
+    connect: {
+      server: {
+        options: {
+          port: 9000, //run on port 9000
+          open: true //open browser         
+        }
+      }
+    },
     jshint: {
       // define the files to lint
       files: ['gruntfile.js', 'src/**/*.js', 'spec/**/*.js'],
@@ -18,8 +25,8 @@ module.exports = function(grunt) {
     reload: {
         port: 3001,
         proxy: {
-            host: 'localhost',
-            port: 8080 // should match server.port config
+          host: 'localhost',
+          port: 8001,
         }
     },
     sass: {                              // Task
@@ -35,14 +42,12 @@ module.exports = function(grunt) {
     },
     watch: {
     	css: {
-    		files: '**/*.scss',
+    		files: ['sass/*.scss'],
     		tasks: ['sass'],
-    		options: {
-    			livereload: true
-    		}
-    	},
-      files: ['<%= jshint.files %>'],
-      tasks: ['jshint']
+        options: {
+          livereload: true
+        }
+    	}
     }    
   });
 
@@ -50,7 +55,7 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-contrib-sass');
   grunt.loadNpmTasks('grunt-reload');
   grunt.loadNpmTasks('grunt-contrib-watch');
+  grunt.loadNpmTasks('grunt-contrib-connect');
 
-
-  grunt.registerTask('default', ['watch']);
+  grunt.registerTask('default', ['connect', 'watch']);
 };
