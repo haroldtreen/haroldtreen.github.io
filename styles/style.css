@@ -29,6 +29,16 @@ nav {
   margin: auto 0px;
   font-family: 'Muli', sans-serif; }
 
+nav a {
+  font-weight: bold; }
+
+nav a:link {
+  text-decoration: none;
+  color: #000000; }
+
+nav a:hover {
+  color: #ffffff; }
+
 p {
   font-family: 'Open Sans', sans-serif;
   color: #ecf0f1; }
