@@ -1,5 +1,5 @@
 body {
-  background-color: #FFFFFF;
+  background-color: #ffffff;
   margin: 0px;
   height: 100%; }
 
@@ -7,7 +7,7 @@ img.profile {
   height: 120px;
   width: 120px;
   margin: 20px 10px 0px 10px;
-  border: 3px solid #f1c40f;
+  border: 3px solid #3498db;
   border-radius: 100px;
   -webkit-box-shadow: 10px 10px 50px 0px rgba(0, 0, 0, 0.39);
   -moz-box-shadow: 10px 10px 50px 0px rgba(0, 0, 0, 0.39);
@@ -17,7 +17,7 @@ header {
   width: 100%;
   margin-bottom: 0px;
   font-family: 'Montserrat', sans-serif;
-  background-color: #34495e; }
+  background-color: #2980b9; }
 
 td {
   margin: 0px; }
@@ -30,7 +30,9 @@ h1.title {
 nav {
   height: 30px;
   padding-top: 10px;
-  background-color: #f1c40f;
+  border-top: 1px solid #2084c7;
+  border-bottom: 3px solid #2084c7;
+  background-color: #3498db;
   font-family: 'Muli', sans-serif;
   font-size: 16px; }
 
@@ -43,26 +45,31 @@ nav a:link {
   color: #ED553B; }
 
 nav a:hover {
-  color: #ffffff; }
+  color: #FFFFFF; }
 
 h2, h3, h4, h5 {
   margin: 15px 0px 5px 0px; }
 
 h2 {
+  color: #40404a;
   font-size: 40px; }
 
 h3 {
+  margin-top: 20px;
+  color: #5e5e68;
   font-size: 30px; }
 
 h4 {
+  color: #7c7c86;
   font-size: 20px; }
 
 p {
-  margin-top: 5px; }
+  margin-top: 5px;
+  margin-bottom: 5px; }
 
 .txt {
   font-family: 'Open Sans', sans-serif;
-  color: #112F41; }
+  color: #90909a; }
 
 .cntr {
   width: 100%;
@@ -73,23 +80,14 @@ p {
   margin: 0px auto; }
 
 .container {
-  background-color: #95a5a6;
-  width: 870px;
-  margin: 0px auto;
-  padding: 10px 20px 10px 35px; }
-
-section.about-section {
-  margin-left: 25px; }
+  background-color: #efefef;
+  max-width: 870px;
+  width: 80%;
+  margin: 20px auto;
+  padding: 5px 35px 15px 35px;
+  border-radius: 15px; }
 
 .down-shaddow {
   -webkit-box-shadow: 0px 40px 120px -20px rgba(0, 0, 0, 0.75);
   -moz-box-shadow: 0px 40px 120px -20px rgba(0, 0, 0, 0.75);
   box-shadow: 0px 40px 120px -20px rgba(0, 0, 0, 0.75); }
-
-.rnd-bttm {
-  -webkit-border-bottom-right-radius: 25px;
-  -webkit-border-bottom-left-radius: 25px;
-  -moz-border-radius-bottomright: 25px;
-  -moz-border-radius-bottomleft: 25px;
-  border-bottom-right-radius: 25px;
-  border-bottom-left-radius: 25px; }

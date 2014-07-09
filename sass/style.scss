@@ -1,5 +1,8 @@
+$nav-color: #3498db;
+$text-color: #90909a;
+
 body {
-	background-color: #FFFFFF;
+	background-color: #ffffff;
 	margin: 0px;
 	height: 100%;
 }
@@ -8,7 +11,7 @@ img.profile {
 	height: 120px;
 	width: 120px;
 	margin: 20px 10px 0px 10px;
-	border: 3px solid #f1c40f;
+	border: 3px solid $nav-color;
 	border-radius: 100px;
 	-webkit-box-shadow: 10px 10px 50px 0px rgba(0,0,0,0.39);
 	-moz-box-shadow: 10px 10px 50px 0px rgba(0,0,0,0.39);
@@ -19,7 +22,7 @@ header {
 	width: 100%;
 	margin-bottom: 0px;
 	font-family: 'Montserrat', sans-serif;
-	background-color: #34495e;
+	background-color: #2980b9;
 }
 
 td {
@@ -35,7 +38,9 @@ h1.title {
 nav {
 	height: 30px;
 	padding-top: 10px;
-	background-color: #f1c40f;
+	border-top: 1px solid ($nav-color - 20);
+	border-bottom: 3px solid ($nav-color - 20);
+	background-color: $nav-color;
 	font-family: 'Muli', sans-serif;
 	font-size: 16px;
 }
@@ -51,7 +56,7 @@ nav a:link {
 }
 
 nav a:hover {
-	color: #ffffff;
+	color: #FFFFFF;
 }
 
 h2, h3, h4, h5 {
@@ -59,24 +64,29 @@ h2, h3, h4, h5 {
 }
 
 h2 {
+	color: $text-color - 80; 
 	font-size: 40px;
 }
 
-h3 { 
+h3 {
+	margin-top: 20px;
+	color: $text-color - 50; 
 	font-size: 30px;
 }
 
 h4 {
+	color: $text-color - 20;
 	font-size: 20px;
 }
 
 p {
 	margin-top: 5px;
+	margin-bottom: 5px;
 }
 
 .txt {
 	font-family: 'Open Sans', sans-serif;
-	color: #112F41;
+	color: $text-color;
 }
 
 .cntr {
@@ -90,29 +100,18 @@ p {
 }
 
 .container {
-	background-color: #95a5a6;
-	width: 870px;
-	margin: 0px auto;
-	padding: 10px 20px 10px 35px;
-}
-
-section.about-section {
-	margin-left: 25px;
+	background-color: #efefef;
+	max-width: 870px;
+	width: 80%;
+	margin: 20px auto;
+	padding: 5px 35px 15px 35px;
+	border-radius: 15px; 
 }
 
 .down-shaddow {
 	-webkit-box-shadow: 0px 40px 120px -20px rgba(0,0,0,0.75);
 	-moz-box-shadow: 0px 40px 120px -20px rgba(0,0,0,0.75);
 	box-shadow: 0px 40px 120px -20px rgba(0,0,0,0.75);
-}
-
-.rnd-bttm {
-	-webkit-border-bottom-right-radius: 25px;
-	-webkit-border-bottom-left-radius: 25px;
-	-moz-border-radius-bottomright: 25px;
-	-moz-border-radius-bottomleft: 25px;
-	border-bottom-right-radius: 25px;
-	border-bottom-left-radius: 25px;
 }
 
 
