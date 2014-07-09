@@ -9,3 +9,7 @@ app.load = function(section){
 			});
 	});
 };
+
+$(document).ready(function(){
+	app.load('about');
+});

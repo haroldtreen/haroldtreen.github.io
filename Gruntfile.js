@@ -4,8 +4,8 @@ module.exports = function(grunt) {
     connect: {
       server: {
         options: {
-          port: 9000, //run on port 9000
-          open: true //open browser         
+          port: 9000, //run on port 9000    
+          base: ['src/html', 'scripts/js', 'styles', 'assets'] 
         }
       }
     },
@@ -29,6 +29,19 @@ module.exports = function(grunt) {
           port: 8001,
         }
     },
+    markdown: {
+      all: {
+        files: [
+          {
+            expand: true,
+            src: 'src/md/*.md',
+            dest: 'src/html',
+            flatten: true,
+            ext: '.html'
+          }
+        ]
+      }
+    },
     sass: {                              // Task
       dist: {                            // Target
         files: [{                         // Dictionary of files
@@ -47,15 +60,20 @@ module.exports = function(grunt) {
         options: {
           livereload: true
         }
-    	}
+    	},
+      src: {
+        files: ['src/md/*.md'],
+        tasks: ['markdown']
+      }
     }    
   });
 
-  grunt.loadNpmTasks('grunt-contrib-jshint');
-  grunt.loadNpmTasks('grunt-contrib-sass');
-  grunt.loadNpmTasks('grunt-reload');
-  grunt.loadNpmTasks('grunt-contrib-watch');
   grunt.loadNpmTasks('grunt-contrib-connect');
+  grunt.loadNpmTasks('grunt-contrib-jshint');
+  grunt.loadNpmTasks('grunt-reload');
+  grunt.loadNpmTasks('grunt-markdown');
+  grunt.loadNpmTasks('grunt-contrib-sass');
+  grunt.loadNpmTasks('grunt-contrib-watch');
 
   grunt.registerTask('default', ['connect', 'watch']);
 };
