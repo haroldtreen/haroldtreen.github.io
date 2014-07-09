@@ -12,12 +12,12 @@ My name is Harold Treen. Here's a little bit about what I do.
 
 **Agile Engineer Intern** - Toronto, Ontario
 
-- Backend API development using **Ruby on Rails**, **Postgres** and **MySql**
+- Backend API development using **Ruby on Rails**, **Postgres** and **MySQL**
 - Frontend web development using **AngularJS**, **jQuery**, **HTML5** and **CSS**.
-- Strong emphasis on **TDD** using **Jasmine** and **Rspec**, resulting in 95%+ code coverage.
+- Strong emphasis on **TDD** using **Jasmine** and **RSpec**, resulting in 95%+ code coverage.
 
 
-#### Microsot Corporation
+#### Microsoft Corporation
 
 **SDET Intern (Microsoft Office Division)** - Redmond, Washington
 
@@ -41,13 +41,13 @@ My name is Harold Treen. Here's a little bit about what I do.
 
 **Queen's University** - Kingston, Ontario
 
-B.ASc. Computer Engineering with Professional Internship
+B.A.Sc. Computer Engineering with Professional Internship
 
 #### High School
 **Ursula Franklin Academy** - Toronto, Ontario
 
 ### Languages
-**Fluent:** Ruby, Javascript, HTML, CSS, English
+**Fluent:** Ruby, JavaScript, HTML, CSS, English
 
 **Intermediate:** Java
 
