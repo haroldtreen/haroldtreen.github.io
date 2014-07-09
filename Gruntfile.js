@@ -5,7 +5,6 @@ module.exports = function(grunt) {
       server: {
         options: {
           port: 9000, //run on port 9000    
-          base: ['src/html', 'scripts/js', 'styles', 'assets'] 
         }
       }
     },
