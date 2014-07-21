@@ -18,8 +18,11 @@ $(document).ready(function(){
 
 app.trackClicks = function(){
 	$('a.track').on('click', function(event){
+		event.preventDefault();
 		var linkValue = $(this).attr('href');
-		ga('send', 'event', 'Link', 'click', 'linkValue');
+		ga('send', 'event', 'Link', 'click', linkValue, {
+			'hitCallback': function(){ document.location = linkValue }
+		});
 	});
 	$('a.track').removeClass('track').addClass('tracked');
 };
