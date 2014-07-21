@@ -8,8 +8,8 @@ You are looking at it...
 ##### Written with: Javascript, HTML5, CSS, Markdown
 ##### Links:
 
-<a href='https://github.com/haroldtreen/haroldtreen.github.io'><i class="fa fa-github fa-2x icon-sml"></i></a>
-<a href='https://haroldtreen.github.io'><i class="fa fa-globe fa-2x icon-sml"></i></a>
+<a class='track' href='https://github.com/haroldtreen/haroldtreen.github.io'><i class="fa fa-github fa-2x icon-sml"></i></a>
+<a class='track' href='https://haroldtreen.github.io'><i class="fa fa-globe fa-2x icon-sml"></i></a>
 
 ### Solomon Splits
 
@@ -21,9 +21,9 @@ Created in 24 hours for AngelHack Toronto 2014.
 ##### Written with: Ruby on Rails, Javascript, HTML5, CSS
 ##### Links: 
 
-<a href='https://github.com/haroldtreen/Solomon'><i class="fa fa-github fa-2x icon-sml"></i></a>
-<a href='http://solomonsplits.me/'><i class="fa fa-globe fa-2x icon-sml"></i></a>
-<a href='https://twitter.com/solomonsplits'><i class="fa fa-twitter fa-2x icon-sml"></i></a>
+<a class='track' href='https://github.com/haroldtreen/Solomon'><i class="fa fa-github fa-2x icon-sml"></i></a>
+<a class='track' href='http://solomonsplits.me/'><i class="fa fa-globe fa-2x icon-sml"></i></a>
+<a class='track' href='https://twitter.com/solomonsplits'><i class="fa fa-twitter fa-2x icon-sml"></i></a>
 
 ### Phone Addict
 
@@ -40,7 +40,7 @@ Metrics could include:
 ##### Written with: Java (+ Robolectric for android unit tests)
 ##### Links:
 
-<a href='https://github.com/haroldtreen/PhoneAddict'><i class="fa fa-github fa-2x icon-sml"></i></a>
+<a class='track' href='https://github.com/haroldtreen/PhoneAddict'><i class="fa fa-github fa-2x icon-sml"></i></a>
 
 ### BackTrack
 
@@ -54,5 +54,5 @@ The team finished in 3rd place (1000$ prize!)
 ##### Written with: Java
 ##### Links: 
 
-<a href='https://github.com/haroldtreen/BackTrack'><i class="fa fa-github fa-2x icon-sml"></i></a>
+<a class='track' href='https://github.com/haroldtreen/BackTrack'><i class="fa fa-github fa-2x icon-sml"></i></a>
 
