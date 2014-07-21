@@ -67,6 +67,28 @@ p {
   margin-top: 15px;
   margin-bottom: 5px; }
 
+a .icon-sml {
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  border-radius: 20px;
+  margin: 4px 3.33333px;
+  text-align: center;
+  cursor: pointer;
+  color: #ffffff;
+  background-color: #90909a; }
+
+a .icon-lg {
+  width: 120px;
+  height: 120px;
+  line-height: 120px;
+  border-radius: 60px;
+  margin: 12px 10px;
+  text-align: center;
+  cursor: pointer;
+  color: #ffffff;
+  background-color: #90909a; }
+
 .txt {
   font-family: 'Open Sans', sans-serif;
   color: #90909a; }

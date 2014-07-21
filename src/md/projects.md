@@ -6,7 +6,10 @@
 You are looking at it...
 
 ##### Written with: Javascript, HTML5, CSS, Markdown
-##### Github: https://github.com/haroldtreen/haroldtreen.github.io
+##### Links:
+
+<a href='https://github.com/haroldtreen/haroldtreen.github.io'><i class="fa fa-github fa-2x icon-sml"></i></a>
+<a href='https://haroldtreen.github.io'><i class="fa fa-globe fa-2x icon-sml"></i></a>
 
 ### Solomon Splits
 
@@ -16,10 +19,11 @@ Provides couples in the middle of a break-up a fair way of splitting their thing
 Created in 24 hours for AngelHack Toronto 2014.
 
 ##### Written with: Ruby on Rails, Javascript, HTML5, CSS
-##### Site: http://solomonsplits.me/  
-##### Github: https://github.com/haroldtreen/Solomon
-##### Twitter: https://twitter.com/solomonsplits
+##### Links: 
 
+<a href='https://github.com/haroldtreen/Solomon'><i class="fa fa-github fa-2x icon-sml"></i></a>
+<a href='http://solomonsplits.me/'><i class="fa fa-globe fa-2x icon-sml"></i></a>
+<a href='https://twitter.com/solomonsplits'><i class="fa fa-twitter fa-2x icon-sml"></i></a>
 
 ### Phone Addict
 
@@ -34,8 +38,9 @@ Metrics could include:
 - Number of pending notifications when check occured
 
 ##### Written with: Java (+ Robolectric for android unit tests)
-##### Github: https://github.com/haroldtreen/PhoneAddict
+##### Links:
 
+<a href='https://github.com/haroldtreen/PhoneAddict'><i class="fa fa-github fa-2x icon-sml"></i></a>
 
 ### BackTrack
 
@@ -47,7 +52,9 @@ Prototype app built in 24 hours for the Queen's Startup Summit 2013.
 The team finished in 3rd place (1000$ prize!)
 
 ##### Written with: Java
-##### Github: https://github.com/haroldtreen/BackTrack
+##### Links: 
+
+<a href='https://github.com/haroldtreen/BackTrack'><i class="fa fa-github fa-2x icon-sml"></i></a>
 
 
 <script>

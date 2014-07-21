@@ -84,6 +84,26 @@ p {
 	margin-bottom: 5px;
 }
 
+@mixin font-awesome-icon($icon-size) {
+	width: $icon-size;
+	height: $icon-size;
+	line-height: $icon-size;
+	border-radius: $icon-size/2;
+	margin: $icon-size/10 $icon-size/12;
+	text-align: center;
+	cursor: pointer;
+	color: #ffffff;
+	background-color: #90909a;
+}
+
+a .icon-sml {
+	@include font-awesome-icon(40px);
+}
+
+a .icon-lg {
+	@include font-awesome-icon(120px);
+}
+
 .txt {
 	font-family: 'Open Sans', sans-serif;
 	color: $text-color;

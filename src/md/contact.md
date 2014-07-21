@@ -1,11 +1,10 @@
 <h2 class='cntr'>Contact</h2>
 
-### Email: 
-#### <mailto:harold.treen@queensu.ca>
-
-### LinkedIn: 
-#### http://www.linkedin.com/pub/harold-treen/56/148/9a0
-
+<div class="cntr">
+	<a href='http://www.linkedin.com/pub/harold-treen/56/148/9a0'><i class="fa fa-linkedin fa-4x icon-lg"></i></a>
+	<a href='mailto:harold.treen@queensu.ca'><i class="fa fa-envelope fa-4x icon-lg"></i></a>
+	<a href='https://github.com/haroldtreen'><i class="fa fa-github fa-5x icon-lg"></i></a>
+</div>
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
