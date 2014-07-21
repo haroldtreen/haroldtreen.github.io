@@ -1,25 +1,26 @@
 app = {};
 
 app.load = function(section){
-
-	ga('send', 'event', 'Navigation', 'click', section);
+	ga('send', 'pageview', {
+		'title': section 
+	});
 
 	$('.container').fadeOut("normal", function(){
 			$('.container').load("/src/html/" + section + ".html", function(){
-					$('.container').fadeIn('normal');
-					app.trackClicks();
+					$('.container').fadeIn('normal', function(){ app.trackClicks(); });
 			});
 	});
 };
 
 $(document).ready(function(){
+	app.ga = ga;
 	app.load('about');
 });
 
 app.trackClicks = function(){
-	$('a.track').click(function(event){
+	$('a.track').on('click', function(event){
 		var linkValue = $(this).attr('href');
-		ga('send', 'event', 'Link', 'click', linkValue);
+		app.ga('send', 'event', 'Link', 'click', linkValue);
 	});
 	$('a.track').removeClass('track').addClass('tracked');
 };
