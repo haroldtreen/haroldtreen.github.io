@@ -1,7 +1,8 @@
 app = {};
 
 app.load = function(section){
-	console.log(section);
+
+	ga('send', 'Link', 'Navigation', 'click', section);
 
 	$('.container').fadeOut("normal", function(){
 			$('.container').load("/src/html/" + section + ".html", function(){
