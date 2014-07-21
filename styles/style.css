@@ -67,6 +67,9 @@ p {
   margin-top: 15px;
   margin-bottom: 5px; }
 
+a:link {
+  text-decoration: none; }
+
 a .icon-sml {
   width: 40px;
   height: 40px;

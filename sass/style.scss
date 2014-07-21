@@ -84,6 +84,10 @@ p {
 	margin-bottom: 5px;
 }
 
+a:link {
+	text-decoration: none;
+}
+
 @mixin font-awesome-icon($icon-size) {
 	width: $icon-size;
 	height: $icon-size;

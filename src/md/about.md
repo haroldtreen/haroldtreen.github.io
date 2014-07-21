@@ -36,7 +36,6 @@ My name is Harold Treen. Here's a little bit about what I do.
 
 ### Education
 
-
 #### University
 
 **Queen's University** - Kingston, Ontario
