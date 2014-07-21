@@ -13,14 +13,13 @@ app.load = function(section){
 };
 
 $(document).ready(function(){
-	app.ga = ga;
 	app.load('about');
 });
 
 app.trackClicks = function(){
 	$('a.track').on('click', function(event){
 		var linkValue = $(this).attr('href');
-		app.ga('send', 'event', 'Link', 'click', linkValue);
+		ga('send', 'event', 'Link', 'click', 'linkValue');
 	});
 	$('a.track').removeClass('track').addClass('tracked');
 };
