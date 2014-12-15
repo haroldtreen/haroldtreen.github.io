@@ -10,28 +10,39 @@ My name is Harold Treen. Here's a little bit about what I do.
 
 #### Pivotal Labs
 
-**Agile Engineer Intern** - Toronto, Ontario
+**Software Engineer Intern** - Toronto, Ontario
 
-- Backend API development using **Ruby on Rails**, **Postgres** and **MySQL**
-- Frontend web development using **AngularJS**, **jQuery**, **HTML5** and **CSS**.
-- Strong emphasis on **TDD** using **Jasmine** and **RSpec**, resulting in 95%+ code coverage.
+- Backend API development for a 20,000+ user education platform using Ruby on Rails, Postgres and MySQL. 
+- Frontend web development for a 1,000,000+ user early learning website using AngularJS, jQuery, HTML5 and CSS.
+- Strong emphasis on TDD using Jasmine and RSpec, resulting in 99%+ code coverage (1600+ tests running in under 2 minutes).
+
 
 
 #### Microsoft Corporation
 
 **SDET Intern (Microsoft Office Division)** - Redmond, Washington
 
-- Lead SDET for the "Headers & Footers" feature of the **Word Web Apps**.
-- Developed tool for comparing outputs from various document converters.
+- Lead SDET for the "Headers & Footers" feature of the Word Web Apps.
+- Wrote test automation to verify consistency of header & footer content between the desktop and web versions of Word.
+- Reduced time for document formatting tests by 50% by automating comparisons of multiple documents.
+
 
 
 #### Xtreme Labs Inc.
 **Agile Test Engineer Intern** - Toronto, Ontario
 
-- Created first set of internal tools for **Android** test automation.
-- Discovered method for installing/removing builds in parallel, reducing device prep times by over 4x.
-- Wrote the first android automation scripts used internally, reducing the reliance on manual testing.
-- Parallelized automation tests, allowing for efficient testing with multiple devices.
+- Implemented first set of internal tools and scripts for Android test automation using the Robotium test framework.
+- Improved build install/test times by 30% by developing tools for parallelizing install/test tasks for up to 20 devices. 
+- Automation work featured on the company website.
+
+
+
+#### Ladies Learning Code
+**Workshop Mentor** - Toronto, Ontario
+
+- Canada wide organization that works to get more women involved in technology.
+- Helped mentor workshops covering a variety of topics including: Processing, Ruby, Wordpress, Javascript, Responsive Web Design, CSS and HTML.
+
 
 
 ### Education
