@@ -56,11 +56,7 @@ B.A.Sc. Computer Engineering with Professional Internship
 #### High School
 **Ursula Franklin Academy** - Toronto, Ontario
 
-### Languages
-**Fluent:** Ruby, JavaScript, HTML, CSS, English
-
-**Intermediate:** Java
-
-**Basic:** C++, C, Matlab, French
+### Technologies
+Ruby, JavaScript, HTML, CSS, Java, C++, C, Matlab
 
 
