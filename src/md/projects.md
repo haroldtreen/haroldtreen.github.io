@@ -1,6 +1,6 @@
 <h2 class='cntr'>Projects</h2>
 
-### Autonmous Quadcopter
+### Autonomous Quadcopter
 
 #### Description:
 My 4th year project at Queen's is to develop software for a Quadcoptor which will allow it to autonomously follow the contours of a room. 
