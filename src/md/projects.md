@@ -1,6 +1,6 @@
 <h2 class='cntr'>Projects</h2>
 
-### Autonmous Room Navigation Project
+### Autonmous Quadcopter
 
 #### Description:
 My 4th year project at Queen's is to develop software for a Quadcoptor which will allow it to autonomously follow the contours of a room. We have been working with the ARDrone Quadcoptor and ROS libraries.
@@ -8,7 +8,7 @@ My 4th year project at Queen's is to develop software for a Quadcoptor which wil
 ##### Written with: C++, C (Arduino)
 
 
-### Bike Share Toronto Hackathon
+### Cycling Vest
 
 #### Description:
 In 2014 I participated in the Bike Share Toronto Hackathon where I worked as the Android Developer for "Team Locus". 
