@@ -3,7 +3,9 @@
 ### Autonmous Quadcopter
 
 #### Description:
-My 4th year project at Queen's is to develop software for a Quadcoptor which will allow it to autonomously follow the contours of a room. We have been working with the ARDrone Quadcoptor and ROS libraries.
+My 4th year project at Queen's is to develop software for a Quadcoptor which will allow it to autonomously follow the contours of a room. 
+
+We have been working with the ARDrone Quadcoptor and ROS libraries.
 
 ##### Written with: C++, C (Arduino)
 
@@ -12,6 +14,7 @@ My 4th year project at Queen's is to develop software for a Quadcoptor which wil
 
 #### Description:
 In 2014 I participated in the Bike Share Toronto Hackathon where I worked as the Android Developer for "Team Locus". 
+
 Our project was a vest that could provide directions to cyclists using haptic feedback. This would make it easier for cyclists to navigate a city without the safety risks of using a phone while biking.
 
 ##### Written with: Java, C (Arduino)
