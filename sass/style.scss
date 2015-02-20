@@ -1,5 +1,5 @@
 $nav-color: #3498db;
-$text-color: #90909a;
+$text-color: #808080;
 
 body {
 	background-color: #ffffff;
@@ -86,6 +86,17 @@ p {
 
 a:link {
 	text-decoration: none;
+}
+
+.container a {
+	text-decoration: none;
+	cursor: pointer;
+	font-weight: bolder;
+	color: $text-color - 25;
+}
+
+.container a:hover {
+	color: $text-color + 25;
 }
 
 @mixin font-awesome-icon($icon-size) {

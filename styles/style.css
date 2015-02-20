@@ -51,16 +51,16 @@ h2, h3, h4, h5 {
   margin: 15px 0px 5px 0px; }
 
 h2 {
-  color: #40404a;
+  color: #303030;
   font-size: 40px; }
 
 h3 {
   margin-top: 20px;
-  color: #5e5e68;
+  color: #4e4e4e;
   font-size: 30px; }
 
 h4 {
-  color: #7c7c86;
+  color: #6c6c6c;
   font-size: 20px; }
 
 p {
@@ -69,6 +69,15 @@ p {
 
 a:link {
   text-decoration: none; }
+
+.container a {
+  text-decoration: none;
+  cursor: pointer;
+  font-weight: bolder;
+  color: #676767; }
+
+.container a:hover {
+  color: #999999; }
 
 a .icon-sml {
   width: 40px;
@@ -94,7 +103,7 @@ a .icon-lg {
 
 .txt {
   font-family: 'Open Sans', sans-serif;
-  color: #90909a; }
+  color: #808080; }
 
 .cntr {
   width: 100%;
