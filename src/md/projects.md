@@ -3,11 +3,23 @@
 ### Autonomous Quadcopter
 
 #### Description:
-My 4th year project at Queen's is to develop software for a Quadcoptor which will allow it to autonomously follow the contours of a room. 
+My 4th year project at Queen's is to develop software for a Quadcoptor which will allow it to autonomously follow the contours of a room. The project received honourable mention on demo day.
 
 We have been working with the ARDrone Quadcoptor and ROS libraries.
 
 ##### Written with: C++, C (Arduino)
+
+
+### Reedly
+
+#### Description:
+Reedly was a project I developed and lead for the Queen's Startup Summit in 2015. The goal was to create a website where users could curate personalized ebooks using RSS feeds and web links. By the end of the summit we were the only team to have fully developed a working MVP. 
+
+After 48 hours we built a site which allowed users to follow their favourite RSS feeds, groups articles into "books" and publish their books to a kindle.
+
+##### Written with: Ruby on Rails, Javascript, HTML5, CSS, jQuery
+##### Links:
+<a class='track' href='https://github.com/haroldtreen/reedly'><i class="fa fa-github fa-2x icon-sml"></i></a>
 
 
 ### Cycling Vest
@@ -33,6 +45,7 @@ You are looking at it...
 <a class='track' href='https://github.com/haroldtreen/haroldtreen.github.io'><i class="fa fa-github fa-2x icon-sml"></i></a>
 <a class='track' href='https://haroldtreen.github.io'><i class="fa fa-globe fa-2x icon-sml"></i></a>
 
+
 ### Solomon Splits
 
 #### Description:
@@ -46,6 +59,7 @@ Created in 24 hours for AngelHack Toronto 2014.
 <a class='track' href='https://github.com/haroldtreen/Solomon'><i class="fa fa-github fa-2x icon-sml"></i></a>
 <a class='track' href='http://solomonsplits.me/'><i class="fa fa-globe fa-2x icon-sml"></i></a>
 <a class='track' href='https://twitter.com/solomonsplits'><i class="fa fa-twitter fa-2x icon-sml"></i></a>
+
 
 ### Phone Addict
 
@@ -63,6 +77,7 @@ Metrics could include:
 ##### Links:
 
 <a class='track' href='https://github.com/haroldtreen/PhoneAddict'><i class="fa fa-github fa-2x icon-sml"></i></a>
+
 
 ### BackTrack
 
