@@ -1,11 +1,4 @@
-.DS_Store
-log/**/*
-tmp/**/*
-bin/*
-vendor/gems/*
-!vendor/gems/cache/
-.sass-cache/*
-db/*.db
-.*.sw*
-
-/node_modules
+_site
+.sass-cache
+.jekyll-metadata
+node_modules
