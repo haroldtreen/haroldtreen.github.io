@@ -15,7 +15,7 @@ url: "http://haroldtreen.com" # the base hostname & protocol for your site
 twitter_username: haroldtreen
 github_username:  haroldtreen
 
-include: ['js/']
+include: ['js/', 'show-code/']
 
 # Build settings
 markdown: kramdown
