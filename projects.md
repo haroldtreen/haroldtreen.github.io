@@ -22,8 +22,8 @@ Reedly was a project I developed and lead for the Queen's Startup Summit in 2015
 After 48 hours we built a site which allowed users to follow their favourite RSS feeds, groups articles into "books" and publish their books to a kindle.
 
 ##### Written with: Ruby on Rails, Javascript, HTML5, CSS, jQuery
-##### Links:
-<a class='track' href='https://github.com/haroldtreen/reedly'><i class="fa fa-github fa-2x icon-sml"></i></a>
+<!-- ##### Links:
+<a class='track' href='https://github.com/haroldtreen/reedly'><i class="fa fa-github fa-2x icon-sml"></i></a> -->
 
 
 ### Cycling Vest
@@ -34,8 +34,8 @@ In 2014 I participated in the Bike Share Toronto Hackathon where I worked as the
 Our project was a vest that could provide directions to cyclists using haptic feedback. This would make it easier for cyclists to navigate a city without the safety risks of using a phone while biking.
 
 ##### Written with: Java, C (Arduino)
-##### Links:
-<a class='track' href='https://github.com/pearlchen/hackbikeshareTO'><i class="fa fa-github fa-2x icon-sml"></i></a>
+<!-- ##### Links:
+<a class='track' href='https://github.com/pearlchen/hackbikeshareTO'><i class="fa fa-github fa-2x icon-sml"></i></a> -->
 
 
 ### haroldtreen.github.io
@@ -44,10 +44,10 @@ Our project was a vest that could provide directions to cyclists using haptic fe
 You are looking at it...
 
 ##### Written with: Javascript, HTML5, CSS, Markdown
-##### Links:
+<!-- ##### Links:
 
 <a class='track' href='https://github.com/haroldtreen/haroldtreen.github.io'><i class="fa fa-github fa-2x icon-sml"></i></a>
-<a class='track' href='https://haroldtreen.github.io'><i class="fa fa-globe fa-2x icon-sml"></i></a>
+<a class='track' href='https://haroldtreen.github.io'><i class="fa fa-globe fa-2x icon-sml"></i></a> -->
 
 
 ### Solomon Splits
@@ -58,11 +58,11 @@ Provides couples in the middle of a break-up a fair way of splitting their thing
 Created in 24 hours for AngelHack Toronto 2014.
 
 ##### Written with: Ruby on Rails, Javascript, HTML5, CSS
-##### Links:
+<!-- ##### Links:
 
 <a class='track' href='https://github.com/haroldtreen/Solomon'><i class="fa fa-github fa-2x icon-sml"></i></a>
 <a class='track' href='http://solomonsplits.me/'><i class="fa fa-globe fa-2x icon-sml"></i></a>
-<a class='track' href='https://twitter.com/solomonsplits'><i class="fa fa-twitter fa-2x icon-sml"></i></a>
+<a class='track' href='https://twitter.com/solomonsplits'><i class="fa fa-twitter fa-2x icon-sml"></i></a> -->
 
 
 ### Phone Addict
@@ -78,9 +78,9 @@ Metrics could include:
 - Number of pending notifications when check occured
 
 ##### Written with: Java (+ Robolectric for android unit tests)
-##### Links:
+<!-- ##### Links:
 
-<a class='track' href='https://github.com/haroldtreen/PhoneAddict'><i class="fa fa-github fa-2x icon-sml"></i></a>
+<a class='track' href='https://github.com/haroldtreen/PhoneAddict'><i class="fa fa-github fa-2x icon-sml"></i></a> -->
 
 
 ### BackTrack
@@ -93,6 +93,6 @@ Prototype app built in 24 hours for the Queen's Startup Summit 2013.
 The team finished in 3rd place (1000$ prize!)
 
 ##### Written with: Java
-##### Links:
+<!-- ##### Links:
 
-<a class='track' href='https://github.com/haroldtreen/BackTrack'><i class="fa fa-github fa-2x icon-sml"></i></a>
+<a class='track' href='https://github.com/haroldtreen/BackTrack'><i class="fa fa-github fa-2x icon-sml"></i></a> -->
