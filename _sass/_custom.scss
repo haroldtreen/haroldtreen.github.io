@@ -1,6 +1,7 @@
 #content {
 	background-color: $background-color;
 	padding-top: 30px;
+	padding-bottom: 20px;
 	border-radius: 5px;
 }
 
@@ -26,6 +27,31 @@
 		text-align: center;
 		border: 3px solid $grey-color;
 		border-radius: 100px;
+	}
+}
+
+#contact--links {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+
+	svg {
+		width: 100px;
+		height: 100px;
+	}
+}
+
+.contact--link {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+
+	svg {
+		fill: rgb(130, 130, 130);
+	}
+
+	h2 {
+		text-align: center;
 	}
 }
 

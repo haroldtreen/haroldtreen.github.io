@@ -4,14 +4,25 @@ title: Contact
 permalink: /contact/
 ---
 
-<div class="cntr">
-	<a class='track' href='http://www.linkedin.com/pub/harold-treen/56/148/9a0'>
-		<i class="fa fa-linkedin fa-4x icon-lg"></i>
-	</a>
-	<a class='track' href='mailto:harold.treen@queensu.ca'>
-		<i class="fa fa-envelope fa-4x icon-lg"></i>
-	</a>
-	<a class='track' href='https://github.com/haroldtreen'>
-		<i class="fa fa-github fa-5x icon-lg"></i>
-	</a>
+<div id="contact--links">
+    <div class="contact--link">
+        <h2>Github</h2>
+        <a href='https://github.com/haroldtreen'>
+            {% include icon-github.svg %}
+        </a>
+    </div>
+
+    <div class="contact--link">
+        <h2>LinkedIn</h2>
+        <a href='https://ca.linkedin.com/in/haroldtreen'>
+            {% include icon-linkedin.svg %}
+        </a>
+    </div>
+
+    <div class="contact--link">
+        <h2>Email</h2>
+        <a href='mailto:haroldtreen@gmail.com'>
+            {% include icon-envolope.svg %}
+        </a>
+    </div>
 </div>
