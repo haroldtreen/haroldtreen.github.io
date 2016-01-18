@@ -4,11 +4,12 @@
 	border-radius: 5px;
 }
 
-#show-code {
+#sc-container {
 	background-color: #000;
 	// z-index: -1;
 }
 
-#sc-background {
+#sc-container #sc-background {
 	border-radius: 0px;
+    font-size: 40px;
 }
