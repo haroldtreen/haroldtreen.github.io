@@ -12,7 +12,7 @@
 
 #sc-container #sc-background {
 	border-radius: 0px;
-	font-size: 40px;
+	font-size: 30px;
 }
 
 #home--info {
@@ -45,6 +45,7 @@
 	display: flex;
 	flex-direction: column;
 	align-items: center;
+    font-weight: bold;
 
 	svg {
 		fill: rgb(130, 130, 130);
@@ -69,4 +70,13 @@ nav.site-nav {
 
 .home--page-link {
 	font-size: 24px;
+}
+
+.carousel--item {
+    max-height: 300px;
+    margin: 0px 10px;
+}
+
+.slick {
+    margin: 0px 50px;
 }

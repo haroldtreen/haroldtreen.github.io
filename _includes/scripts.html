@@ -1,3 +1,26 @@
+{% if page.carousel %}
+<script src="{{ "/js/jquery-2.2.0.min.js" | prepend: site.baseurl }}"></script>
+<script src="{{ "/js/slick.min.js" | prepend: site.baseurl }}"></script>
+<script>
+// Initialise Carousels
+$('.slick').each(function(item){
+    $(this).slick({
+        dots: true,
+        infinite: true,
+        speed: 300,
+        slidesToShow: 1,
+        centerMode: true,
+        variableWidth: true,
+    });
+});
+</script>
+{% endif %}
+
 <script src="{{ "/show-code/build/show-code.min.js" | prepend: site.baseurl }}"></script>
 <script src="{{ "/js/prism.js" | prepend: site.baseurl }}"></script>
-<script>window.showCode()</script>
+<script>
+window.addEventListener('load', function() {
+    window.showCode();
+    window.Prism.highlightAll();
+});
+</script>
