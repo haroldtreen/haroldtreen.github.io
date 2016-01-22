@@ -107,19 +107,6 @@ My favorite mode of transportation. I've also enjoy building/fixing bikes. My fi
 
 I'm a host and surfer on [Couchsurfing](https://www.couchsurfing.com/people/haroldtreen). I enjoy solo backpacking, meeting random people and making things up as I go.
 
-So far visited 14 countries:
+Here's a map of countries I've visited:
 
-- Austria
-- Canada
-- China
-- Czech Republic
-- Germany
-- Italy
-- Japan
-- Netherlands
-- Singapore
-- Switzerland
-- Thailand
-- United Kingdom
-- United States
-- Vatican City State
+![Countries I've visited](../assets/countries-visited.jpg)
