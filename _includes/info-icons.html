@@ -1,0 +1,19 @@
+<div class="info-icons">
+
+{% if include.github %}
+<a href='https://github.com/{{ include.github }}'><i class="fa fa-github fa-2x"></i></a>
+{% endif %}
+
+{% if include.web %}
+<a href='{{ include.web }}'><i class="fa fa-globe fa-2x"></i></a>
+{% endif %}
+
+{% if include.youtube %}
+<a href="https://youtube.com/{{ include.youtube }}"><i class="fa fa-youtube fa-2x"></i></a>
+{% endif %}
+
+{% if include.twitter %}
+<a href="https://twitter.com/{{ include.twitter }}"><i class="fa fa-twitter fa-2x"></i></a>
+{% endif %}
+
+</div>
