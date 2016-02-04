@@ -73,10 +73,6 @@ nav.site-nav {
     padding: 5px 8px;
 }
 
-.grid--item {
-    max-height: 200px;
-}
-
 .carousel--item {
     img {
         max-height: 300px;
@@ -95,5 +91,19 @@ nav.site-nav {
     a {
         color: $grey-color-dark;
         margin-right: 10px;
+    }
+}
+
+.post-content {
+    hr {
+        margin: 20px 0px;
+    }
+}
+
+.fa-npm {
+    svg {
+        fill: $grey-color-dark;
+        height: 100%;
+        width: 55px;
     }
 }

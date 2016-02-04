@@ -16,4 +16,8 @@
 <a href="https://twitter.com/{{ include.twitter }}"><i class="fa fa-twitter fa-2x"></i></a>
 {% endif %}
 
+{% if include.npm %}
+<a href="https://www.npmjs.com/{{ include.npm }}"><span class="fa fa-npm fa-2x">{% include icon-npm.svg %}</span></a>
+{% endif %}
+
 </div>
