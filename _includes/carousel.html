@@ -1,7 +1,10 @@
 {% if page.carousel %}
 <div class="slick">
-    {% for slides in page.carousel[include.name] %}
-        <div><img class="carousel--item" src="/assets/{{ include.name }}/{{ slides.src }}"></div>
+    {% for slide in page.carousel[include.name] %}
+        <div class='carousel--item'>
+            <h4>{{ slide.slide.caption }}</h4>
+            <img src="/assets/{{ include.name }}/{{ slide.slide.src }}">
+        </div>
     {% endfor %}
 </div>
 {% endif %}

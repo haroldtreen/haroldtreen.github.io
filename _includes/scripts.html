@@ -17,10 +17,7 @@ $('.slick').each(function(item){
 {% endif %}
 
 <script src="{{ "/show-code/build/show-code.min.js" | prepend: site.baseurl }}"></script>
-<script src="{{ "/js/prism.js" | prepend: site.baseurl }}"></script>
 <script>
-window.addEventListener('load', function() {
     window.showCode();
-    window.Prism.highlightAll();
-});
 </script>
+<script src="{{ "/js/prism.js" | prepend: site.baseurl }}"></script>
