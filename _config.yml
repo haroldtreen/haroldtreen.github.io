@@ -19,3 +19,4 @@ include: ['js/', 'show-code/build/']
 
 # Build settings
 markdown: kramdown
+permalink: pretty
