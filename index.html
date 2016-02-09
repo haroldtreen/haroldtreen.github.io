@@ -5,15 +5,22 @@
 <div class="home">
 
     <div id="home--info">
-        <h1>Harold Treen</h1>
         <img id="profile" src="{{ "/assets/profile.jpg" | prepend: site.baseurl }}">
     </div>
 
-    <div class="page-list">
-        {% for page in site.pages %}
-            {% if page.title %}
-                <a class="home--page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-            {% endif %}
+    <h2>Recent Posts</h2>
+
+    <ul class="post-list">
+        {% for post in site.posts %}
+        <li>
+            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+            <h2>
+                <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            </h2>
+        </li>
         {% endfor %}
-    </div>
+    </ul>
+
+    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
 </div>

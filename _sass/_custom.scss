@@ -23,7 +23,7 @@
 	img {
 		height: 200px;
 		width: 200px;
-		margin-bottom: 40px;
+		margin-bottom: 10px;
 		text-align: center;
 		border: 3px solid $grey-color;
 		border-radius: 100px;
@@ -66,11 +66,6 @@ nav.site-nav {
 	flex-wrap: wrap;
 	justify-content: space-around;
 	margin-bottom: 20px;
-}
-
-.home--page-link {
-	font-size: 24px;
-    padding: 5px 8px;
 }
 
 .carousel--item {
