@@ -4,6 +4,17 @@ title: Projects
 permalink: /projects/
 ---
 
+### **EpubPress**
+
+- Allows you to create custom ebooks from your favorite sites/articles/blogs.
+- Chrome extension to easily source content from your open tabs.
+- The evolution of [Reedly](#reedly)!
+
+##### Written with: *Javascript, CSS, HTML, Chrome API, AWS*
+{% include info-icons.html web="http://epub.press" github="haroldtreen/epub-press-chrome" %}
+
+---
+
 ### **show-code**
 
 - UI library for making an HTML containers background the HTML from that container.
