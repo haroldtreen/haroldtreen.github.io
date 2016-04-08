@@ -11,7 +11,7 @@ permalink: /projects/
 - The evolution of [Reedly](#reedly)!
 
 ##### Written with: *Javascript, CSS, HTML, Chrome API, AWS*
-{% include info-icons.html web="http://epub.press" github="haroldtreen/epub-press-chrome" %}
+{% include info-icons.html web="http://epub.press" github="haroldtreen/epub-press-chrome" twitter="Epub_Press" chrome="epubpress/pnhdnpnnffpijjbnhnipkehhibchdeok"%}
 
 ---
 
