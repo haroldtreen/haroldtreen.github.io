@@ -16,6 +16,7 @@ twitter_username: haroldtreen
 github_username:  haroldtreen
 
 include: ['js/', 'show-code/build/']
+exclude: ['node_modules']
 
 # Build settings
 markdown: kramdown
