@@ -6,12 +6,23 @@ permalink: /projects/
 
 ### **EpubPress**
 
-- Allows you to create custom ebooks from your favorite sites/articles/blogs.
+- Service that allows you to create custom ebooks from your favorite sites/articles/blogs.
 - Chrome extension to easily source content from your open tabs.
+- Other libraries/clients in development.
 - The evolution of [Reedly](#reedly)!
 
-##### Written with: *Javascript, CSS, HTML, Chrome API, Google Compute Engine, Docker*
-{% include info-icons.html web="https://epub.press" github="haroldtreen/epub-press-chrome" twitter="Epub_Press" chrome="epubpress/pnhdnpnnffpijjbnhnipkehhibchdeok"%}
+##### Written with: *Javascript, CSS, HTML, Chrome API, Google Compute Engine, NodeJS*
+{% include info-icons.html web="https://epub.press" github="haroldtreen/epub-press-clients" twitter="Epub_Press" chrome="epubpress/pnhdnpnnffpijjbnhnipkehhibchdeok" npm="package/epub-press-js" %}
+
+---
+
+### **query-nownownow**
+
+- Small web-scraper for searching for people on http://nownownow.com.
+- Built out of a hope to quickly find nearby people up to interesting things in the **now**.
+
+##### Written with: *NodeJS, Javascript*
+{% include info-icons.html github="haroldtreen/query-nownownow" npm="package/query-nownownow" %}
 
 ---
 
