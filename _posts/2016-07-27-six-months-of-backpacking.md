@@ -15,13 +15,6 @@ Setting out with only a small backpack and visiting everywhere as cheaply as pos
 
 I wanted to visit as many countries as possible. My feeling was that the more places I visited, the more legitimate of a backpacker I would be.
 
-```js
-function bestTraveler(travelerOne, travelerTwo) {
-	return travelerOne.numCountries > travelerTwo.numCountries ?
-		travelerOne : travelerTwo;
-}
-```
-
 I also wanted to go somewhere I didn't know a lot about. South America seemed like a good candidate.
 
 The plan was simple: *Colombia -> Ecuador -> Peru -> Bolivia -> Chile -> Argentina -> Brazil*
