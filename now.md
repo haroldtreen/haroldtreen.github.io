@@ -4,6 +4,12 @@ title: Now
 permalink: /now/
 ---
 
+### August 11th, 2016
+- Working on [Dooly](http://dooly.ai).
+- Catching up with friends in Vancouver.
+- Making EpubPress useable by a variety of [clients](https://github.com/haroldtreen/epub-press-clients).
+
+
 ### July 24th, 2016
 - Completed the Salkantay trek!
 - Working on various projects in Cusco while awaiting my trip to Vancouver.
