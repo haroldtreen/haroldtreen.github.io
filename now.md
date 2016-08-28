@@ -4,6 +4,13 @@ title: Now
 permalink: /now/
 ---
 
+### August 27th, 2016
+- Visiting friends/family in Toronto 👫.
+- Contracting and working on side projects 💻.
+- Wearing a wider variety of clothes then I was able to while travelling 👔.
+- Cooking again and not eating at restaurants non-stop 🍲.
+- Working my way through an Indie Coffee Passport ☕️.
+
 ### August 11th, 2016
 - Working on [Dooly](http://dooly.ai).
 - Catching up with friends in Vancouver.
