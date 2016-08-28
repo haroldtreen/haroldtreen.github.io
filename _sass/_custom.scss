@@ -6,14 +6,18 @@
 }
 
 #sc-container {
-	background-color: #000;
+	background-color: #1e1e1e;
 	// z-index: -1;
 }
 
 #sc-container #sc-background {
 	border-radius: 0px;
 	font-size: 25px;
-	opacity: 0.35;
+	padding: 2px;
+}
+
+#sc-background-container {
+	opacity: 0.40;
 }
 
 #home--info {
@@ -72,6 +76,7 @@ nav.site-nav {
 .carousel--item {
     img {
         max-height: 300px;
+		border-radius: 5px;
     }
     text-align: center;
     margin: 0px 10px;

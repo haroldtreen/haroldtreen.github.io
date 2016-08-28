@@ -36,7 +36,7 @@ pre[class*="language-"] {
 }
 
 code[class*="language-"] {
-	background: black;
+	background: #1e1e1e;
 	color: white;
 	box-shadow: -.3em 0 0 .3em black, .3em 0 0 .3em black;
 }
@@ -116,4 +116,3 @@ code[class*="language-"] {
 .token.deleted {
 	color: red;
 }
-
