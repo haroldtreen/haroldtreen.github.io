@@ -1,28 +1,28 @@
 ---
-layout: default
+layout: page
 title: Contact
 permalink: /contact/
 ---
 
 <div id="contact--links">
-    <div class="contact--link">
-        <h2>Github</h2>
-        <a href='https://github.com/haroldtreen'>
-            {% include icon-github.svg %}
-        </a>
-    </div>
+	<div class="contact--link">
+		<a href='https://github.com/haroldtreen'>
+			{% include icon-github.svg %}
+		</a>
+		<h3>Github</h3>
+	</div>
 
-    <div class="contact--link">
-        <h2>LinkedIn</h2>
-        <a href='https://ca.linkedin.com/in/haroldtreen'>
-            {% include icon-linkedin.svg %}
-        </a>
-    </div>
+	<div class="contact--link">
+		<a href='https://ca.linkedin.com/in/haroldtreen'>
+			{% include icon-linkedin.svg %}
+		</a>
+		<h3>LinkedIn</h3>
+	</div>
 
-    <div class="contact--link">
-        <h2>Email</h2>
-        <a href='mailto:haroldtreen@gmail.com'>
-            {% include icon-envolope.svg %}
-        </a>
-    </div>
+	<div class="contact--link">
+		<a href='mailto:haroldtreen@gmail.com'>
+			{% include icon-envolope.svg %}
+		</a>
+		<h3>Email</h3>
+	</div>
 </div>

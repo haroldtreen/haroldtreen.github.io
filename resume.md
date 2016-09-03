@@ -1,10 +1,8 @@
 ---
-layout: default
+layout: page
 title: Resume
 permalink: /resume/
 ---
-
-# Resume
 
 ![Resume](../assets/HaroldTreen_Resume.jpg)
 
