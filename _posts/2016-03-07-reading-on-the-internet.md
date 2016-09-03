@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Reading on the internet - before and after"
+title:  "Reading on the internet - before and after 📚"
 categories: epub-press update
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Jekyll Migration"
+title:  "Jekyll Migration 🔬"
 categories: site update
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "EpubPress for Chrome (Alpha)"
+title:  "EpubPress for Chrome (Alpha) 📖"
 categories: epub-press update
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Six Months Of Backpacking"
+title: "Six Months Of Backpacking 🎒"
 categories: travel south-america
 ---
 
