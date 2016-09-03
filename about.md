@@ -27,6 +27,17 @@ My name is Harold Treen. Here's a little bit about what I do.
 
 ## For Work
 
+### Contracting
+Currently, I'm contracting remotely for some awesome startups:
+
+**Dooly**  
+Notes that talk to all your services ([http://dooly.ai](http://dooly.ai))
+
+**Readme**  
+Beautiful documentation made easy ([http://readme.io](http://readme.io))
+
+### Internships
+
 During my time in school, I had the opportunity to work at some fantastic companies:
 
 **Mobify**  
@@ -41,7 +52,8 @@ SDET Intern (Microsoft Office Division) - Redmond, Washington
 **Xtreme Labs Inc.**  
 Agile Test Engineer Intern - Toronto, Ontario
 
-More information can be found on my [resume](/resume).
+#### *More information can be found on my [resume](/resume).*
+
 
 ## For School
 
