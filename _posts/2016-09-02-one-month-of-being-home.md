@@ -64,7 +64,7 @@ Not. At. All.
 
 So far I haven't done a great job at selling home. So let me clarify:
 
-**All these things have developer while being away.**
+**All these things have developed while being away.**
 
 I'm overly excited about seeing people because I've been gone for so long.  
 Conversations are super high level because I fell out of touch.  
