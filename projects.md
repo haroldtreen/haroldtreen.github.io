@@ -2,6 +2,26 @@
 layout: page
 title: Projects
 permalink: /projects/
+urls:
+    npm: 'https://www.npmjs.com/package/<>'
+    github: 'https://github.com/<>'
+    web: '<>'
+    youtube: 'https://youtube.com/<>'
+    twitter: 'https://twitter.com/<>'
+    chrome: 'https://chrome.google.com/webstore/detail/<>'
+badges:
+    npm: ['npm/v/<>', 'npm/dt/<>']
+    chrome: ['chrome-web-store/v/<>', 'chrome-web-store/d/<>', 'chrome-web-store/rating/<>']
+    github: ['github/stars/<>']
+    twitter: ['twitter/follow/<>']
+icons:
+    npm: 'fa-npm'
+    github: 'fa-github'
+    web: 'fa-globe'
+    youtube: 'fa-youtube'
+    twitter: 'fa-twitter'
+    chrome: 'fa-chrome'
+services: ['web', 'npm', 'chrome', 'youtube', 'github', 'twitter']
 ---
 
 ### **EpubPress**
@@ -12,7 +32,7 @@ permalink: /projects/
 - The evolution of [Reedly](#reedly)!
 
 ##### Written with: *Javascript, CSS, HTML, Chrome API, Google Compute Engine, NodeJS*
-{% include info-icons.html web="https://epub.press" github="haroldtreen/epub-press-clients" twitter="Epub_Press" chrome="epubpress/pnhdnpnnffpijjbnhnipkehhibchdeok" npm="package/epub-press-js" %}
+{% include info-icons.html web="https://epub.press" github="haroldtreen/epub-press-clients" twitter="Epub_Press" chrome="epubpress/pnhdnpnnffpijjbnhnipkehhibchdeok" npm="epub-press-js" %}
 
 ---
 
@@ -22,7 +42,7 @@ permalink: /projects/
 - Built out of a hope to quickly find nearby people up to interesting things in the **now**.
 
 ##### Written with: *NodeJS, Javascript*
-{% include info-icons.html github="haroldtreen/query-nownownow" npm="package/query-nownownow" %}
+{% include info-icons.html github="haroldtreen/query-nownownow" npm="query-nownownow" %}
 
 ---
 
@@ -32,7 +52,7 @@ permalink: /projects/
 - You can see it working on every page of this site!
 
 ##### Written with: *Javascript, CSS, HTML*
-{% include info-icons.html web="http://haroldtreen.github.io/show-code" github="haroldtreen/show-code" npm="package/show-code" %}
+{% include info-icons.html web="https://haroldtreen.github.io/show-code" github="haroldtreen/show-code" npm="show-code" %}
 
 ---
 
@@ -55,7 +75,7 @@ permalink: /projects/
 
 ##### Written with: *Javascript, NodeJS*
 
-{% include info-icons.html github="mobify/readmeio-sync" npm="packages/readmeio-sync" %}
+{% include info-icons.html github="mobify/readmeio-sync" npm="readmeio-sync" %}
 
 ---
 
@@ -91,7 +111,7 @@ permalink: /projects/
 - **Our project received 3rd place at the hackathon.**
 
 ##### Written with: *Java, C (Arduino)*
-{% include info-icons.html twitter="PearlChen/status/501558655524044800" %}
+{% include info-icons.html %}
 
 ---
 

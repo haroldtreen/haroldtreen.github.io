@@ -86,19 +86,29 @@ nav.site-nav {
     margin: 0px 50px;
 }
 
-.info-icons {
-    margin-bottom: 10px;
-
-    a {
-        color: $grey-color-dark;
-        margin-right: 10px;
-    }
-}
 
 .post-content {
     hr {
         margin: 20px 0px;
     }
+}
+
+.info-icons > a{
+    text-decoration: none;
+    color: $grey-color-dark;
+    margin-right: 10px;
+}
+
+.info-badges {
+    display: flex;
+    flex-wrap: wrap;
+    width: 90%;
+    margin-bottom: 15px;
+    a { text-decoration: none; }
+}
+
+.badge {
+    padding: 0px 10px 5px 0px;
 }
 
 .fa-npm {

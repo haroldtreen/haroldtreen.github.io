@@ -1,27 +1,27 @@
+<div class="info-badges">
+    {% for service in page.services %}
+        {% if include[service] && page.badges[service] %}
+            {% for badge in page.badges[service] %}
+                {% assign repl = include[service] %}
+                <a class="badge" href='{{ page.urls[service] | replace: "<>", repl }}'>
+                    <img alt='{{ service }}' src='https://img.shields.io/{{ badge | replace: "<>", repl }}.svg?maxAge=5592000' />
+                </a>
+            {% endfor %}
+        {% endif %}
+    {% endfor %}
+</div>
+
 <div class="info-icons">
-
-{% if include.github %}
-<a href='https://github.com/{{ include.github }}'><i class="fa fa-github fa-2x"></i></a>
-{% endif %}
-
-{% if include.web %}
-<a href='{{ include.web }}'><i class="fa fa-globe fa-2x"></i></a>
-{% endif %}
-
-{% if include.youtube %}
-<a href="https://youtube.com/{{ include.youtube }}"><i class="fa fa-youtube fa-2x"></i></a>
-{% endif %}
-
-{% if include.twitter %}
-<a href="https://twitter.com/{{ include.twitter }}"><i class="fa fa-twitter fa-2x"></i></a>
-{% endif %}
-
-{% if include.npm %}
-<a href="https://www.npmjs.com/{{ include.npm }}"><span class="fa fa-npm fa-2x">{% include icon-npm.svg %}</span></a>
-{% endif %}
-
-{% if include.chrome %}
-<a href="https://chrome.google.com/webstore/detail/{{ include.chrome }}"><i class="fa fa-chrome fa-2x"></i></a>
-{% endif %}
-
+    {% for service in page.services %}
+        {% if include[service] && page.icons[service] %}
+            {% assign repl = include[service] %}
+            <a href='{{ page.urls[service] | replace: "<>", repl }}'>
+                <i class="fa fa-2x {{ page.icons[service] }}">
+                    {% if service == 'npm' %}
+                     {% include icon-npm.svg %}
+                    {% endif %}
+                </i>
+            </a>
+        {% endif %}
+    {% endfor %}
 </div>
