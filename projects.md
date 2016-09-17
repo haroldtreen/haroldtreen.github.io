@@ -36,6 +36,17 @@ services: ['web', 'npm', 'chrome', 'youtube', 'github', 'twitter']
 
 ---
 
+### **swagger-inline**
+
+- Tool that allows you to inline your swagger with your code.
+- Generates a swagger file by combining inlined swagger with a base swagger file.
+
+##### Written with: *Javascript, NodeJS*
+
+{% include info-icons.html github="readmeio/swagger-inline" npm="swagger-inline" %}
+
+---
+
 ### **query-nownownow**
 
 - Small web-scraper for searching for people on http://nownownow.com.
