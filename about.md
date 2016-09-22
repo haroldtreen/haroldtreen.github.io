@@ -69,6 +69,6 @@ B.A.Sc. Computer Engineering with Professional Internship
 
 ## For Fun
 
-Because there's more to life then coding.
+Because there's more to life than coding.
 
 {% include carousel.html name="fun" %}
