@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Having An Awesome List™ 😍"
+title: "Creating An Awesome List™ 🌟"
 categories: relationships friends
 ---
 
