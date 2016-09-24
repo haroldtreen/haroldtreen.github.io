@@ -25,10 +25,12 @@ carousel:
 
 My name is Harold Treen. Here's a little bit about what I do.
 
+*If you want to know what I'm currently up to, you can visit my **[Now](../now)** page.*
+
 ## For Work
 
 ### Contracting
-Currently, I'm contracting remotely for some awesome startups:
+I have experience doing contract work. Clients include:
 
 **Dooly**  
 Notes that talk to all your services ([http://dooly.ai](http://dooly.ai))
