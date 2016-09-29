@@ -4,12 +4,22 @@ title: Now
 permalink: /now/
 ---
 
+### September 26th, 2016
+- I've moved to New York for the next 3 months! 🗽
+- Living at [FounderHouse](https://www.founder.house/).
+- Coding at the [Recurse Center](https://recurse.com). It's amazing.
+	- Learning `Haskell`.
+	- Adding features to `EpubPress`.
+	- Building random things.
+	- Pairing with others and sharing knowledge.
+- So basically sitting in one spot, coding a storm and surrounding myself with awesome people 🌟.
+
 ### August 27th, 2016
 - Visiting friends/family in Toronto 👫.
 - Contracting and working on side projects 💻.
 - Wearing a wider variety of clothes then I was able to while travelling 👔.
 - Cooking again and not eating at restaurants non-stop 🍲.
-- Working my way through an Indie Coffee Passport ☕️.
+- Working my way through an [Indie Coffee Passport](http://indiecoffeepassport.com/toronto/) ☕️.
 
 ### August 11th, 2016
 - Working on [Dooly](http://dooly.ai).
