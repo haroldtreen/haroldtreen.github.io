@@ -13,12 +13,12 @@ Have you heard of **Dunbar's Number**?
 In other words, after **~150 people** our relationships become... fuzzier.  
 If we continuously move through life creating new relationships, eventually our earlier ones will be forgotten.
 
-That's pretty crazy to think about. On Facebook alone, I've amassed over **750 connections**.
+Think about that. On Facebook alone, I've amassed over **750 connections**.
 
 Technically speaking, **75%+** of these people I have very little connection to.
-At the same time, the majority are there because we met at some point in time and enjoyed interacting.
+At the same time, the majority are there because we met at some point in time and enjoyed interacting. Maybe not a long time, but quality time.
 
-So where's the balance? How can I continue meeting interesting people without them eventually falling into the void.
+So where's the balance? How does one continue meeting interesting people without them eventually falling into the void.
 
 <h3 align="center">Enter, the <strong>"Awesome List" ™</strong></h3>
 
@@ -36,7 +36,7 @@ They are the people who are discovering what they want and moving towards it.
 
 #### **Adjectives of the Awesome:**
 
-Awesome is more a gut feeling then an exact science.  
+Awesome is more a gut feeling than an exact science.  
 But I'll attempt to lay out the qualities that I appreciate the most.
 
 **Thoughtful / Open-Minded**
@@ -74,9 +74,11 @@ But I'll attempt to lay out the qualities that I appreciate the most.
 - Welcome the unconventional (eg. onesie foam parties? Let's do it!).
 - Accept invitations enthusiastically.
 
-I maintain this list so that I can continue to remember all the awesome people I have met.
+I maintain this list in an attempt to remember all the awesome people I have met.
 
 One day my monkey brain is inevitably going to run out of space for all the people I've met.  
 By reflecting on the Awesomes, hopefully I can maintain those connections a little bit longer.
 
 <p align="center">💕  Stay awesome  💕</p>
+---
+*Thanks to Asad @ [Chairs & Tables](http://chairsandtables.org/) for being awesome and giving feedback on this piece.*
