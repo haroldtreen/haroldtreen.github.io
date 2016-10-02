@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "EpubPress for Chrome (Alpha) 📖"
-categories: epub-press update
+categories: epub-press update tech
 ---
 
 Super excited to announce that EpubPress is now [open for testing](https://github.com/haroldtreen/epub-press-chrome/releases)!

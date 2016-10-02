@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Reading on the internet - before and after 📚"
-categories: epub-press update
+categories: epub-press update tech
 ---
 
 We love reading on the internet. The quantity, quality and diversity of content is unparalleled. All accessible at the click of a button (or a hyperlink...).

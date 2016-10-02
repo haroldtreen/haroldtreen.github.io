@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Jekyll Migration 🔬"
-categories: site update
+categories: site update tech
 ---
 
 I'm currently travelling South America (in Colombia to be more specific) and found some time to give my website a refresh.
