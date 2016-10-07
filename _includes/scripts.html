@@ -16,6 +16,21 @@ $('.slick').each(function(item){
 </script>
 {% endif %}
 
+{% if page.comment_counts or page.comments %}
+<script id="dsq-count-scr" src="//haroldtreen.disqus.com/count.js" async></script>
+{% endif %}
+
+{% if page.comments %}
+<script>
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = '//haroldtreen.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+{% endif %}
+
 <script src="{{ "/show-code/build/show-code.min.js" | prepend: site.baseurl }}" async></script>
 <script src="{{ "/js/prism.js" | prepend: site.baseurl }}" data-manual async></script>
 <script>
