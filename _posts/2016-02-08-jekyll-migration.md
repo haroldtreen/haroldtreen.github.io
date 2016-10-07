@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Jekyll Migration 🔬"
+comments: true
 categories: site update tech
 ---
 

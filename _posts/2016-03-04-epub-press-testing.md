@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "EpubPress for Chrome (Alpha) 📖"
+comments: true
 categories: epub-press update tech
 ---
 

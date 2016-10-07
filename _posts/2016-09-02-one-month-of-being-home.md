@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "One Month Of Being Home 🏠"
+comments: true
 categories: travel south-america
 ---
 

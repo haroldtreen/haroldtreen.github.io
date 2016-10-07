@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Week[0] @ The Recurse Center 🗽"
+comments: true
 categories: tech recurse
 ---
 
