@@ -30,7 +30,7 @@ My name is Harold Treen. Here's a little bit about what I do.
 ## For Work
 
 ### Contracting
-I have experience doing contract work. Clients include:
+Since graduating, I've been taking time to travel and contract. Clients include:
 
 **Dooly**  
 Notes that talk to all your services ([http://dooly.ai](http://dooly.ai))
