@@ -72,7 +72,7 @@ In all honesty, contexts aren't that important to me.
 
 I'm happy to go for walks.  
 I'm happy to grab coffee.  
-I'm happy to go for pedicures (Or manicures! Let's get our nails did! 💅).
+I'm happy to go for pedicures. Or manicures! (Let's get our nails did! 💅)
 
 **It really doesn't matter! I just want to know who you are.**
 
@@ -107,7 +107,7 @@ Yet by the end of the week I was only about 1/2 way there. A lot of time went in
 
 It got me wondering if I'm being too much of a perfectionist. Maybe if I wasn't worrying about backwards compatibility, testing and architecture it would be done already.
 
-At the same time I'm at RC to be a better programmer. I'm finding the more I obsess over decisions, the less I worry about them when they come up in the future. Experience cures indecisiveness.
+At the same time I'm at RC to be a better programmer. I'm finding the more I think about decisions, the less I worry about them when they come up in the future. Experience cures indecisiveness.
 
 I'm going to continue using EpubPress as a place to experiment with different ideas and not worry how that will effect timelines. There will be tons of time to produced rushed work another day 🤑.
 
