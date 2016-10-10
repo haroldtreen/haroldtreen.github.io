@@ -11,7 +11,8 @@ Another week of RC complete, another blog post!
 
 I've moved into a room at [Founder House](https://www.founder.house/). It's been a week there and I'm feeling settled in.
 
-During the week I was reflecting on my feelings. A lot of stuff are just things that take time to manifest.
+During the week I was reflecting on my feelings. A lot of feels are just things that take time to resolve.
+
 Time to go through the thought buckets and get it all out!
 
 ### Emotional 😂
@@ -107,6 +108,8 @@ Yet by the end of the week I was only about 1/2 way there. A lot of time went in
 It got me wondering if I'm being too much of a perfectionist. Maybe if I wasn't worrying about backwards compatibility, testing and architecture it would be done already.
 
 At the same time I'm at RC to be a better programmer. I'm finding the more I obsess over decisions, the less I worry about them when they come up in the future. Experience cures indecisiveness.
+
+I'm going to continue using EpubPress as a place to experiment with different ideas and not worry how that will effect timelines. There will be tons of time to produced rushed work another day 🤑.
 
 #### I've had more collaboration.
 
