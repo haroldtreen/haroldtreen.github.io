@@ -14,17 +14,6 @@ I've moved into a room at [Founder House](https://www.founder.house/). It's been
 During the week I was reflecting on my feelings. A lot of stuff are just things that take time to manifest.
 Time to go through the thought buckets and get it all out!
 
-### Physical 💪
-
-#### I'm cooking!
-
-I started reading [The Food Lab](https://en.wikipedia.org/wiki/The_Food_Lab) and it's been really interesting.
-The grocery store is a bit of a commute from my apartment, so fully stocking the fridge has been a slow process. But getting there!
-
-#### Need to look at a gym...
-
-Supposedly there's a gym 15 minutes away from my house. I've heard it's a bit rough though...will need to go and investigate...
-
 ### Emotional 😂
 
 #### I feel more relaxed.
@@ -37,23 +26,13 @@ I can banter with housemates or sit in silence.
 
 It's not that I didn't have freedom before... I just restricted myself. No more of that!
 
-#### I'm super impatient.
+#### I've been impatient with life.
 
-When I was in [South America](./travel/south-america/2016/07/27/six-months-of-backpacking/), friendships were instantaneous. After a few hours, I could be having some pretty intense conversations with people.
-
-Activities were also instant and endless. Every day could be an adventure.
+When I was in [South America](./travel/south-america/2016/07/27/six-months-of-backpacking/), friendships were instantaneous. After a few hours, I could be having some pretty intense conversations with people. Activities were also instant and endless. Every day could be an adventure.
 
 The real world is not like that. People take time to warm up to each other. Finding things to get involved with is harder then sight seeing.
 
 I need to keep reminding myself of this.
-
-#### I need to get in touch with my beliefs.
-
-I'm fairly aware of my beliefs and values, but find myself questioning them in moments of conflict. When differing opinions come out, I'm quick to question my stance.
-
-Another way to phrase it: Being more willing to side with someone else's views to appease them rather then staying confident in my position.
-
-I've been trying to write these instances out and spot them happening. It's hard balancing the needs of others with my own.
 
 ### Social 🙌
 
@@ -117,7 +96,7 @@ On Monday I was supposed to pair on a code generator idea. It was overwhelming t
 
 That focus has gone towards updating the EpubPress server, [javascript client and chrome extension](https://github.com/haroldtreen/epub-press-clients/). My goal is to fix server timeouts + add a progress bar. After that I'll port everything to Firefox.
 
-Once that is all done I'll jump back into the wonderful world of Haskell (I'm going to understand you IO Monad!).
+Once that is all done I'll jump back into the wonderful world of Haskell (I'm going to understand you I/O Monad!).
 
 #### I've felt slow.
 
@@ -125,7 +104,7 @@ The features I worked on this week didn't seem *that* ambitious. I know exactly 
 
 Yet by the end of the week I was only about 1/2 way there. A lot of time went into refactoring/testing old components.
 
-It got me wondering if I'm being too much of a perfectionist. Maybe if I wasn't worrying about backwards compatibility, testing and architecture - it would be done already.
+It got me wondering if I'm being too much of a perfectionist. Maybe if I wasn't worrying about backwards compatibility, testing and architecture it would be done already.
 
 At the same time I'm at RC to be a better programmer. I'm finding the more I obsess over decisions, the less I worry about them when they come up in the future. Experience cures indecisiveness.
 
@@ -136,6 +115,17 @@ I reached out to the RC community and got some feedback on my test suite + serve
 In turn I also got a chance to learn about things others have been working on. Virtual Doms, Chess AIs, Tree Spliting Algorithms, HTTP libraries and Compilers - Oh my!
 
 The more progress people make on their projects, the more there is to see! I might be getting too sucked in and have to isolate myself soon.
+
+### Physical 💪
+
+#### I'm cooking!
+
+I started reading [The Food Lab](https://en.wikipedia.org/wiki/The_Food_Lab) and it's been really interesting.
+The grocery store is a bit of a commute from my apartment, so fully stocking the fridge has been a slow process. But getting there!
+
+#### Need to look at a gym...
+
+Supposedly there's a gym 15 minutes away from my house. I've heard it's a bit rough though...will need to go and investigate...
 
 ### The </End>
 
