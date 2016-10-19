@@ -18,30 +18,30 @@ The week started off on a low, and steadily improved to wonderful levels. 😊
 
 At the start of the week I felt pretty emotionally drained.
 
-My past experiences with making connections/getting involved with communities involved a lot of putting myself out there and stepping out of my comfort zone.
+My past experiences with making connections/getting involved with communities involved a lot of putting myself out there and stepping out of my comfort zone.  
 It's a bit of a numbers game. The more you do these things, the higher your chances of finding those people you click with. At the same time, it can go overboard.
 
-It can become forced.
-It can turn into a lack of boundaries.
-It can have the opposite effect.
+It can become forced.  
+It can turn into a lack of boundaries.  
+It can have the opposite effect.  
 
 When you over invest, you can go bankrupt. Investments need space/time to grow.
 
 #### **I questioned the value of my invitations.**
 
-A sticky trap I fall into is self-doubt when my expectations of others don't play out in real life.
-I actually have had only positive interactions with people in person. Yet when I was extending invitations for events/activities, there was less enthusiasm than expected.
+A sticky trap I fall into is self-doubt when my expectations of others don't play out in real life.  
+I actually have had only positive interactions with people in person. Yet when I was extending invitations for events/activities, there was less enthusiasm than expected.  
 
 I started wondering if my invitations had value. Or whether the quality of these interactions were as good as I thought.
 
 #### **I wondered if RC was wrong for me.**
 
-Another thought was that maybe RC just wasn't compatible with me.
+Another thought was that maybe RC just wasn't compatible with me.  
 I actually got rejected the first time I applied. Not even after an interview...right after the application.
 
-Maybe my social goals weren't aligned with this space.
-Maybe RC is more focused on the technical growth.
-Maybe I didn't belong.
+Maybe my social goals weren't aligned with this space.  
+Maybe RC is more focused on the technical growth.  
+Maybe I didn't belong.  
 
 #### **I focused on things outside the space.**
 
@@ -100,7 +100,7 @@ I had also been a tad uncertain about how I was going to get a Firefox version o
 
 Besides managing to make progress on my own work, I also got to go to some fun tech events.
 
-On Tuesday was an event called "Hack N Tell". A show and tell for people's tech projects.  
+On Tuesday was an event called "Hack N Tell". A show and tell for people's tech projects.   
 On Thursday was an Etsy/RC event. Getting to hear from past Recursers and see their post-RC work was really interesting.
 
 ### Physical 🏃
