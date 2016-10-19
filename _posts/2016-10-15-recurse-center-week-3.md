@@ -10,7 +10,7 @@ This post is also quite late. I suppose it's a good sign that I've been too busy
 
 # Overall
 
-The week started off as a low, and steadily improved to wonderful levels. 😊
+The week started off on a low, and steadily improved to wonderful levels. 😊
 
 ### Emotional 😱
 
@@ -30,7 +30,7 @@ When you over invest, you can go bankrupt. Investments need space/time to grow.
 #### **I questioned the value of my offers.**
 
 A sticky trap I fall into is self-doubt when my expectations of others don't line up with how things play out in real life.
-I actually have had only positive interactions with people in person. Yet when I was extending offers for events/activities, their was less enthusiasm then expected.
+I actually have had only positive interactions with people in person. Yet when I was extending offers for events/activities, there was less enthusiasm than expected.
 
 I started wondering if my offers had value. Or whether the quality of these interactions were as good as I thought.
 
