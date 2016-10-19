@@ -57,7 +57,7 @@ Learning that helped me once again feel connected to the space. Things improved 
 
 ### Social 💃
 
-This week was super social! Was able to go to an event every night except Wednesday. Half of the events were things I planned for myself and the other half things I learned about through RC. None of them were in the RC space.
+This week was super social! Was able to go to an event every night except Wednesday. Half of the events were things I planned for myself and the other half things I learned about through RC.
 
 #### **I tend to socialize predominantly outside of work.**
 
@@ -67,9 +67,9 @@ Something I was thinking about was how much more I'm used to socializing outside
 
 #### **Experimental checkins**
 
-This week I tried something called "Experimental Checkins".
+This week I joined something called "experimental Checkins".
 
-In regular checkins, you meet in the morning and share what you're working on. A few people found that wasn't as valuable as they would like and decided to do experimental checkins instead.
+In regular checkins, you meet in the morning and share what you're working on. A few people found that wasn't as valuable as they would like and decided to do "experimental checkins" instead.
 
 The idea with experimental checkins is to share what you're working on, but additionally get help from other members of the group. It encourages collaboration and gets everyone more invested in the success of their peers.
 
@@ -94,13 +94,13 @@ Last weeks main win was progress on EpubPress. Specifically:
 
 The whole update process was somewhat tedious. Every package was a layer to work through - but I'm super happy with the result.
 
-I had also been a tad uncertain about how I was going to get a Firefox version of EpubPress. Being able to sit down and bash it out was super fulfilling.
+I had also been a tad uncertain about how I was going to get a Firefox version of EpubPress. Being able to sit down and bash it out was super relieving.
 
 #### **Talks**
 
 Besides managing to make progress on my own work, I also got to go to some fun tech events.
 
-On Tuesday was an event called "Hack N Tell". A show and tell for people's tech projects.
+On Tuesday was an event called "Hack N Tell". A show and tell for people's tech projects.  
 On Thursday was an Etsy/RC event. Getting to hear from past Recursers and see their post-RC work was really interesting.
 
 ### Physical 🏃
