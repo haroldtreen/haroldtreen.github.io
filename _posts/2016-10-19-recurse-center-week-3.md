@@ -27,12 +27,12 @@ It can have the opposite effect.
 
 When you over invest, you can go bankrupt. Investments need space/time to grow.
 
-#### **I questioned the value of my offers.**
+#### **I questioned the value of my invitations.**
 
-A sticky trap I fall into is self-doubt when my expectations of others don't line up with how things play out in real life.
-I actually have had only positive interactions with people in person. Yet when I was extending offers for events/activities, there was less enthusiasm than expected.
+A sticky trap I fall into is self-doubt when my expectations of others don't play out in real life.
+I actually have had only positive interactions with people in person. Yet when I was extending invitations for events/activities, there was less enthusiasm than expected.
 
-I started wondering if my offers had value. Or whether the quality of these interactions were as good as I thought.
+I started wondering if my invitations had value. Or whether the quality of these interactions were as good as I thought.
 
 #### **I wondered if RC was wrong for me.**
 
@@ -47,7 +47,7 @@ Maybe I didn't belong.
 
 I realized there was a lot for me to explore outside of RC. As a result, no evenings were spent 100% at RC last week.
 
-I went to shows, tech events and meet-ups. This relieved a lot of the pressure I was putting on RC. Instead of expecting RC to fulfill all my needs, I was being proactive in seeking out alternative spaces. It helped me disassociate a bit and regain some sense of autonomy.
+I went to shows, tech events and meet-ups. This relieved a lot of the pressure I was putting on RC. Instead of expecting RC to fulfill all my needs, I was being proactive in seeking out alternative spaces. It helped me disassociate a bit and regain autonomy.
 
 #### **I connected with other RCers.**
 
@@ -65,7 +65,7 @@ Something I was thinking about was how much more I'm used to socializing outside
 
 ### Intellectual 🤔
 
-#### **Experimental Checkins**
+#### **Experimental checkins**
 
 This week I tried something called "Experimental Checkins".
 
@@ -73,26 +73,26 @@ In regular checkins, you meet in the morning and share what you're working on. A
 
 The idea with experimental checkins is to share what you're working on, but additionally get help from other members of the group. It encourages collaboration and gets everyone more invested in the success of their peers.
 
-I found these checkins to be extremely valuable. I found myself more invested in helping others, and in turn felt supported by them.
+These checkins turned out to be extremely valuable. I found myself more invested in helping others, and in turn felt supported by them.
 
-#### **Shorter Days**
+#### **Shorter days**
 
-Unfortunately, these checkins are also scheduled a bit later in the day. I've been using checkins in to set the latest time I can arrive at RC. With normal checkins, that meant I was arriving at 10:30. With experimental checkins, I don't need to be in until 11:30.
+Unfortunately, these checkins are also scheduled a bit later in the day. I've been using checkins to set the latest time I can arrive at RC. With normal checkins, that meant I was arriving at ~10:30am. With experimental checkins, I don't need to be at RC until 11:30am.
 
 Experimental checkins also mean more expectations to spend some portion of the day helping others. That time can eat away at personal project time.
 
-But those are minor complaints. Overall it has been good 🙂.
+But those are minor complaints. Overall it's been good 🙂.
 
 #### **Extension progress**
 
-Last weeks main win was progress I made on EpubPress. Specifically:
+Last weeks main win was progress on EpubPress. Specifically:
 
 - Deploying new asynchronous API endpoints.
 - Updating `epub-press-js` to take advantage of the new endpoints.
 - Updating `epub-press-chrome` to take advantage of the new `epub-press-js`.
 - Updating `epub-press-chrome` to work on Firefox 🔥🐺!
 
-The whole update process was somewhat tedious. Every package was a layer to work through. But I'm super happy with the result.
+The whole update process was somewhat tedious. Every package was a layer to work through - but I'm super happy with the result.
 
 I had also been a tad uncertain about how I was going to get a Firefox version of EpubPress. Being able to sit down and bash it out was super fulfilling.
 
@@ -119,13 +119,13 @@ Grocery runs were hard to do with such packed evenings. I bought a bunch of vege
 
 #### **Dancing**
 
-Sunday I went with a wonderful RCer to an outdoor show. It wasn't super intense dancing, but still a solid 2 hours of motion. This might be one of my favorite forms of exercise. This Saturday there's an Electro Swing event to go to and I'm excited for all the calories that will be burned there 👯.
+Sunday I went with a wonderful RCer to an outdoor show. It wasn't super intense dancing, but still a solid 2 hours of motion. This might be one of my favorite forms of exercise. This Saturday there's an Electro Swing event to go to. I'm excited for all the calories that will be burned there 👯.
 
 ### </End>
 
 Thanks for reading! I'm enjoying emptying my brain every week with these posts. Part of me wishes that every post was an exciting list of achievements and good vibes.
 
-> "Stop venting about the same things week after week!"
+> "Stop venting about the same things week after week! 😱"
 
 But how realistic would that be.  ¯\\\_(ツ)\_/¯
 
