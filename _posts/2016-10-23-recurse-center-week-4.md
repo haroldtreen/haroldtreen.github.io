@@ -75,13 +75,13 @@ Both these things were with people from RC and that just made it all the better 
 
 ### Intellectual 🔭
 
-#### **Asynchrnous `nodepub`**
+#### **Asynchronous `nodepub`**
 
 After a few days of doing nothing but processing thoughts, I was SO ready to crank out some code.
 
 I disconnected, went into a room and started working on a PR for `nodepub`. It's an open source library for bundling HTML into `epub` files.
 
-The library has been working well for me, but unfortunately was using a some synchronous apis. In the NodeJS world, this means the entire server can get blocked on writing epub files. I thought making the code fully asynchronous would be a fun little project. The last two days of the week I did that and opened a PR.
+The library has been working well for me, but unfortunately was using some synchronous APIs. In the NodeJS world, this means the entire server can get blocked on writing epub files. I thought making the code fully asynchronous would be a fun little project. The last two days of the week I did that and opened a PR.
 
 #### **Support from RCers**
 
