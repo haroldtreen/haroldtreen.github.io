@@ -63,6 +63,18 @@ Three RC events in a row meant that Monday, Tuesday, Wednesday I spent my whole 
 
 All this time at RC really anchors my sense of friendship and community to one space: RC. And one purpose: coding.
 
+It's the different between being **"friends"** vs. **"work friends"**.
+
+**"Friends"** are people you enjoy being around regardless of the context. You can go for walks, grab a coffee or talk about life.
+
+**"Work friends"** are people you interact with within a given context. Jerry from HR is great, but I would rather not know about his personal life. Cynthia the CEO is lovely, but we don't talk outside of board meetings.
+
+There's people who I enjoy at RC, but who I've only interacted with in RC.
+
+Are we friends? If we went for a walk would it end up boring? If we talked about life would it be awkward and weird? Are we only pleasant because we're in a shared space?
+
+I've found time outside RC essential to answering those questions.
+
 #### **Having spaces outside RC.**
 
 Thankfully I've been feeling better about my relationships outside of RC.
