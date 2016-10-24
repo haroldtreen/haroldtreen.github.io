@@ -34,13 +34,13 @@ Whenever I put my mind in NVC mode, it usually results in me overanalyzing every
 > ...that's a moralistic judgement about my abilities with NVC!  
 > ...shit.  
 
-The result is that I'm quickly sucked into the idea that there are right and wrong ways to think. Thinking about thoughts until the thoughts are the things I want to think.
+The result is that I'm quickly sucked into the idea that there are right and wrong ways to frame thoughts. Thinking about thoughts until the thoughts are the things I want to think.
 
 It took me Monday and Tuesday to get the presentation where I wanted. After that I still hadn't blogged. I switched from one heavily self-reflective task to the next. By the end of it all I just wanted to code!
 
 #### **Misusing NVC**
 
-When I posted that I would be talking about NVC, it grabbed a fellow Recurser's attention. It was nice having someone to run ideas by. Also to have that person point out where I had been misusing NVC.
+When I posted that I would be talking about NVC, it grabbed a fellow NVC aware Recurser's attention. It was nice having someone to run ideas by. Also to have that person point out where I had been misusing NVC.
 
 In the past I've gotten caught up in the game of *"How can we translate everything to be NVC"*. That would then quickly lead me to judging all my communication as good/bad. Seeing NVC as a tool rather than "THE" way to communicate helped relieve some pressure from myself. There's no right answers!
 
@@ -52,21 +52,22 @@ This week had a bunch of awesome events at RC.
 
 - Contra dancing  
 - Non-technical talks  
-- Graph Theory Workshop  
+- Graph theory Workshop  
 - Spelling Bee Coding Game  
-- Job Fair  
+- Job fair  
 
 It's hard finding a balance with these events.  
 Three RC events in a row meant that Monday, Tuesday, Wednesday I spent my whole day at RC.
 
 (Thursday I went to BrooklynJS, but would have been at RC if that hadn't been the case.)
 
-All this time at RC really anchors my sense of friendship and community to one space: RC. And one purpose: coding.
+All this time at RC really anchors my sense of friendship and community to one space: RC.  
+And one purpose: coding.
 
 It's the different between being **"friends"** vs. **"work friends"**.
 
-**"Friends"** are people you enjoy being around regardless of the context. You can go for walks, grab a coffee or talk about life.
-**"Work friends"** are people you interact with within a given context.
+**"Friends"** are people you enjoy being around regardless of the context. You can go for walks, grab a coffee or talk about life.  
+**"Work friends"** are people you only interact with within a given context, and thus anchor your relationship to that context.
 
 > Jerry from HR is great, but I would rather not know about his personal life.
 
@@ -74,7 +75,9 @@ It's the different between being **"friends"** vs. **"work friends"**.
 
 There are people who I enjoy at RC, but who I've only interacted with in RC.
 
-Are we friends? If we went for a walk would it end up boring? If we talked about life would it be awkward and weird? Are we only pleasant because we're in a shared space?
+Are we friends or work friends?  
+If we hung out on the weekend would it be awkward?  
+If we talked about life would it be weird?  
 
 I've found time outside RC essential to answering those questions.
 
@@ -116,7 +119,7 @@ Non-technical lightning talks was a chance for everyone to share some of their n
 
 I finished reading [this amazing book](https://www.goodreads.com/book/show/25666050-algorithms-to-live-by) called "Algorithms to Live By"!
 
-It was a super interesting mixture of computer science concepts and life advice. Reviewing old CS concepts and seeing how the author related those concepts to real life was really interesting. Would recommend 👍.
+It was a super interesting mixture of computer science concepts and life advice. Reviewing old CS concepts and seeing how the author related them to real life was really interesting. Would recommend 👍.
 
 #### **I went to BrooklynJS**
 
@@ -130,7 +133,7 @@ So happy to find myself at a meetup mentioned in the talk.
 
 Fridays at RC are quieter than usual. It's a time when people focus more on interview prep rather then coding.
 
-I'm not decided on my post-rc plans, so interview prep hadn't appealed to me. At the same time, it's a skill that is harder to practice solo. So last week I joined a session and collaborated on problems. Made me realize how much I could improve on my whiteboard skills. So happy I did it.
+I'm not decided on my post-RC plans, so interview prep hadn't appealed to me. At the same time, it's a skill that is harder to practice solo. So last week I joined a session and collaborated on problems. Made me realize how much I could improve on my whiteboard skills. So happy I did it.
 
 Will sign up for more over the coming weeks.
 
@@ -142,7 +145,7 @@ I might need to take some time to focus on Harold. What do I want to learn? Why?
 
 **Some thoughts:**
 
-- I want to publish more software. (There's something about open source/putting software into the wild that is terrifying and exciting.)  
+- I want to publish more projects. (There's something about open source/putting software into the wild that is terrifying and exciting.)  
 - I want to learn Haskell. (Too much time has been spent in Javascript land and it would be great to branch out.)  
 - I want more experience managing services. (EpubPress has been great for this, but is still relatively simple.)  
 
@@ -171,3 +174,5 @@ Electro swing dancing, which was a blast. Also getting to the venue on the back 
 Things have been really starting to gel. At the same time, I'm realizing that many of these lovely people will be finishing their batch in 2 weeks 😞.
 
 But let's not think about that. Plenty of time to complain about that next week 😅.
+
+*Thanks to [@vaibhavsagar](https://github.com/vaibhavsagar) and [@sotojuan](https://github.com/sotojuan) for being wonderful and reviewing this blog post.* 😊
