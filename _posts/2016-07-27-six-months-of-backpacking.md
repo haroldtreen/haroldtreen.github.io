@@ -17,8 +17,8 @@ Setting out with only a small backpack and visiting everywhere as cheaply as pos
 For my trip, I wanted to visit as many countries as possible. The feeling was that the more places I visited, the more legitimate of a backpacker I would be.
 
 I ended up choosing South America based on:
-- Knowing so little about it.
-- Knowing so few others who had been.
+- Knowing very little about it.
+- Knowing very few others who had been.
 - Having lots of new countries to explore.
 
 The plan was simple: *Colombia -> Ecuador -> Peru -> Bolivia -> Chile -> Argentina -> Brazil*
@@ -39,11 +39,11 @@ My first few weeks in Medellin were interesting.
 - I realized that the vast majority of people in Colombia don't speak english. Spanish would need to be learned.
 - My fantasy of eating delicious food from carts never materialized. Fast food and instant coffee were more the norm.
 - Taking time to practice Spanish/read up on things in Medellin left me feeling guilty. Why was I sitting on my laptop? I should be out exploring the world!
-- Stories of crime throughout the country left me on edge. Walking to a cafe with my laptop felt scary, let alone taking nights busses other cities.
+- Stories of crime throughout the country left me on edge. Walking to a cafe with my laptop felt scary, let alone taking nights busses to other cities.
 - Every decision felt critical:  
-  If I headed North, I would have to backtrack to go South.  
-  If I spent 5 days in X, I would only have 3 days to visit Y.  
-  Don't waste money! Don't waste time!
+  - If I headed North, I would have to backtrack to go South.  
+  - If I spent 5 days in X, I would only have 3 days to visit Y.  
+  - Don't waste money! Don't waste time!
 
 Relief came when I heard other people say they stayed longer then planned. *I wasn't a lazy traveller, I was just in a good city where EVERYONE gets stuck. I'm still normal.*
 I left the city after two weeks of staying there. So much time! I would need to pick up the pace to get back on track.
@@ -51,12 +51,12 @@ I left the city after two weeks of staying there. So much time! I would need to 
 I was on edge for my next few cities. On one hand I wanted to see all the things they had to offer. On the other hand, I wasn't keeping up with my plan and "needed" to move faster.
 
 - In Cartagena I skipped all the beaches.
-- In Santa Marta I opted for a day-trip to Tayrona rather then camping. Palomino and other beaches were skipped.
+- In Santa Marta I opted for a day-trip to Tayrona rather than camping. Palomino and other beaches were skipped.
 - I had heard about an awesome hostel in Minca. Skipped that. "No time".
 
 In Bogota I finally slowed down the pace. My hostel was full of awesome people so I stayed for a *WHOLE WEEK* (Gutsy, I know!).
 
-It was one city but I was seeing a lot. A trip to the Salt Cathedral. A trip to Villa De Leyva.
+It was one city, but I was seeing a lot. A trip to the Salt Cathedral. A trip to Villa De Leyva.
 
 After all the rushing I felt...gross. Stuff, stuff, stuff! See, see, see! Do, do, do!  
 
@@ -66,14 +66,14 @@ It wasn't working though. Next thing you know I'm searching ***"Travel Fatigue"*
 
 **...Fine.**
 
-So I went back to Medellin. I could stay there until friends caught up or I met other friends to continue travelling with them. People were another thing I was beginning to really miss.
+So I went back to Medellin. I could stay there until friends caught up or I met other friends to continue travelling with. People were another thing I was beginning to really miss.
 
 I went to a bunch of different hostels. I moved around trying to find a good neighborhood/vibe. This search lead to another realization.
 
 **I wasn't interested in the majority of people.**
 
 Not that they weren't interesting. We just didn't have much in common.
-That's not true. We all had at least one thing in common. **Travelling.**
+...That's not true. We all had at least one thing in common. **Travelling.**
 
 - Where have you been?
 - Where are you going?
@@ -98,18 +98,18 @@ I began to avoid people. Only perking up and talking people's ears off when I ov
 
 It was nice. 😊
 
-On occasions, people in the hostel would catch on and question me about it.
+On occasions, people in the hostel would catch on and question me about it:
 
 > "You're always on your laptop. Do you ever go out?"
 
-> "Why are you working? Your on vacation!"
+> "Why are you working? You're on vacation!"
 
 > Hostel Bro - "How old are you?"  
 > Harold - "Ummm...24."  
 > Hostel Bro - "What are you doing? You have your whole life to work! It's a Saturday night. COME OUT!"  
 > Harold - "...No thanks..."  
 
-I switched out of party hostels. Went to the quietest, most low key places. I kept following my routine.
+I switched out of party hostels. Went to the quietest, most low key places. Kept following my routine.
 
 There was no exit plan. I would leave when I got bored. No more pressure.
 
@@ -130,7 +130,7 @@ I found a good rhythm, but was still visiting as much as I could. Still afraid o
 
 After 2.5 months in Colombia, I finally made it to Ecuador.
 
-I stayed in Quito for a week. There wasn't a lot I was looking to see there, but I just needed a break after endless busses between countries.
+I stayed in Quito for a week. There wasn't a lot to see there, but I just needed a break after endless busses between countries.
 
 There were things I wanted to do but just didn't seem as fun alone. (eg. Hiking the Quilotoa Loop.)  
 Skipped those.
@@ -155,7 +155,7 @@ Instead I tried to figure out what I was really trying to express with "touristy
 
 > "I didn't like X. There were a lot of crowds and things were above my budget."
 
-> "When I went to Y, everyone was trying to selll things to me and I couldn't have normal conversations with people."
+> "When I went to Y, everyone was trying to sell things to me and I couldn't have normal conversations with people."
 
 ---
 
@@ -169,7 +169,7 @@ My time in Banos was pretty laid back. Met some interesting people, went on a hi
 
 Next stop was a hostel at the base of Cotopaxi. It was one of my favorite places, mainly because the people there were as silly as me 😜.
 
-I went back to Banos to meet a friend in hopes of being able to travel together. After a few days I realized I wanted a big city again though - so off to Cuenca!
+I went back to Banos to meet a friend in hopes of being able to travel together. After a few days I realized I wanted a big city though - so off to Cuenca!
 
 More coding. More building the future. By far my favorite city in Ecuador.
 
@@ -181,7 +181,7 @@ Some people got in touch about contracting for them. If I could work on paid pro
 
 Peru has a lot to see. Especially on the way to Lima. After so much coding I felt like a break was in order.
 
-The main initial destination for Peru was Mancora. I had been avoiding beach towns, but after months in the mountain it seemed like a nice change of scenery.
+The main starting destination for Peru was Mancora. I had been avoiding beach towns, but after months in the mountain it seemed like a nice change of scenery.
 
 Next I went to Huanchaco - another pretty beach town.
 
