@@ -69,6 +69,14 @@ Sunday I went to one with a fellow RCer and it was great fun. I felt very nervou
 
 Definitely plan on doing more jams and meeting more improvisers in the city.
 
+#### **1-on-1 with a Random RCer**
+
+Last week a bunch of people signed up to do randomized 1-on-1s with other RCers. It was actually a wonderful experience.
+
+I had the joy of going for coffee with [@lushi](https://github.com/lushi) and [@yuliaju](https://github.com/yuliaju).
+
+I want to make sure this happens next batch as 1-on-1 time outside of RC is some of the best bonding time.
+
 ### Intellectual ☕️
 
 #### **Vim**
