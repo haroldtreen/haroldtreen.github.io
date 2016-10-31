@@ -23,3 +23,8 @@ exclude: ['node_modules']
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+gems:
+  - jekyll-mentions
+
+jekyll-mentions: https://github.com

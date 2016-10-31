@@ -5,7 +5,7 @@ comments: true
 categories: tech recurse
 ---
 
-Almost half way through. Things getting serious!
+Almost half way through. Things are getting serious!
 
 # Overall
 
@@ -42,7 +42,7 @@ It can be good a few times a month for getting exposure to new ideas, but most o
 
 When I look back at what things have been most interesting, it's the projects I've finished. Not the tech talks I've listened to.
 
-As a result I'm going to start cutting back on things I don't find especially related to what I'm working on. Hopefully that will more time for getting projects done.
+As a result I'm going to start cutting back on things I don't find especially related to what I'm working on. Hopefully that will leave more time for getting projects done.
 
 ### Social 👏
 
@@ -73,7 +73,7 @@ Definitely plan on doing more jams and meeting more improvisers in the city.
 
 Last week a bunch of people signed up to do randomized 1-on-1s with other RCers. It was actually a wonderful experience.
 
-I had the joy of going for coffee with [@lushi](https://github.com/lushi) and [@yuliaju](https://github.com/yuliaju).
+I had the joy of going for coffee with @lushi and @yuliaju.
 
 I want to make sure this happens next batch as 1-on-1 time outside of RC is some of the best bonding time.
 
@@ -166,7 +166,16 @@ It seems like every day there's some event with pizza...ate pizza for dinner at 
 
 ### </End>
 
-I feel more aware of the things I want to invest time towards these upcoming weeks.
+I feel more aware of the things I want to invest time towards these upcoming weeks:
 
-This upcoming week is the last for the current batch. Sad to see them go, but hopefully many will still be in New York and swing by for visits on the regular.
+- Getting back into my Haskell course.
+- Building out crazy P5 visualizations.
+- Build out a substantial system with Haskell.
+- Go to more social events in New York (eg. Couchsurfing meet-ups).
+- Improv jams.
+- Exploring the city.
+
+This week is the last for the current batch. Sad to see them go, but hopefully many will still be in New York and swing by for visits on the regular.
 At the same time, excited for a fresh start with a new batch. I hope they can live up to F1'16!
+
+*Thanks to @vaibhavsagar & @sotojuan for providing yet another week of blog feedback!*
