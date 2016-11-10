@@ -45,7 +45,7 @@ It gave me a sense of closure that I could share those thoughts with all the out
 
 I was surprised by how I felt after sharing those things. Letting others know my feelings is important to me, and I expect others to value receiving that information.
 
-Some people thanked me afterwards for my niceities and that felt really good... knowing that they valued hearing my thoughts as much as I valued sharing them.
+Some people thanked me afterwards for my niceties and that felt really good... knowing that they valued hearing my thoughts as much as I valued sharing them.
 Other people didn't acknowledge it. It was as if whatever I had to say was just another "It was nice to meet you!". That surprised me a bit.
 
 I came to the realization that what does/doesn't come back isn't what matters. What matters is that I feel genuine around everyone.  
@@ -132,7 +132,7 @@ Saturday I took the time to visit Central Park. It was a splendid day so I walke
 
 I love taking time to do these simple things. It feels like saying:
 
-> "STFU brain. Today we're having a no worries day!"
+> "Shut up brain. Today we're having a no worries day!"
 
 Doing things that aren't "productive" but instead create time to reflect.
 
@@ -150,3 +150,5 @@ I'm surprisingly excited for the next half of the batch.
 Before I felt spread thin. Halving the surface area that I'm spread over will be nice 🍞.
 
 To second beginnings! 🍻
+
+*Thanks to @yuliaju for thoughts and encouragements on this blog post!*
