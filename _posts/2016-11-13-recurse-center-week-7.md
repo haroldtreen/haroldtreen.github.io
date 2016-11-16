@@ -32,7 +32,7 @@ As time goes on, I gain more familiarity with the environment and people around 
 
 #### **Election feels**
 
-Last week was the election and a large number of people at RC were very effected by the results.
+Last week was the election and a large number of people at RC were very affected by the results.
 
 I was also shocked, but not being a US resident has buffered me from the full feels. Was unsure how to best support my fellow RCers, and still not sure.
 
@@ -106,7 +106,7 @@ I do feel like a better programmer... just not in the way I had originally envis
 
 #### **There's a wonderful resident**
 
-Part of whats helped broaden the definition of "Being a better programmer" has been having @glench at RC.
+Part of what's helped broaden the definition of "Being a better programmer" has been having @glench at RC.
 
 Glen's done a bunch of programming, but hasn't made that his only focus for being in the space. Instead, he's opened himself up to talk about anything.
 
