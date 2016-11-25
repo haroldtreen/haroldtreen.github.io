@@ -112,7 +112,7 @@ It's fun to do for a week at a time though. I might switch to a more normal sche
 
 #### **Caffeine Addiction**
 
-Having alright switched to a night schedule, coding 24 hours straight for the Hackathon seemed like a fun idea. Unfortunately, it became an idea fueled by large amounts of caffeine. I drank a ton of Club-Mate and coffee over the course of the night.
+Having already switched to a night schedule, coding 24 hours straight for the Hackathon seemed like a fun idea. Unfortunately, it became an idea fueled by large amounts of caffeine. I drank a ton of Club-Mate and coffee over the course of the night.
 
 The day after the Hackathon I decided to skip all coffee. By the evening I had a massive migraine and became very nauseous. Stupid caffeine!
 
