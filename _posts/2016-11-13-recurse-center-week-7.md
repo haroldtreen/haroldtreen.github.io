@@ -160,4 +160,4 @@ It's nice to have a clean slate and refocus on what I want out of RC.
 
 I'm exited to take the extra attention and put it towards new projects.
 
-*Thanks to @drigberg for helping me avoid words like "Passionated" in this post.*
+*Thanks to @drigberg for helping me avoid words like "Passionated" in this post. Hearts for @vaibhavsagar and PRs with corrections.*
