@@ -46,7 +46,7 @@ This is especially true for things that break "coder" stereotypes. Programming i
 
 On Thursday I went to see Madeon & Porter Robinson perform at Madison Square Garden. It's the 3rd time I've seen Madeon and he never disappoints 😍.
 
-I was in one of the boxes on the side. This meant a poor view of the stage, but also a giant section of space all to myself. I spent the whole busting out the dance moves 💃.
+I was in one of the boxes on the side. This meant a poor view of the stage, but also a giant section of space all to myself. I spent the whole concert busting out the dance moves 💃.
 
 ### Intellectual ⌨️
 
@@ -61,7 +61,7 @@ Experimental checkins are the same as normal checkins, but also involve everyone
 
 I found these great for encouraging collaboration and getting people invested in your work. Unfortunately, I also found them hit and miss.
 
-Sometimes everyone would be working on very different things, and asks for help would go unanswered.
+Sometimes everyone would be working on very different things, and requests for help would go unanswered.
 Sometimes I would be very focused on a project and feel guilty for not being able to help others.
 
 I also struggled with forcing myself to the space at a certain time every morning. Some mornings I would sleep in because checkins started later. Other times I would need to wake up earlier than I wanted so I could make it to RC in time for checkins.
