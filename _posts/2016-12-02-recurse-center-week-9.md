@@ -159,9 +159,10 @@ Decided to just go all in and buy a bunch of cookie ingredients. So hopefully no
 Done! Made it! Fantastic!
 
 **Action items:**  
-- Wake up to what an opportunity these next few weeks are. Make the most of them!
-- Keep reshuffling time towards better priorities.
-- Bake five-dozen batches of cookies.
+
+- Wake up to what an opportunity these next few weeks are. Make the most of them!  
+- Keep reshuffling time towards better priorities.  
+- Bake five-dozen batches of cookies.  
 
 Can't. Wait.
 
