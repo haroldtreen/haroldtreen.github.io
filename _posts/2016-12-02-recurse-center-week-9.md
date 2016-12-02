@@ -9,7 +9,7 @@ Just another week late post! No. Big. Deal. 😁
 
 ### Overview
 
-A lot of recovery from the Hackathon. RC was also closed most of the week for Thanksgiving. So not as productive as usual.
+A lot of recovery from the Hackathon. RC was also closed most of the week for Thanksgiving, so not as productive as usual.
 
 ### Emotional
 
@@ -23,16 +23,16 @@ Here's how it goes:
 
 > Outgoing Me: "I should ask X to do Y."
 
-> Apathetic Me: "There's no point. I don't know X that well / They probably won't want to do Y / They will be too busy"
+> Apathetic Me: "There's no point. I don't know X that well / They probably won't want to do Y / They will be too busy."
 
 > Outgoing Me: "Who cares! How do you know? You want to, so try!"
 
 > Apathetic Me: "...I only have 3 weeks left. It's not enough time to significantly improve my relationships with anyone / I should be focusing on coding."
 
-It's tough.
+That's been bothering me.
 
 I've been really enjoying coding and do want to give that more energy...  
-But I'm also in this new city with cool people... maybe I should leave the coding for when I'm at home.
+But I'm also in this new city with cool people... maybe I should leave the coding for when I'm at home...
 
 Deep down, I know time with people is what I really want. When invitations come my way, I happily drop what I'm doing to hang out.
 But when I start thinking about initiating that time myself, that's when the stories of "Coding is more important" pop-up.
@@ -41,15 +41,15 @@ But when I start thinking about initiating that time myself, that's when the sto
 
 I was reading books to try and better understand my apathy and came across an idea that clicked.
 
-**Apathy is a defense mechanism. A way of avoiding what we're afraid of.**
+**Apathy is a defense mechanism. It's a way of avoiding what we're afraid of.**
 
 It rings true for me. The things I want to do make me uncomfortable.
 
-But I don't want to acknowledge that discomfort. Thinking of myself as fearless and in control is way nicer 😎.
-
-> Apathy = Fear + Denial
+But I don't want to acknowledge that discomfort (thinking of myself as fearless and in control is way nicer 😎).
 
 So instead I deny it.
+
+> Apathy = Fear + Denial
 
 It's not that I'm **afraid**.  
 I just **don't care**  ¯\\\_(ツ)\_/¯.
@@ -86,9 +86,9 @@ Such a lovely mélange of socializing this week!
 
 I had a lot of great conversations throughout the week about *"What comes after RC?"*.
 
-Another idea that's gotten me excited is starting a coliving space. I spent most of Saturday:
+Another idea that's had me excited is starting a coliving space. I spent most of Saturday:
 
-- Asking people about past experiences with coops.
+- Asking people about past experiences with coops/coliving.
 - Researching existing coops/coliving spaces.
 - Aggregating lists of resources.
 - Debating ideas with friends.
@@ -101,7 +101,10 @@ Nevertheless, questions around community building have been fascinating me and i
 
 Another question I've been pondering is *"How do I want to spend my time?"*.
 
-My one approach to making time decisions, is *"What are my goals? Is this the most impactful way to move towards them?"*.
+My one approach to making time decisions, is:
+
+> What are my goals? Is this the most impactful way to move towards them?
+
 It's interesting how this changes the way I spend time.
 
 **One example:**
@@ -125,7 +128,7 @@ I've since realized the majority of what I read isn't immediately useful to me.
 
 *No you don't, Harold. You're in no need of a framework... in fact, nobody writing Javascript needs another framework.*
 
-I've generally found this pushing my time towards more fulfilling activities.
+I've generally found this value has pushed my time towards more fulfilling activities.
 
 #### **Haskell Progress**
 
@@ -141,7 +144,7 @@ I think it was the right choice 😊.
 
 The Hackathon last week in addition to the night-owling really messed up my sleep schedule. On Wednesday night I got home at 3am and cooked myself dinner...
 
-Getting things back on schedule so I can live a more normal life again. @hsubox also brought me a pillow, so goodbye pillowcase stuffed with sweater! 😁
+Getting things back on schedule so I can live a more normal life again. @hsubox also found me a pillow, so goodbye pillowcase stuffed with sweater! 😁
 
 #### **Pending baking fiasco**
 
@@ -164,4 +167,4 @@ Can't. Wait.
 
 Hearts for you dear reader! ❤️
 
-*Thanks to @{OH_GOD_SOMEONE_PLZ_REVIEW_BLOG_POST_FOR_HAROLD} for spell corrections and life guidance.*
+*Thanks to @vaibhavsagar and @yuliaju for easing my blogging worries through feedback.*
