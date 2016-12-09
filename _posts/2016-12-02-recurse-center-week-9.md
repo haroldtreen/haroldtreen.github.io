@@ -11,7 +11,7 @@ Just another week late post! No. Big. Deal. 😁
 
 A lot of recovery from the Hackathon. RC was also closed most of the week for Thanksgiving, so not as productive as usual.
 
-### Emotional
+### Emotional 😩
 
 #### **Apathy**
 
@@ -56,7 +56,7 @@ I just **don't care**  ¯\\\_(ツ)\_/¯.
 
 Since starting to ponder this I've been better at noticing it and acting anyway.
 
-### Social
+### Social 🍲
 
 #### **Chill time with friends**
 
@@ -80,7 +80,7 @@ Wednesday there was a smaller gathering. It was nice being with close pals and a
 
 Such a lovely mélange of socializing this week!
 
-### Intellectual
+### Intellectual 🔮
 
 #### **Building communities**
 
@@ -138,7 +138,7 @@ By the end of it, I really started enjoying Haskell. It's so different from Java
 
 I think it was the right choice 😊.
 
-### Physical
+### Physical 🛌
 
 #### **So much sleep!**
 
