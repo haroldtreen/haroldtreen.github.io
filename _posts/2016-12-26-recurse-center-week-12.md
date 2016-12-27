@@ -151,3 +151,5 @@ RC has definitely been one of the coolest things I've ever been a part of. The p
 So with that, I'll sign off one last time! 👋
 
 Much love everyone, it's been a blast 🚀❤️!
+
+*Thanks to @vaibhavsagar for providing updates via PRs 😊.*
