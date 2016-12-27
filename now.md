@@ -4,6 +4,13 @@ title: Now
 permalink: /now/
 ---
 
+### December 18th, 2016
+- I've returned to Toronto for the holidays 🎄.
+- Completed [logging my time](/blog) at the Recurse Center 📝.
+- Visiting with friends and family.
+- Finishing projects I started at RC 💻.
+- Brainstorming things to do next...
+
 ### September 26th, 2016
 - I've moved to New York for the next 3 months! 🗽
 - Living at [FounderHouse](https://www.founder.house/).
