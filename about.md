@@ -30,13 +30,24 @@ My name is Harold Treen. Here's a little bit about what I do.
 ## For Work
 
 ### Contracting
-Since graduating, I've been taking time to travel and contract. Clients include:
+After graduating, I took a sabbatical to travel and do contract work. Clients included:
 
 **Dooly**  
-Notes that talk to all your services ([http://dooly.ai](http://dooly.ai))
+Notes that talk to all your services ([https://dooly.ai](http://dooly.ai))
 
 **Readme**  
-Beautiful documentation made easy ([http://readme.io](http://readme.io))
+Beautiful documentation made easy ([https://readme.io](https://readme.io))
+
+### Self-Directed Projects
+
+During my sabbatical I also worked on self-directed projects:
+
+**EpubPress**  
+Web service to create ebooks from collections of webpages ([https://epub.press](https://epub.press))
+
+**The Recurse Center**  
+A self-directed educational retreat for becoming a better programmer.  
+Learned Haskell, gave talks, blogged, improved open source libraries and collaborated with others ([https://www.recurse.com/](https://www.recurse.com/))
 
 ### Internships
 
@@ -56,7 +67,6 @@ Agile Test Engineer Intern - Toronto, Ontario
 
 #### *More information can be found on my [resume](/resume).*
 
-
 ## For School
 
 #### University
@@ -64,10 +74,7 @@ Agile Test Engineer Intern - Toronto, Ontario
 **Queen's University** - Kingston, Ontario
 
 B.A.Sc. Computer Engineering with Professional Internship  
-(4 Years of Classes + 1 Year Internship @ Pivotal Labs)
-
-#### High School
-**Ursula Franklin Academy** - Toronto, Ontario
+*(4 Years of Classes + 1 Year Internship @ Pivotal Labs)*
 
 ## For Fun
 
