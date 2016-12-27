@@ -104,9 +104,9 @@ Shouldn't have spent so much time hanging out with people!
 
 This week I had some job calls. In retrospect, I really wish I hadn't started getting in touch with places. Having to take calls and practice for interviews during the last week was very stressful.
 
-### **Niceities**
+### **Niceties**
 
-As with the past outgoing batch, everyone took some time this week to write nice thoughts for each other. This was WAY more time consuming then before. Mainly because:
+As with the past outgoing batch, everyone took some time this week to write nice thoughts for each other. This was WAY more time consuming than before. Mainly because:
 
 1. There was now 2 batches worth of people to write messages for.
 2. Having spent more time with people, there was much more to write.
@@ -151,3 +151,5 @@ RC has definitely been one of the coolest things I've ever been a part of. The p
 So with that, I'll sign off one last time! 👋
 
 Much love everyone, it's been a blast 🚀❤️!
+
+*Thanks to @vaibhavsagar for providing updates via PRs 😊.*
