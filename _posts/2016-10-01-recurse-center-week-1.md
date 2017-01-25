@@ -21,9 +21,9 @@ A while ago, I was catching up with a friend and they asked me:
 
 I loved how wellness could be broken down into these different categories. So, from that inspiration, I have decided on these 4 categories to reflect within.
 
-- **Intellectual**: Tackling challenging problems. Learning new things. Progressing in my work.
 - **Emotional**: Maintaining a positive emotional state.
 - **Social**: Meeting new people. Putting myself in new situations. Accepting invitations.
+- **Intellectual**: Tackling challenging problems. Learning new things. Progressing in my work.
 - **Physical**: Eating healthy. Exercising. Taking care of myself.
 
 These are loosely based off the [Six Dimensions of Wellness](http://students.umw.edu/wellness/wellness-resource-center/6-dimensions-of-wellness/). I've simply collapsed Occupational/Intellectual and Spiritual/Emotional.
@@ -68,15 +68,15 @@ Activities during the day:
 
 Some things I got to do this week during the evenings:
 
-- Group viewing of the presidential debate.
+- Group viewing of the presidential debate
 - Improv workshop
 - Improv shows
 - Games night
 - Group drinks
 
-It has been nice having so many activities always on the table. I hope to reconnect with my own interests and share some of them in the upcoming weeks (Dancing, Cooking, Improv, Cycling, Exploring).
+It's been nice having so many activities always on the table. I hope to reconnect with my own interests and share some of them in the upcoming weeks (dancing, cooking, improv, cycling, exploring, etc.).
 
-At the same time, I fear going off to my own events and missing out on time with RC people ... #QualityProblems 😌
+At the same time, I fear going off to my own events and missing out on time with RC people ... #QualityProblems 😌.
 
 ### Intellectual 🤔
 
@@ -92,7 +92,7 @@ Over the past few weeks I've been writing down all sorts of random things to bui
 - Creating a code generator.
 - Learning Haskell and writing a side project in it.
 
-A lot of this stuff is very specific and doesn't really fall under any umbrella. I'm a bit worried how I'll be able to collaborate with others. It would be easier if I was getting involved with machine learning/cs fundamentals/etc as there seems to be more interest in those topics.
+A lot of this stuff is very specific and doesn't really fall under any umbrella. I'm a bit worried how I'll be able to collaborate with others. It would be easier if I was getting involved with machine learning/cs fundamentals/distributed computing/etc as there seems to be more interest in those topics.
 
 In any case, I've already been able to help a few people with their projects. That's been a great source of collaboration, and I'm sure others will be able to contribute to my projects.
 
@@ -152,20 +152,17 @@ So...not great 🤒.
 
 This is my first time with healthy stability in over a year. Would love to take advantage of that.
 
-**Cooking**
-
+**Cooking**  
 I have two cook books I want to start working through: [The Food Lab](https://www.goodreads.com/book/show/24861842-the-food-lab), [Genius Recipes](https://www.goodreads.com/book/show/22716562-food52-genius-recipes)
 
 My goal is to cook all the recipes in one of them.
 
-**Gym**
-
+**Gym**  
 Will also need to look into gyms this week and see if there's any affordable options in this city.
 
 ...Or I can just do chin ups in the subway every morning 🙊.
 
-**Posture**
-
+**Posture**  
 Random - but sitting at computers all day is *TERRIBLE* for you.
 
 Going to take advantage of the standing desks and try not to let non-stop time on my laptop curve my spine too much.

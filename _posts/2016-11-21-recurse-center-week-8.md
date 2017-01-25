@@ -13,8 +13,7 @@ A week full of experiments. A week full of (trying) to focus on a single project
 
 ### Emotional 😊
 
-#### **Gratitude**
-
+**Gratitude**  
 This is pretty vague, but I've been feeling an underlying current of gratitude for RC.
 
 Since the start of the new batch, I've felt less active in the space. Coming and going as I please, coding on my own things alone. In general, taking a break from trying to do it all.
@@ -23,8 +22,7 @@ I was worried that would just crush my social life, but instead it's left me fee
 
 I'm super grateful to all the people who continue inviting me to activities and events during these times of change.
 
-#### **Anxious about the real world.**
-
+**Anxious about the real world.**  
 I've been thinking about what comes after RC. Full time job? Contracting? Travel? Self-employment?  
 I've been thinking about the ultimate place to live next. Vancouver? Toronto? Montreal? Seattle? New York?  
 
@@ -34,24 +32,21 @@ I really want to build inclusive spaces like RC. But how to fit that with a run 
 
 ### Social 🎤
 
-#### **Super Diverse RC**
-
+**Super Diverse RC**  
 On Monday, there was a "Skill Share" night at RC. I was blown away by the diversity of things RCers are skilled in. Improv comedy, juggling, rope-bondage - so many things!
 
-Coding is only a fraction of my interests, and so it only goes so far in connecting me with others. Learning about the other interests at RC makes me even more excited about the people here. It opens up a whole new dimension of discussions, which is super cool.
+Coding is only a fraction of my interests, and so it only goes so far in helping me relate with others. Learning about the other interests at RC makes me even more excited about the people here. It opens up a whole new dimension of discussions, which is super cool.
 
 This is especially true for things that break "coder" stereotypes. Programming is associated with being quiet and socially awkward. So seeing a bunch of programmers in a room doing improv comedy makes me so happy (stupid stereotypes 😊).
 
-#### **Shelter Tour Concert**
-
+**Shelter Tour Concert**  
 On Thursday I went to see Madeon & Porter Robinson perform at Madison Square Garden. It's the 3rd time I've seen Madeon and he never disappoints 😍.
 
 I was in one of the boxes on the side. This meant a poor view of the stage, but also a giant section of space all to myself. I spent the whole concert busting out the dance moves 💃.
 
 ### Intellectual ⌨️
 
-#### **One-on-one checkins**
-
+**One-on-one checkins**  
 This week I switched to doing 1-on-1 checkins.
 
 Checkins are one of the few "highly encouraged" parts of RC. It's a lightweight piece of process for holding people accountable to their goals.
@@ -59,12 +54,12 @@ Checkins are one of the few "highly encouraged" parts of RC. It's a lightweight 
 Normal checkins involve meeting in small groups and saying what your plans are every morning.  
 Experimental checkins are the same as normal checkins, but also involve everyone saying something they would like help with that day.  
 
-I found these great for encouraging collaboration and getting people invested in your work. Unfortunately, I also found them hit and miss.
+I found these great for encouraging collaboration and getting people invested in your work. Unfortunately, they weren't always as useful as I'd like.
 
 Sometimes everyone would be working on very different things, and requests for help would go unanswered.  
 Sometimes I would be very focused on a project and feel guilty for not being able to help others.  
 
-I also struggled with forcing myself to the space at a certain time every morning. Some mornings I would sleep in because checkins started later. Other times I would need to wake up earlier than I wanted so I could make it in time for checkins.
+I also struggled with forcing myself to RC at a certain time every morning. Some mornings I would sleep in because checkins started later. Other times I would need to wake up earlier than I wanted so I could make it in time for checkins.
 
 So I decided to try my own type of checkins - one-on-one checkins. These are checkins I have with two people who have similar projects as me. Rather than meeting in the morning, we just message each other at some convenient time with what we we're working on and what we need help with.
 
@@ -72,19 +67,17 @@ So far, I've enjoyed this system best. I can provide consistent help, it's flexi
 
 It's also allowed me to try another experiment: Being nocturnal (Dun dun dunnn!).
 
-#### **Haskell Only**
-
+**Haskell Only**  
 One of my main goals for my time at RC has been to learn Haskell. Having spent the past year deep in Javascript, I've wanted to learn Haskell to practice a whole other set of programming concepts. Haskell feels like the anti-javascript.
 
-With my time at RC quickly running out, I've been trying to focus on Haskell so I can accomplish that goal. This has also meant ignoring all other ambitions. Hard to tell if one project is more efficient. It prevents context switches, but also provides no opportunity to work on other things when you feel fatigued. Might need to throw some more variety into the mix...
+With my time at RC quickly running out, I've been trying to focus on Haskell so I can accomplish that goal. This has also meant ignoring all other ambitions. I can't yet tell if one project is more efficient. It prevents context switches, but also provides no opportunity to work on other things when you feel fatigued. Might need to throw some more variety into the mix...
 
 Haskell is also one of the more niche languages at RC, so it can be hard to get in person help with it.
 
-#### **Hack the Stacks**
-
+**Hack the Stacks**  
 Over the weekend I attended a Hackathon at the Museum of Natural History. It involved working on projects proposed by the museum's library department.
 
-There was a project I was initially excited about - creating an API hub for the library. Unfortunately, the others interested in the project seemed very opinionated and disinterested in discussion. I just wanted to write code and have fun, not be micro-managed. So quietly snuck away from that group and back to the other RCers.
+There was a project I was initially excited about - creating an API hub for the library. Unfortunately, the others interested in the project seemed very opinionated and disinterested in discussion. I just wanted to write code and have fun, not be micro-managed. So I quietly snuck away from that group and back to a group of RCers.
 
 Our project was to reassemble Charles Darwin's cut up notebook. Kind of like writing software to assemble a jig-saw puzzle.
 
@@ -94,8 +87,7 @@ It was a fun project, and we ended up winning in the **"Why didn't I think of th
 
 ### Physical 🛌
 
-#### **Night Owling**
-
+**Night Owling**  
 As a product of dropping out of checkins, I've been experimenting with being a night owl. In other words, I've been sleeping in until ~12pm, arriving ~2pm, staying until ~3am, going to sleep ~5am.
 
 **Pros:**
@@ -112,9 +104,8 @@ As a product of dropping out of checkins, I've been experimenting with being a n
 
 It's fun to do for a week at a time though. I might switch to a more normal schedule in a bit...
 
-#### **Caffeine Addiction**
-
-Having already switched to a night schedule, coding 24 hours straight for the Hackathon seemed like a fun idea. Unfortunately, it became an idea fueled by large amounts of caffeine. I drank a ton of Club-Mate and coffee over the course of the night.
+**Caffeine Addiction**  
+Having already switched to a night schedule, coding 24 hours straight for the Hackathon seemed like a piece of cake. Unfortunately, it became an idea fueled by large amounts of caffeine. I drank a ton of Club-Mate and coffee over the course of the night.
 
 The day after the Hackathon I decided to skip all coffee. By the evening I had a massive migraine and became very nauseous. Stupid caffeine!
 

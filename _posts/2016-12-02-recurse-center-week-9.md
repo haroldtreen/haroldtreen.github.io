@@ -13,8 +13,7 @@ A lot of recovery from the Hackathon. RC was also closed most of the week for Th
 
 ### Emotional 😩
 
-#### **Apathy**
-
+**Apathy**  
 This has become a big feel:
 
 > "There's no point..."
@@ -37,8 +36,7 @@ But I'm also in this new city with cool people... maybe I should leave the codin
 Deep down, I know time with people is what I really want. When invitations come my way, I happily drop what I'm doing to hang out.
 But when I start thinking about initiating that time myself, that's when the stories of "Coding is more important" pop-up.
 
-#### **Nervousness and Fear**
-
+**Nervousness and Fear**  
 I was reading books to try and better understand my apathy and came across an idea that clicked.
 
 **Apathy is a defense mechanism. It's a way of avoiding what we're afraid of.**
@@ -58,8 +56,7 @@ Since starting to ponder this I've been better at noticing it and acting anyway.
 
 ### Social 🍲
 
-#### **Chill time with friends**
-
+**Chill time with friends**  
 Despite my apathy, it's been really nice getting opportunities to hang out with people outside of RC.
 
 On Monday, I finally got to see a friend from my Microsoft Intern days.  
@@ -67,8 +64,7 @@ On Friday, I went with some other RCers to a board games cafe.
 
 Hearts for low-key socializing! ❤️
 
-#### **Potlucks and parties**
-
+**Potlucks and parties**  
 Thanksgiving caused RC to be closed for the majority of the week. A bunch of us aren't from New York / didn't have plans, so @ebb-tide hosted a Thanksgiving potluck.
 
 It brought me back to my dinner party days in Vancouver.  
@@ -82,8 +78,7 @@ Such a lovely mélange of socializing this week!
 
 ### Intellectual 🔮
 
-#### **Building communities**
-
+**Building communities**  
 I had a lot of great conversations throughout the week about *"What comes after RC?"*.
 
 Another idea that's had me excited is starting a coliving space. I spent most of Saturday:
@@ -97,8 +92,7 @@ I've started looking for spaces to visit or apply to. One consistent piece of ad
 
 Nevertheless, questions around community building have been fascinating me and it seems like a stream of enthusiasm worth following.
 
-#### **How to spend my time?**
-
+**How to spend my time?**  
 Another question I've been pondering is *"How do I want to spend my time?"*.
 
 My one approach to making time decisions, is:
@@ -130,8 +124,7 @@ I've since realized the majority of what I read isn't immediately useful to me.
 
 I've generally found this value has pushed my time towards more fulfilling activities.
 
-#### **Haskell Progress**
-
+**Haskell Progress**  
 The other day I finished my CIS194 course! 🎓
 
 By the end of it, I really started enjoying Haskell. It's so different from Javascript and required learning a whole other set of concepts.
@@ -140,14 +133,12 @@ I think it was the right choice 😊.
 
 ### Physical 🛌
 
-#### **So much sleep!**
-
+**So much sleep!**  
 The Hackathon last week in addition to the night-owling really messed up my sleep schedule. On Wednesday night I got home at 3am and cooked myself dinner...
 
 Getting things back on schedule so I can live a more normal life again. @hsubox also found me a pillow, so goodbye pillowcase stuffed with sweater! 😁
 
-#### **Pending baking fiasco**
-
+**Pending baking fiasco**  
 I cooked Chicken Parmesan again last week!
 
 I also bought 2.25 kilograms of flour a month ago because my Eggplant Parmesan recipe called for a 1/2 cup of flour...so I'm currently rolling in excess flour.
