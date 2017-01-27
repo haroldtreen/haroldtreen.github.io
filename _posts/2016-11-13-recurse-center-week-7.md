@@ -13,16 +13,14 @@ I've started feeling much more focused at RC. The change in people has really he
 
 ### Emotional 😊
 
-#### **Blogging is causing me grief...**
-
+**Blogging is causing me grief...**  
 Once again getting deep into a new week and freaking out about blogress (*get it?... blog(prog)ress... teehee 🙃*).
 
 Is it going to be an accurate portrayal of what I did last week? How was I feeling? What did I do? How do I summarize all that?
 
 It's hard to blog in the present about how I felt in the past... at least without it feeling forced and unnatural. My new approach is going to be blogging about my current feels and relating those feels to the past week.
 
-#### **So much comfort**
-
+**So much comfort**  
 This past week has felt very comfortable.
 
 There's a group of people here who I've known for the past 7 weeks.
@@ -30,8 +28,7 @@ There's another group of people who are a blank slate. I can be whoever I want t
 
 As time goes on, I gain more familiarity with the environment and people around me. When I first got to New York everything was new and I struggled to take it all in. Now that I've adjusted I can do a better job focusing on different interests.
 
-#### **Election feels**
-
+**Election feels**  
 Last week was the election and a large number of people at RC were very affected by the results.
 
 I was also shocked, but not being a US resident has buffered me from the full feels. Was unsure how to best support my fellow RCers, and still not sure.
@@ -40,8 +37,7 @@ Thanks to everyone who's shared their feels. Sorry if I've been lost for words. 
 
 ### Social 🎉
 
-#### **Welcoming Winter 1s**
-
+**Welcoming Winter 1s**  
 Monday was the first day of the Winter 1 batch. I had helped brainstorm/plan events, so I was particularly invested in everything going well. Was very happy with how the day went!
 
 - I gave tours at the start of the day. Moving people through the space and explaining where everything is.
@@ -52,8 +48,7 @@ Monday was the first day of the Winter 1 batch. I had helped brainstorm/plan eve
 
 On my first day there was so much new stuff to get acquainted to. This time was much less overstimulating.
 
-#### **Keeping traditions alive**
-
+**Keeping traditions alive**  
 I was worried how the social vibes might be affected by the transition. Losing all our fearless F1s and being responsible for picking up the slack.
 
 It was cool seeing everyone step up to the plate. Activities carried on, new events appeared. RC didn't become a social desert. Phew 😌.
@@ -66,8 +61,7 @@ If it is needed again in the future, you can organize it.
 
 ### Intellectual ✍️
 
-#### **Discovering my take on "Becoming a better programmer"**
-
+**Discovering my take on "Becoming a better programmer"**  
 As the half-way mark passed, I began to wonder how successful I've been at "Becoming a better programmer".
 
 When I came to RC, I had a certain idea of what that would look like:
@@ -104,8 +98,7 @@ A good programmer gives back to the communities they are a part of.
 
 I do feel like a better programmer... just not in the way I had originally envisioned.
 
-#### **There's a wonderful resident**
-
+**There's a wonderful resident**  
 Part of what's helped broaden the definition of "Being a better programmer" has been having @glench at RC.
 
 Glen's done a bunch of programming, but hasn't made that his only focus for being in the space. Instead, he's opened himself up to talk about anything.
@@ -114,16 +107,14 @@ Maybe that's discussing where an exception is coming from. Or maybe that's discu
 
 It's been really refreshing to have someone in the space encouraging dialogs beyond directly technical things. To just talk about whatever and not have things eventually steered to "so what are you coding"?
 
-#### **Technical focus**
-
+**Technical focus**  
 Despite my rants on feeling more freedom to be less "technical", I have been devoting more time to code.
 
 I have a few projects that I wanted to finish while at RC, so I'm determined to get those done.
 
 In particular, learning Haskell and writing a program for generating Javascript in Haskell.
 
-#### **Job prospects that are exciting**
-
+**Job prospects that are exciting**  
 This week while perusing my news feed, I came across a job posting for [Ladies Learning Code](http://ladieslearningcode.com/). Picturing the job opportunity to work for a diverse tech community got me very excited.
 
 Then I starting judging:
@@ -141,14 +132,12 @@ I've applied. I'll be on the lookout for similar types of jobs as well. We'll se
 
 ### Physical 🚶
 
-#### **Looking forward to exercise**
-
+**Looking forward to exercise**  
 I never got around to getting into an exercise schedule. I'm not going to make excuses, it hasn't felt important.
 
 Spending time with people, learning to code and being at RC has been the focus. I do enjoy daydreaming about settling down and being able to get in shape again.
 
-#### **Macaroni is delicious**
-
+**Macaroni is delicious**  
 This week I randomly got into a conversation about Macaroni and Cheese. I had forgotten how simple it is to make, so I made a giant pot.
 
 I feel like a 5 year old again 😋.

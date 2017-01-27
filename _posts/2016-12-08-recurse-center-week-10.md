@@ -11,8 +11,7 @@ I'm currently trying to distill through what is essential, and focusing on that.
 
 ### Emotional 😰
 
-### **Frantic**
-
+**Frantic**  
 Feels have been evolving recently, but at the moment I feel frantic. There's now only **2** weeks left.
 
 Looking back, it seems like I got more done in the first half...  
@@ -32,20 +31,18 @@ Anyway... I'm frantic to feel accomplished, and it hasn't hit me yet. 😓
 
 ### Social 🍪
 
-#### **Cookies and Blanket Forts**
-
+**Cookies and Blanket Forts**  
 On Saturday, some housemates and I baked cookies! Turns out the house had all the extra ingredients I bought... oops!
 
 In addition to cookies, we also constructed a blanket fort. The cookies were then consumed in the blanket fort while watching a movie. It was glorious:
 
-![bubbles](/assets/posts/blanket-fort.jpg){: .center-image }
+![blanket-fort](/assets/posts/blanket-fort.jpg){: .center-image }
 
 @hsubox & @NEIA20 critiquing the cinematic qualities of "Finding Dory" in "Chateau Del Sheets"
 {: .image-caption }
 
 
-#### **Weapons of Math Destruction**
-
+**Weapons of Math Destruction**  
 On Thursday I went to a meetup hosted at [Postlight](https://postlight.com/).  
 
 I was partly motivated to go by the talk, and partly motivated to learn more about Postlight. I got a chance to talk to some employees about their projects, a few of which had overlaps with what I'm working on. The rumors of it being an interesting company were true.
@@ -54,8 +51,7 @@ The main event was a talk by [Cathy O'Neil](https://en.wikipedia.org/wiki/Cathy_
 
 ### Intellectual ƛ
 
-#### **Changing Project Plans**
-
+**Changing Project Plans**  
 When I first started reading up on Haskell, I was really interested in using it to build a javascript code generator. Pattern matching and types made it seem like a good fit for the task.
 
 After finishing my Haskell course, I felt differently. I was still interested in that project, but my understanding of Haskell still felt too fresh to be really productive on a project. I also was worried the project would involve more Javascript grammar definitions than actual coding.
@@ -66,8 +62,7 @@ One of the main features of the course is a test suite, which I LOVE. Why can't 
 
 Doing another course doesn't feed my need to accomplish a big project while I'm here - but I can build a project in Haskell after RC.
 
-#### **Interview Preps**
-
+**Interview Preps**  
 This past week I did 2 interview prep sessions. These have been super helpful.
 
 I've done interview prep with friends in the past, but nothing to the level of detail done at RC. Since first starting interview prep at RC, I've become much more systematic in my whiteboard interviews.
@@ -87,14 +82,12 @@ This is way better than my previous strategy:
 - Code a solution while being as verbose as possible.
 - Walk through it if the interviewer asks you to.
 
-#### **Advent of Code**
-
+**Advent of Code**  
 I've passively been working through [Advent of Code](http://adventofcode.com/). It's an Advent Calendar that hands out difficult coding problems instead of delicious chocolate.
 
 It's fun, and many people are doing it which has lead to good discussions. On the other hand, I've been feeling less enthused about random coding problems. I'm more interested in working on projects.
 
-#### **Essentialism**
-
+**Essentialism**  
 I've started reading "[Essentialism: The Disciplined Pursuit of Less](https://www.goodreads.com/book/show/18077875-essentialism)".
 
 Ironically, I think reading about time management is non-essential - but I'm going to put that aside and pretend it's the book teaching me that 🤓.
@@ -103,12 +96,10 @@ In the past week I've been thinking a lot about what is essential. Sometimes I t
 
 ### Physical 🚶
 
-#### **Park walk**
-
+**Park walk**  
 On Sunday I went for a walk through Prospect Park with some housemates. It was nice to be away from computers and technology and just stroll about. Fresh air always makes me feel better.
 
-#### **Blob**
-
+**Blob**  
 Days on end of sitting at a computer is really starting to make me feel out of shape. REALLY looking forward to settling in somewhere and being able to do a better job of focusing on my health.
 
 ### </End>

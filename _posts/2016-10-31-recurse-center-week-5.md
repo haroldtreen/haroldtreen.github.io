@@ -13,8 +13,7 @@ Last week started so good, but by the end I was re-evaluating my goals... allow 
 
 ### Emotional 😫
 
-#### **Saying no more**
-
+**Saying no more**  
 When I first got to RC, my strategy was to say yes to everything.
 
 > "Want to work together? Yes!"
@@ -34,8 +33,7 @@ There's all kinds of activities I've been continually deferring. I haven't even 
 
 Finally made time for an improv jam last week. Really happy about that.
 
-#### **Focusing on practical knowledge**
-
+**Focusing on practical knowledge**  
 On a similar note, a lot of things I do aren't that practical. Most meet-ups and tech talks are interesting, but cover topics that I don't have any practical use for.
 
 It can be good a few times a month for getting exposure to new ideas, but most of it I have no use for.
@@ -46,9 +44,8 @@ As a result I'm going to start cutting back on things I don't find especially re
 
 ### Social 👏
 
-#### **RC Events**
-
-I've been slowly getting sucked back into the RC events. It's so hard to reach the end of the day, see that something is being organized and then leave. Also really difficult to stay in the space when chairs start being moved around and everyone is talking.
+**RC Events**  
+I've been slowly getting sucked back into the RC events. It's so hard to reach the end of the day, see that something is being organized and then leave. Also really difficult to work in the space when chairs start being moved around and everyone is talking.
 
 So I've just been getting caught up in things.
 
@@ -61,16 +58,14 @@ This week there was:
 
 Pretty good stuff for the most part 🙂.
 
-#### **Improv Jam**
-
+**Improv Jam**  
 I started researching improv jams around the city. Turns out they're everywhere and really cheap.
 
 Sunday I went to one with a fellow RCer and it was great fun. I felt very nervous/excited at the start which made it hard to think. Can't wait to work through those feels by performing more.
 
 Definitely plan on doing more jams and meeting more improvisers in the city.
 
-#### **1-on-1 with a Random RCer**
-
+**1-on-1 with a Random RCer**  
 Last week a bunch of people signed up to do randomized 1-on-1s with other RCers. It was actually a wonderful experience.
 
 I had the joy of going for coffee with @lushi and @yuliaju.
@@ -79,8 +74,7 @@ I want to make sure this happens next batch as 1-on-1 time outside of RC is some
 
 ### Intellectual ☕️
 
-#### **Vim**
-
+**Vim**  
 Last week I was chatting with an RCer and watching them coding with Emacs. That obviously got me sidetracked into changing text editors...to Vim!
 
 It made for a bit of a grueling week. I started by looking around at all the options:
@@ -97,7 +91,7 @@ Once I had everything installed, I then needed to dig into the configs so that a
 
 Once that was all done, it was time. I could finally...sit at my computer for a week struggling to master the keyboard.
 
-It's been a week though and I'm starting to feel frustrated in Atom. I think that's a good sign 😊.
+It's been a week though and I feel frustrated when I use Atom. I think that's a good sign 😊.
 
 #### **EpubPress for 🔥🐺**
 
@@ -111,7 +105,7 @@ I did! I swear! Here's a zip and a link to the github repo. Dig around all you w
 
 > "Can you please add instructions for building the source files?"
 
-Here are the instructions. But FYI they were also in that repo I sent you...
+Here are the instructions. But FYI they're also in that repo I sent you...
 
 > "Why am I seeing this error while trying to build?"
 
@@ -133,8 +127,7 @@ KK thx 👍.
 
 So hopefully that gets resolved soon...
 
-#### **P5.js**
-
+**P5.js**  
 Friday night I decided to open up [P5.js](https://p5js.org/) and give it a whirl.
 
 That quickly devolved into being fully sucked in. Over the course of the next day I started experimenting with randomly generated bubbles and easing functions.
@@ -147,19 +140,16 @@ Spoke to some other P5 folks around RC and got some tips. Next project: Matrix C
 
 ### Physical 👊
 
-#### **Meditation**
-
+**Meditation**  
 At the end of last week, a fellow RCer and I began doing brief meditation sessions. It was a very relaxing way to start the day and something I want to keep up.
 
-#### **Dancing**
-
+**Dancing**  
 Always dancing!
 
 A RCer hosted a mini Hip Hop class which was a lot of fun.
 The Halloween party at Founder House had a big dance floor which I also took advantage of 💃.
 
-#### **Cooking**
-
+**Cooking**  
 I checked off the Chicken Parmesan recipe from Food Lab. Made for an excellent week of lunches.
 
 It seems like every day there's some event with pizza...ate pizza for dinner at least 3 times last week. 🍕
