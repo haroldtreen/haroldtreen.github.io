@@ -4,6 +4,12 @@ title: Now
 permalink: /now/
 ---
 
+### January 27th, 2016
+- Just finished my Recurse Center [return statement](/tech/recurse/2017/01/27/recurse-center-return-statement/) 🤔.
+- Working through a bunch of [coding problems](https://github.com/haroldtreen/coding-problems) 🎲.
+- Interviewing for full-time software engineering positions 🤓.
+- Mentoring at [QHacks](http://qhacks.io/) 🏫.
+
 ### December 18th, 2016
 - I've returned to Toronto for the holidays 🎄.
 - Completed [logging my time](/blog) at the Recurse Center 📝.
