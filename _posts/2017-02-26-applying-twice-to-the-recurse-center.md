@@ -44,7 +44,7 @@ While at RC, I learned that you can actually look back at past applications. I p
 Here's my [first application](/assets/posts/rc-application-1.jpg).  
 Here's my [second application](/assets/posts/rc-application-2.jpg).
 
-I definitely think my second attempt was much stronger.
+I definitely think my second attempt was an improvement.
 
 Here's some quick thoughts on how my application changed.
 
@@ -79,7 +79,7 @@ I feel like the second was more specific and direct. It includes a reference to 
 
 > "I want to be working for a company/organization with a strong culture..."
 
-Powerful words... earth shattering, identity shaking words...
+Powerful words... identity shaking, earth shattering words...
 
 #### **Why do you want to attend the Recurse Center?**
 
@@ -106,12 +106,12 @@ So. Much. Better.
 
 #### **What would you like to work on at the Recurse Center?**
 
-I listed the same project in both applications!
+I listed my ebook building tool in both applications!
 
 The first time I applied, it was just an idea. I also included a bunch of random explanation as to why I wanted to build it.
 
 The second time it was a fairly mature project. I also had specific improvements.  
-Talking about my desire to experiment with content extraction algorithms demonstrates an interest in more theoretical concepts. Having a balance between practical and theoretical is important.
+Talking about my desire to experiment with content extraction algorithms also demonstrated an interest in more theoretical concepts. Having a balance between practical and theoretical is important.
 
 I'm not sure if past applications are referred to, but if they are, demonstrating the progress made on my previous idea probably looked good.
 
@@ -132,18 +132,18 @@ It's interesting to note that the first word is the same between both applicatio
 - **Application #2:** "Yes."  
 **Translation:** "You probably have a million of these to read, so I'll keep it brief."
 
-First application had more superfluous details. Second application was more understandable and to the point.
+First application had more superfluous details. Second application listed past positions and focuses much more succintly.
 
 #### **Do you have a Computer Science degree or are you seeking one?**
 
-I really don't think there's problems with either of these, but I love how first Harold replied to a Yes/No question with the exact geographic location of his University.
+In both I just mention my degree, but I love how first Harold also included the exact geographic location of the University.
 
 ### Final thoughts
 
 It's easy to laugh about these things now, but being rejected from RC is hard.
 
 In a job application, you might get rejected because of a technical shortcoming.  
-In a RC application, it feels like some personal shortcoming.
+In a RC application, it feels like a personal shortcoming.
 
 But if you have been rejected from RC, **don't give up**.  
 RC's own website states that [6% of RCers apply at least twice](https://www.recurse.com/faq#can-i-reapply-question). I met multiple such people during my batch - they were wonderful.
