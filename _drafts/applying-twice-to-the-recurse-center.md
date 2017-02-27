@@ -39,44 +39,51 @@ In Fall 2016, I had the joy of attending a 12-week batch at the Recurse Center.
 
 ### Diffing my applications
 
-While at RC, I learned that you can actually look back at past applications. I pulled up my first and second to see how I had changed between the two.
+While at RC, I learned that you can actually look back at past applications. I pulled up my first and second to see what had changed between the two.
 
 Here's my [first application](/assets/posts/rc-application-1.jpg).  
 Here's my [second application](/assets/posts/rc-application-2.jpg).
 
-I definitely think my second application was much stronger.
+I definitely think my second attempt was much stronger.
 
-Here's some quick comparisons between the two.
+Here's some quick thoughts on how my application changed.
 
 ***Disclaimer:*** *I don't recruit for RC and have no insight on my applications performance. These are mere humble thoughts.* 🤔
 
 #### **Code CracklePop**
 
-I think both answers are acceptable. The second one is less verbose and likely better.
+I think both answers are acceptable.
+
+The first decouples message generation from message printing, BUT prints the number on every iteration - which is **WRONG**. (See [problem description](http://wiki.c2.com/?FizzBuzzTest))  
+The second is a short function that does everything it needs to do.
+
+I think we all know why Harold got rejected now. Case closed!
 
 #### **Please link to a program you've written from scratch.**
 
-I referenced the same project in both applications. In the first I tried talking it up whereas in the second I just left the link and a description. The project may have been more complete the second time it was reviewed...
+I referenced the same project in both applications. In the first I tried talking it up whereas in the second I just left the link and a description.
+
+I worked on that project more after my first application, so it may have been more complete the second time it was reviewed...
 
 #### **What is the most fascinating thing you've learned in the past month?**
 
-Lulz! First application I was obviously trying to appear as sentimental as possible 😅.
+First application I was obviously trying to appear as sentimental as possible 😅. References a bunch of vague stuff like "being vulnerable" and "connection"
 
-Second application felt a lot more real. It was a specific and unique thing I'd just learned about myself.
+Second application felt a lot more real. It was a specific and unique thing I'd just learned about myself while travelling.
 
 #### **What do you want to be doing in two years?**
 
-Kinda funny how similar these two are in places! Both talk about building inclusive communities.
+Kinda funny how similar these two are in places! Both talk about building communities.
 
 I feel like the second was more specific and direct. It includes a reference to external viewing material and avoids vague phrases like:
 
 > "I want to be working for a company/organization with a strong culture..."
 
-Powerful words Harold... earth shattering, identity shaking words...
+Powerful words... earth shattering, identity shaking words...
 
 #### **Why do you want to attend the Recurse Center?**
 
-I think this is where I lost major points.
+I think this is where I lost a lot of points.
 
 From my first application:
 
@@ -86,7 +93,7 @@ Not. A. Good. Reason.
 
 The Recurse Center is 100% self-directed. This sentence basically says.
 
-> I've been coding for 4 years and never built anything in my spare time. I only work if I'm being paid.
+> I've been coding for 4 years and never built anything in my spare time. I only code when I'm employed.
 
 Compare this to my second application:
 
@@ -103,28 +110,29 @@ I listed the same project in both applications!
 
 The first time I applied, it was just an idea. I also included a bunch of random explanation as to why I wanted to build it.
 
-The second time it was a fairly mature project. I also had specific improvements rather then a big idea.
+The second time it was a fairly mature project. I also had specific improvements.  
+Talking about my desire to experiment with content extraction algorithms demonstrates an interest in more theoretical concepts. Having a balance between practical and theoretical is important.
 
 I'm not sure if past applications are referred to, but if they are, demonstrating the progress made on my previous idea probably looked good.
 
 #### **Describe your programming background in a few sentences.**
 
-My first application contained more then "a few" sentences 😬. It was more like a origin story of entering programming and all the random organizations I'd been a part of.
+My first application contained more than "a few" sentences 😬. It was more like a origin story of entering programming and all the random organizations I'd been a part of.
 
-My second application was so much cleaner. A list of specific technologies that showed a wide range of experience.
+My second application was much cleaner. A list of specific technologies that showed a wide range of experience.
 
-Way to follow instructions second Harold 👍.
+A+ instruction following 👍.
 
 #### **Have you worked professionally as a programmer?**
 
-I love how the first word is the same between the two applications, but the punctuation is different.
+It's interesting to note that the first word is the same between both applications, but the punctuation is different.
 
 - **Application #1:** "Yes!"  
-**Translation:** "I'm not sure if I'm qualified for RC, so please accept this extra enthusiasm in lieu of reasons for accepting me!"
+**Translation:** "I'm not sure if I'm qualified for RC, so please accept this extra enthusiasm in lieu of reasons for admitting me!"
 - **Application #2:** "Yes."  
 **Translation:** "You probably have a million of these to read, so I'll keep it brief."
 
-Second application was more understandable and to the point.
+First application had more superfluous details. Second application was more understandable and to the point.
 
 #### **Do you have a Computer Science degree or are you seeking one?**
 
@@ -132,16 +140,23 @@ I really don't think there's problems with either of these, but I love how first
 
 ### Final thoughts
 
-If you have been rejected from RC, **don't give up**.
+It's easy to laugh about these things now, but being rejected from RC is hard.
 
-Keep programming, keep working on side projects and keep working to be a better programmer.
+In a job application, you might get rejected because of a technical shortcoming.  
+In a RC application, it feels like some personal shortcoming.
 
-I'm actually glad I got rejected.
+But if you have been rejected from RC, **don't give up**.  
+RC's own website states that [6% of RCers apply at least twice](https://www.recurse.com/faq#can-i-reapply-question). I met multiple such people during my batch - they were wonderful.
 
-Self-directed work is not easy. Learning that skill before going helped me get the most out of the experience. South America was also a much cheaper place to learn than New York.
+Keep programming, keep working on side projects and keep striving to be a better programmer.
+
+Looking back, I'm actually glad I got rejected.
+
+Self-directed work is not easy. Learning that skill before going helped me get the most out of my experience. South America was also a much cheaper place to learn than New York.
 
 But I'm also glad I reapplied.
 
-It was an awesome 12-weeks of becoming a better programmer and better person. If you're curious about what I got up to, I [wrote up a whole summary](/tech/recurse/2017/01/27/recurse-center-return-statement/).
+It was an awesome 12-weeks of becoming a better programmer and a better person.  
+If you're curious about what I got up to, I [wrote up a whole summary](/tech/recurse/2017/01/27/recurse-center-return-statement/).
 
-*If this is your first time ever hearing about the Recurse Center, maybe you should consider [applying](https://www.recurse.com/apply)!* 🎉
+*Now that you understand there's nothing to lose, maybe you should consider [applying](https://www.recurse.com/apply)!* 😉
