@@ -94,7 +94,7 @@ Of the places that weren't interested, it generally fell into the category of *"
 > "We don't run the Recurse Center so we can recruit, we recruit so we can run the Recurse Center."  
 > - [RC User Manual](https://www.recurse.com/manual#sec-recruiting)
 
-*After working them, I'm super grateful they recruit. It was another amazing perk of attending.*
+*After working with them, I'm super grateful they recruit. It was another amazing perk of attending.*
 
 ---
 
