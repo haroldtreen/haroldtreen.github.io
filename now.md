@@ -3,6 +3,10 @@ layout: page
 title: Now
 permalink: /now/
 ---
+### March 13th, 2017
+- I'm doing a bit more work with [Dooly.](https://dooly.ai/) to get all the things tested 🛠.
+- I've accepted a Software Engineering position at [Squarespace](https://www.squarespace.com/) 🎉.
+- I'll be moving to New York to enjoy the adult life for a while 👨.
 
 ### January 27th, 2016
 - Just finished my Recurse Center [return statement](/tech/recurse/2017/01/27/recurse-center-return-statement/) 🤔.
