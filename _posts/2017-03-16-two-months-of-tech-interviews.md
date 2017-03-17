@@ -29,13 +29,13 @@ Job hunting was far from the seamless process I imagined it would be. Here's a r
 
 ### Interview prep
 
-The first step of my journey was interview was prep.
+The first step of my journey was interview prep.
 
 In December I was finishing a batch at the Recurse Center. During the final weeks I switched gears towards interview prep.
 
 I highly recommend taking a week or two to prep. Most of the time between mid-December to early-January was just switching my brain to interview mode.
 
-During this time, I made the mistake of scheduling a phone interview before I was fully confident. I failed pretty spectacularly and ruined a really great opportunity... not good 😢.
+During this time, I made the mistake of scheduling a phone interview before I was fully ready. I failed pretty spectacularly and ruined a really great opportunity... not good 😢.
 
 ### Resume cleanup
 
@@ -77,7 +77,7 @@ I found referrals via:
 
 - Working with the jobs team at the [Recurse Center](https://www.recurse.com/hire).
 - Contacting past coworkers.
-- Broadcasting my job hunt to friends on Facebook.
+- Broadcasting my job hunt on Facebook.
 - Joining online tech communities (eg. a slack group for technologists in Toronto).
 - Talking to independent recruiters.
 
@@ -89,7 +89,12 @@ Of the places that weren't interested, it generally fell into the category of *"
 ***Side note:***  
 *Extra thanks to the Recurse Center. They were incredibly helpful during my job hunt.*
 
-*When I originally applied to RC, I thought the recruiting side was just a necessary evil. Now I see it's an invaluable service.*  
+*Before working with them, I assumed recruiting was just a means to an end.*
+
+> "We don't run the Recurse Center so we can recruit, we recruit so we can run the Recurse Center."  
+> - [RC User Manual](https://www.recurse.com/manual#sec-recruiting)
+
+*After working them, I'm super grateful they recruit. It was another amazing perk of attending.*
 
 ---
 
@@ -153,22 +158,22 @@ By the end I had a new appreciation for how hard it is to interview.
 
 All the while you have a growing stack of applicants just waiting for an interview. 😩
 
-I wonder if any companies let candidates choose. Give a few different options and let the candidate choose the path that works best for them. I'd like to see how that type of system would work out.
+I wonder if any companies let candidates choose their interview style. Give a few different options and let the candidate pick the path that works best for them. I'd like to see how that type of system would work out.
 
 ### Interview highlights
 
 Luckily, not all my interviews left me banging my head against a wall. Some were really fun! 
 
-- **HackerNews MVP:** One company asked me to build an MVP for HackerNews in 4 hours. I really enjoyed being able to focus on a project without having an interviewer breathing down my neck. The followup was working with some team members to extend the MVP. Since it was my code, I became the most knowledgeable person. Being the one giving directions made the interviewers less intimidating.
-- **Life Story:** Two companies had me tell my life story. Where I grew up, how I got into programming and all the steps that led me to my job hunt. I love asking people to tell me their *Origin Story*, and have spent a decent amount of time thinking about my own. It makes me happy when people are able to articulate it and are willing to share. I liked that the company valued those things as well.
+- **Simple Website:** One company asked me to build a simple website in 4 hours. I enjoyed being able to focus on a project without having an interviewer breathing down my neck. The followup was working with some team members to add features to the site. Since it was my code, the choice of what to work on was completely open ended. The focus was on working as a team instead of finishing a list of tasks.
+- **Life Story:** Two companies had me tell my life story. Where I grew up, how I got into programming and all the steps that led me to my job hunt. I love asking people to tell me their *Origin Story*, and have spent a decent amount of time thinking about my own. It makes me happy when people have a self-awareness about their past and are willing to share. I liked that the company valued those things as well.
 - **Independent Coding Problems:** At one onsite, I was given a sheet of questions and an hour to program solutions. Once again, I enjoyed being able to focus all my attention on the problems. It also gave a break from talking, talking, talking. That was nice.
-- **Pass The Tests:** One interview asked me to implement a function to pass a suite of tests. I loved that! As someone who does a lot of TDD, I find it really helpful to have a set of test cases to work through. It helps me concentrate when I can tackle the problem bit by bit.
-- **Pairing:** I did a lot of interviews where I was allowed to google and ask questions. They were described as pairing interviews, but didn't feel like it. They usually involved an interviewer sitting across from me looking at their own laptop... not much different from sitting across from me as I write on a whiteboard. I had one really awesome pairing interview though. We both sat at the same workstation and faced the problem together. As a result, it was much easier to point at things and collaborate. That small change made a big difference.
+- **Pass The Tests:** One interview asked me to implement a function to pass a suite of tests. I loved that! As someone who does a lot of TDD, I find it really helpful to have a set of test cases I can work through. It helps me concentrate when I can tackle the problem bit by bit.
+- **Pairing:** I did a few interviews where I was allowed to use the internet and ask questions. They were described as pairing interviews, but didn't feel like it. They usually involved an interviewer sitting across from me looking at their own laptop... not much different than sitting across from me as I write on a whiteboard. I had one really awesome pairing interview though. We both sat at the same workstation and faced the problem together. As a result, it was much easier to point at things and collaborate. That small change made a big difference.
 - **Team Lunch:** Most companies with full-day onsites will schedule in some sort of lunch interview. It's supposed to be a chance to relax and ask questions to an engineer. At one company, the lunch was with my entire prospective team. Having everyone meant I could just shut up and see how people interacted regularly. I also got to feel what it was like to spend time with my potential future colleagues.
 
-Besides the interviews themselves, I also had some really good recruiters. People who were super attentive and eager to move things along at whatever pace I was comfortable.
+Besides the interviews themselves, I also had some really good recruiters. People who were super attentive and eager to move things along at whatever pace I felt comfortable.
 
-Interviewing was stressful, so every supportive recruiter and well thought out interview was much appreciated ❤️.
+Interviewing was tedious, so every supportive recruiter and well thought out interview was much appreciated ❤️.
 
 ### Offers
 
@@ -194,11 +199,11 @@ Places in Vancouver were a close second. I met a bunch of wonderful people there
 Now that it's all over, what tips would I have for past me?
 
 - **Prepare early:** Interviews are a whole other skill-set - you can't just wing it.
-- **Clean up your resume:** Squishing a years worth of activities into 1 item is confusing. It's better to break things up properly and skip some details.
+- **Clean up your resume:** Squishing a year's worth of activities into one item is confusing. It's better to break things up properly and skip some details.
 - **Focus on referrals:** It might be easier to upload your resume everywhere, but your chances are way higher with referrals.
 - **Research the companies:** Interviews are much more interesting if you can go in knowing what they're working on and why you want to contribute.
 - **Write more code by hand:** Interviewing involves a ton of communication. How you work through the problem is just as important as coding the final solution. Practice that thought process.
-- **Focus on interviewing resources:** Things like HackerRank are fun because you get to write code and test it out. But working code isn't everything. Resources like "Cracking The Coding Interview" give in depth explanations of all the other things interviewers are looking for. Did you realize there's a faster solution that uses more memory? Or that assuming a sorted input let's you cut the runtime in half?
+- **Focus on interviewing resources:** Things like HackerRank are fun because you get to write code and test it out. But working code isn't everything. Resources like "Cracking The Coding Interview" give in depth explanations of all the other things interviewers are looking for. Did you realize there's a faster solution that uses more memory? Or that assuming a sorted input lets you cut the runtime in half?
 - **Accept the circumstances:** Some interviews are frustrating. Others are great. Analyzing the problems with one over the other never helps. The system isn't perfect, but it's what you have to work with. Do the best that you can with it.
 - **Calm. Down.:** Stop worrying about the pros and cons of job A vs. B. Chances are they're both equally amazing for completely different reasons. Flip a coin. Make a choice. The second you do, you'll move on and be excited for what lies ahead.
 
@@ -215,6 +220,8 @@ To everyone who gave guidance and advice along the way.
 
 Thanks ❤️.
 
-It's been a crazy 2 months, and I'm so excited that it's over. 
+It's been a hectic 2 months, and I'm so excited that it's over. 
 
 Let the Squarespace adventure begin! 🙌
+
+*Thanks to @kracekumar, @zormit and @Khaleed for providing feedback on this post! 🥇*
