@@ -3,6 +3,12 @@ layout: page
 title: Now
 permalink: /now/
 ---
+
+### April 22nd, 2017
+- I'm living in New York and working at Squarespace (and it's great 👍).
+- I'm living in Brooklyn with some awesome people from the Recurse Center 🖥.
+- Trying to balance exploring side interests, discovering the city and ramping up on work.
+
 ### March 13th, 2017
 - I'm doing a bit more work with [Dooly.](https://dooly.ai/) to get all the things tested 🛠.
 - I've accepted a Software Engineering position at [Squarespace](https://www.squarespace.com/) 🎉.
