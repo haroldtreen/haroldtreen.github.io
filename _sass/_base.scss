@@ -130,9 +130,13 @@ blockquote {
 pre,
 code {
     font-size: 15px;
-    border: 1px solid $grey-color-light;
     border-radius: 3px;
-    background-color: #eef;
+    background-color: $syntax-background;
+	color: $syntax-color;
+}
+
+pre.highlight {
+	background-color: $syntax-background;
 }
 
 code {
