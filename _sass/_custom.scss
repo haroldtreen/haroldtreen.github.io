@@ -91,12 +91,20 @@ nav.site-nav {
     hr {
         margin: 20px 0px;
     }
+	
+	code {
+		font-size: inherit;
+	}
 
     .center-image {
         margin: 0 auto;
         display: block;
 		max-height: 600px;
     }
+	
+	.center {
+		text-align: center;
+	}
 
 	.image-caption {
 		text-align: center;
