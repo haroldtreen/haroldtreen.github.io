@@ -14,7 +14,9 @@ Since last year, I've been working on a project called [EpubPress](/projects/#ep
 [web service](https://epub.press) 
 for creating ebooks from a collection of web articles.)*
 
-EpubPress and I generally get along great. It serves my requests. It restores from errors. It does what's expected.
+EpubPress and I generally get along great. 
+
+It serves my requests. It restores from errors. It does what's expected.
 
 But all that being said, I'd noticed a persistent issue with EpubPress - **sometimes it would just stop talking to me** 😭.
 
@@ -27,7 +29,7 @@ But all that being said, I'd noticed a persistent issue with EpubPress - **somet
 > EpubPress! Respond to my pings!  
 > \*crickets\* ... \*timeout\*
 
-What was going on? It had just created a beautiful book for me a few hours ago? Why the cold shoulder?
+What was going on? It had just created a beautiful book for me an hour ago! Why the cold shoulder?
 
 Whenever this happened, I would go through the same steps:
 
@@ -48,7 +50,7 @@ By the next day, the issue would be happening again 😫.
 
 Communication is important to me - so I was bothered that my cherished server wasn't using its words.
 
-After multiple days of this happening in a row, I decided to get to the bottom of it.
+After multiple occurrences of this issue, I decided to get to the bottom of it.
 
 ### Talking to friends
 
@@ -56,8 +58,8 @@ When someone is giving you the silent treatment - sometimes you can find out why
 
 In this metaphor, my friend was [DownForEveryoneOrJustMe](http://downforeveryoneorjustme.com/epub.press).
 
-> **Harold:** Hey DownForEveryoneOrJustMe, EpubPress is ignoring me. It talking to you?  
-> **DownForEveryoneOrJustMe:** Just you!
+> **Harold:** Hey DownForEveryoneOrJustMe, EpubPress is ignoring me. Is it talking to you?  
+> **DownForEveryoneOrJustMe:** EpubPress is talking to me. Problem is only for you!
 
 Huh? That can't be true...  
 I tried talking to EpubPress via another server.
@@ -76,11 +78,11 @@ I now knew that...
 
 I was stumped.
 
-### Getting community help
+### Reaching out to others
 
 At this point, I decided I needed more guidance. What else could cause my server to ignore me at random?
 
-Luckily [I had attended a batch at the recurse center](/tech/recurse/2017/01/27/recurse-center-return-statement/) and had [a community of knowledgeable programmers](https://www.recurse.com/blog/112-how-rc-uses-zulip) who might be able to help.
+Luckily [I had attended a batch at the Recurse Center](/tech/recurse/2017/01/27/recurse-center-return-statement/) and had [a community of knowledgeable programmers](https://www.recurse.com/blog/112-how-rc-uses-zulip) who might be able to help.
 
 ![Zulip message](/assets/posts/timeout-debugging-zulip.jpg){: .center-image }
 
@@ -89,23 +91,34 @@ My pleas for help on Zulip.
 
 From there, I heard from @pirate and @imccoy who helped me do some better debugging™.
 
-## Better debugging
+## Better debugging ™
 
 My initial debugging strategies were pretty rudimentary.
 
-- Restart nginx.
-- Restart pm2.
+- Restart `nginx`.
+- Restart `pm2`.
 - Make a request using Chrome.
 - Make a request using `curl`.
 - `grep` some log files.
 
-Talking to people exposed to me to a whole set of awesome tools that helped get to the root of the issue.
+Talking to others introduced to me to an awesome set of tools that helped get to the root of the issue.
 
 ### `netstat`
 
 `netstat` (network statistics) is a command line tool for displaying information on network traffic. I used it to see all the ports my server was listening to. 
 
-Using the `-p`, I was also able to see what processes were listening to each port. There was a normal number of connections and my app was listening to the right ports...
+Using the `netstat -ap`, I was also able to see what processes were listening to each port. There was a normal number of connections and my app was listening to the right ports...
+
+In the output you can see `nginx` and `pm2` listening away:
+
+```
+Active UNIX domain sockets (servers and established)
+Proto RefCnt Flags       Type       State         I-Node   PID/Program name
+unix  3      [ ]         STREAM     CONNECTED     XXXXXX   31485/nginx -g daem 
+unix  3      [ ]         STREAM     CONNECTED     XXXXXX   31485/nginx -g daem
+unix  2      [ ACC ]     STREAM     LISTENING     XXXXX    1486/.pm2)
+unix  2      [ ACC ]     STREAM     LISTENING     XXXXX    1486/.pm2)
+```
 
 > Could it be a network issue?
 
@@ -115,29 +128,53 @@ Using the `-p`, I was also able to see what processes were listening to each por
 
 Using `mtr`, I was able to see how packets sent to EpubPress were travelling. I noticed packets were getting blocked somewhere down the line.
 
+![MTR output](/assets/posts/timeout-debugging-mtr.jpg){: .center-image }
+
+`mtr epub.press` output. At hop 13, packets are swallowed into the void.
+{: .image-caption }
+
 > Could it be a server in the middle ignoring me?
 
 ### `tcpdump`
 
 `tcpdump` is a program that lets you inspect all the packets being sent and received by a machine. It was like peeking into EpubPress's brain and seeing every word received and how it was responding.
 
-Using `tcpdump host <my-ip>` I discovered that my packets were arriving, but no packets were being returned. Not even the most atomic level of acknowledgement was happening 😥.
+Using `tcpdump host <my-ip>` I discovered that my packets were arriving, but no packets were being returned. Not even the simplest of `SYN-ACK`s were being returned 😥.
+
+This is what `tcpdump` produced on the server while my laptop was sending pings:
+
+```
+06:08:21.069515 IP pool-XXX-XX-XXX-XX.nycmny.fios.verizon.net > epubpress-backend.c.epubpress-XXXX.internal: ICMP echo request, id 10677, seq 33022, length 44
+06:08:21.167963 IP pool-XXX-XX-XXX-XX.nycmny.fios.verizon.net > epubpress-backend.c.epubpress-XXXX.internal: ICMP echo request, id 10677, seq 33023, length 44
+...etc
+```
+
+This is what working output looks like:
+
+```
+06:13:49.763522 IP pool-XXX-XX-XXX-XX.nycmny.fios.verizon.net > epubpress-backend.c.epubpress-XXXX.internal: ICMP echo request, id 10770, seq 33161, length 44
+06:13:49.763556 IP epubpress-backend.c.epubpress-XXXX.internal > pool-XXX-XX-XXX-XX.nycmny.fios.verizon.net: ICMP echo reply, id 10770, seq 33161, length 44
+```
 
 > Could it be a firewall issue?
 	
 ### `netcat`
 
-`netcat` is a programming for writing directly to a network connection.
+`netcat` is a program for reading/writing directly to a network connection. I think of it like `cat`, but for printing whatever a given port receives. 
 
-Using `nc <host> <port>` I was able to attempt a direct conversation between my machines. This worked for other machines, but not my laptop. That was consistent with previous debugging.
+Using `nc <host> <port>` on both machines, I was able to test if a program separate from my application could communicate back to my laptop. As expected, this did not work - but I tried it anyway because it was fun using all these new tools. 
 
-> ...This has to be an intentional block...
+On working computers I was able to type into the terminal and see it appear on the other end! Wow! 
+
+> Teehee, I'm chatting with myself!  
+> \*5 minutes later\*  
+> Alright, enough tomfoolery! What is our firewall doing...
 
 ### `iptables`
 
 `iptables` is a tool for modifying tables of firewall rules. It can be used to define how individual packets should be treated.
 
-Using `iptables -L` I was able to list all the rules in the tables. Sure enough! There it was:
+Using `iptables -L` I was able to list all the rules in the tables. Sure enough, there it was:
 
 ```
 chain sshguard (1 references)
@@ -145,23 +182,29 @@ target     prot opt source               destination
 DROP       all  --  <my-ip>              anywhere
 ```
 
-The `sshguard` chain had a rule for blocking all my requests!
+The `sshguard` chain had a rule for blocking all my requests! 😱
 
 > Who is this sshguard character?!
 
 ### `sshguard`
 
-`sshguard` is a tool for protecting against brute force attacks. It aggregates and inspects system logs to detects suspicious activity.
+`sshguard` is a tool for protecting against brute force attacks. It aggregates and inspects system logs to detect suspicious activity. It then blocks the suspicious traffic.
 
-In other words, EpubPress had this friend `sshguard` who I didn't know existed. This friend had noticed us talking a lot and decided to brainwash EpubPress into ignoring me... for it's own safety. 
+In other words, EpubPress had this friend `sshguard` who I didn't know existed. This friend had noticed us talking a lot and decided to brainwash EpubPress into ignoring me... for its own safety. 
 
 ## Issue Solved 🎉
 
-I had a talk with `sshguard`, settled our differences and had it add me to its whitelist. Now whenever I to talk to EpubPress, `sshguard` doesn't try to interfere.
+I had a talk with `sshguard`, settled our differences and had it add me to its whitelist. 
+
+```
+sshguard -w <my-ip>
+```
+
+Now whenever I to talk to EpubPress, `sshguard` doesn't try to interfere.
 
 ## The moral of the story?
 
-- There's cool tools out there for protecting against brute force attacks!
+- Smart tools exist for protecting against brute force attacks!
 - Sometimes problems arise without warning and it's confusing - but there's always a reason!
 - Reach out to others when you're facing an issue - they might have a wider array of tools to help debug the problem.
 
@@ -173,7 +216,7 @@ EpubPress and I resolved our differences and we are looking forward to making mo
 👨❤️🤖
 {: .center }
 
-*Thanks to \<people\> for helping me debug this blog post ❤️.*
+*Thanks to @jvns and @vaibhavsagar for helping me debug this blog post 💕.*
 
 
 
