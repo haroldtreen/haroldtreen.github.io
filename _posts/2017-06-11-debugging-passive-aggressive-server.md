@@ -38,7 +38,7 @@ Whenever this happened, I would go through the same steps:
 1. **Had Nginx failed?** Nope. Nginx was working normal.
 1. **Did the logs for the instance have clues?** Nope. Nothing out of the usual.
 
-By this point I'd be freaking out. My server uptime was losing 'nines' by the minute!
+By this point I'd be freaking out. My server was losing 'nines' of uptime by the minute!
 
 My last resort was to restart the machine - that put everything back to normal. Phew! 😌
 
@@ -109,7 +109,7 @@ Talking to others introduced to me to an awesome set of tools that helped get to
 
 Using the `netstat -ap`, I was also able to see what processes were listening to each port. There was a normal number of connections and my app was listening to the right ports...
 
-In the output you can see `nginx` and `pm2` listening away:
+In the output you can see `nginx` and `pm2` connected and listening away:
 
 ```
 Active UNIX domain sockets (servers and established)
@@ -120,18 +120,20 @@ unix  2      [ ACC ]     STREAM     LISTENING     XXXXX    1486/.pm2)
 unix  2      [ ACC ]     STREAM     LISTENING     XXXXX    1486/.pm2)
 ```
 
-> Could it be a network issue?
+> Maybe my packets aren't making it to the server?
 
 ### `mtr`
 
 `mtr` (my traceroute) is a program that combines traceroute and ping. It continually pings the provided host and shows a live view of the path taken to deliver the ping.
 
-Using `mtr`, I was able to see how packets sent to EpubPress were travelling. I noticed packets were getting blocked somewhere down the line.
+Using `mtr <host>`, I was able to see how packets were travelling to EpubPress. I noticed packets were getting blocked somewhere down the line (all the `???`s). 
 
 ![MTR output](/assets/posts/timeout-debugging-mtr.jpg){: .center-image }
 
 `mtr epub.press` output. At hop 13, packets are swallowed into the void.
 {: .image-caption }
+
+It's interesting to note that some intermediate servers were also returning `???`s. This could be because they are configured to forward traffic but ignore pings. That's fine, but my server is not one to ignore a friendly ping.
 
 > Could it be a server in the middle ignoring me?
 
@@ -139,7 +141,7 @@ Using `mtr`, I was able to see how packets sent to EpubPress were travelling. I 
 
 `tcpdump` is a program that lets you inspect all the packets being sent and received by a machine. It was like peeking into EpubPress's brain and seeing every word received and how it was responding.
 
-Using `tcpdump host <my-ip>` I discovered that my packets were arriving, but no packets were being returned. Not even the simplest of `SYN-ACK`s were being returned 😥.
+Using `tcpdump host <my-ip>` I discovered that my packets were arriving, but no packets were being returned. Not even a modest `SYN-ACK`s was being returned 😥.
 
 This is what `tcpdump` produced on the server while my laptop was sending pings:
 
@@ -156,6 +158,8 @@ This is what working output looks like:
 06:13:49.763556 IP epubpress-backend.c.epubpress-XXXX.internal > pool-XXX-XX-XXX-XX.nycmny.fios.verizon.net: ICMP echo reply, id 10770, seq 33161, length 44
 ```
 
+`ping` uses a protocol called `ICMP` (Internet Control Message Protocol). No matter how many `ICMP echo` requests I sent, EpubPress would not reply.
+
 > Could it be a firewall issue?
 	
 ### `netcat`
@@ -164,7 +168,7 @@ This is what working output looks like:
 
 Using `nc <host> <port>` on both machines, I was able to test if a program separate from my application could communicate back to my laptop. As expected, this did not work - but I tried it anyway because it was fun using all these new tools. 
 
-On working computers I was able to type into the terminal and see it appear on the other end! Wow! 
+On working computers, I was able to type in the terminal and see the characters appear on the other end! Wow! 
 
 > Teehee, I'm chatting with myself!  
 > \*5 minutes later\*  
@@ -190,7 +194,9 @@ The `sshguard` chain had a rule for blocking all my requests! 😱
 
 `sshguard` is a tool for protecting against brute force attacks. It aggregates and inspects system logs to detect suspicious activity. It then blocks the suspicious traffic.
 
-In other words, EpubPress had this friend `sshguard` who I didn't know existed. This friend had noticed us talking a lot and decided to brainwash EpubPress into ignoring me... for its own safety. 
+In other words, EpubPress had this friend `sshguard` who I didn't know existed. `sshguard` had noticed me constantly talking to EpubPress and become worried whether this was a good use of EpubPress's time. 
+
+So `sshguard` decided to brainwash EpubPress into ignoring me so it could focus on creating books.
 
 ## Issue Solved 🎉
 
@@ -205,7 +211,7 @@ Now whenever I to talk to EpubPress, `sshguard` doesn't try to interfere.
 ## The moral of the story?
 
 - Smart tools exist for protecting against brute force attacks!
-- Sometimes problems arise without warning and it's confusing - but there's always a reason!
+- Sometimes strange problems arise and it makes no sense what's going on - but if you dig deep enough you'll likely find a fascinating explanation!
 - Reach out to others when you're facing an issue - they might have a wider array of tools to help debug the problem.
 
 EpubPress and I resolved our differences and we are looking forward to making more beautiful ebooks together. 
