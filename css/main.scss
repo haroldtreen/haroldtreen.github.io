@@ -28,6 +28,9 @@ $content-width:    800px;
 $on-palm:          600px;
 $on-laptop:        800px;
 
+$syntax-background: #333;
+$syntax-color: lighten($syntax-background, 80%);
+
 
 
 // Use media queries like this:
