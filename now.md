@@ -5,7 +5,7 @@ permalink: /now/
 ---
 
 ### April 22nd, 2017
-- I'm living in New York and working at Squarespace (and it's great 👍).
+- I'm working at Squarespace in New York (and it's great 👍).
 - I'm living in Brooklyn with some awesome people from the Recurse Center 🖥.
 - Trying to balance exploring side interests, discovering the city and ramping up on work.
 
