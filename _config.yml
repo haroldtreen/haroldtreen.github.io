@@ -24,7 +24,7 @@ exclude: ['node_modules']
 markdown: kramdown
 permalink: pretty
 
-gems:
+plugins:
   - jekyll-mentions
 
 jekyll-mentions: https://github.com
