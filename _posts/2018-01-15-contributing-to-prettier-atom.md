@@ -5,7 +5,7 @@ comments: true
 categories: tech open-source contributing-to
 ---
 
-<i>"Contributing to <project>"" is a series of blog posts where I highlight a helpful project I'm using and an open source contribution I made to it.<i>
+<i>"Contributing to <project>"" is a series of blog posts where I highlight a helpful project I'm using and an open source contribution I made to it.</i>
 
 Today I'm going to talk about `prettier`, the `prettier-atom` package and how I reduced it's activation time by 75%.
 
