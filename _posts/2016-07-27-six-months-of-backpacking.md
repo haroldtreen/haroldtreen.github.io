@@ -141,15 +141,15 @@ Next was Banos. People seemed pretty enthusiastic about it. I was somewhat disap
 
 #### **Aside:**
 
-At the start of my trip I resolved not to label things are *"touristy"*.
+At the start of my trip I resolved not to label things are _"touristy"_.
 
 **Why?**  
 It's used as a way to put a negative connotation on a place.
 
-> "Ugh. Don't go there. It's ***so touristy***".
+> "Ugh. Don't go there. It's **_so touristy_**".
 
 But a place isn't bad because there's tourists there.  
-Yet when people used it, I felt like my good experiences in "touristy" were less valid.  
+Yet when people used it, I felt like my good experiences in "touristy" places were less valid.
 
 Instead I tried to figure out what I was really trying to express with "touristy" and describe those feelings instead.
 
@@ -185,7 +185,7 @@ The main starting destination for Peru was Mancora. I had been avoiding beach to
 
 Next I went to Huanchaco - another pretty beach town.
 
-Finally I went to Huaraz where I got to experience my first overnight treks. Unfortunately I went cheaper then I should have and landed on a trek where 7/10 people got food poisoning on the first night (thankfully I was apart of the 3/10 who was spared).
+Finally I went to Huaraz where I got to experience my first overnight treks. Unfortunately I went cheaper then I should have and landed on a trek where 7/10 people got food poisoning on the first night (thankfully I was apart of the 3/10 who were spared).
 
 Then it was time! **Lima.**
 
@@ -262,10 +262,10 @@ There will be more time to travel. There will be tons of time to work. Rushing h
 
 The majority of my favorite memories have been formed by the people I met.
 
-- The trek to Machu Picchu wouldn't have been the same without heart to hearts with fellow hikers.  
-- The long days of coding are made better by a fellow nerd hacking by my side.  
-- The days of travel fatigue are relieved by venting to someone who has already gone through it.  
-- Dinner cooked with friends at home is way nicer then the 5🌟 meal you ate alone.
+* The trek to Machu Picchu wouldn't have been the same without heart to hearts with fellow hikers.
+* The long days of coding are made better by a fellow nerd hacking by my side.
+* The days of travel fatigue are relieved by venting to someone who has already gone through it.
+* Dinner cooked with friends at home is way nicer then the 5🌟 meal you ate alone.
 
 When I make decisions about where to go/what to do - the outcome is very dependent on the other people who will be involved.
 
