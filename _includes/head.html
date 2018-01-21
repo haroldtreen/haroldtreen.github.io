@@ -15,7 +15,7 @@
     <!-- //- Open Graph -->
     <meta property="og:title" content="{% if page.title %}Harold Treen • {{page.title }}{% else %}{{ site.title }}{% endif %}">
 	<meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-	<meta property="og:image" content="{{ site.image }}">
+	<meta property="og:image" content="{{ site.url }}{{ site.image }}">
     <meta property="og:url" content="http://haroldtreen.com">
     <meta property="og:type" content="website">
 
@@ -24,8 +24,7 @@
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:title" content="{% if page.title %}Harold Treen • {{page.title }}{% else %}{{ site.title }}{% endif %}" />
 	<meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
-	<meta name="twitter:image" content="{{ site.image }}" />
-
+	<meta name="twitter:image" content="{{ site.url }}{{ site.image }}" />
 
 	<link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
 	<link rel="stylesheet" href="{{ "/css/prism.css" | prepend: site.baseurl }}">
