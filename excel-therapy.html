@@ -1,0 +1,187 @@
+<html>
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+td {
+	min-width: 40px;
+	border: 1px solid white;
+}
+
+.highlighted {
+	border: 1px dashed black;
+}
+
+.computed {
+	background-color: yellow;
+	border: 1px solid blue;
+}
+
+.target {
+	border: 1px solid blue;
+}
+</style>
+</head>
+<body>
+<div id="content">
+	<center><h1>🔢 Excel Therapy 🤒</h1>
+	<h3>???</h3>
+	<table>
+	</table></center>
+</div>
+<script>
+var OPERATIONS = {
+	ADD: () => {
+		var els = document.querySelectorAll(".highlighted");
+		var sum = Array.from(els).reduce((s, el) => {
+			return s + Number(el.innerText);
+		}, 0);
+		var target = document.querySelector(".target");
+		target.innerText = sum;
+		target.className = "computed";
+	},
+	AVG: () => {
+		var els = document.querySelectorAll(".highlighted");
+		var sum = Array.from(els).reduce((s, el) => {
+			return s + Number(el.innerText);
+		}, 0);
+		var target = document.querySelector(".target");
+		target.innerText = Math.round(sum / els.length);
+		target.className = "computed";
+	},
+	MAX: () => {
+		var els = document.querySelectorAll(".highlighted");
+		var max = Array.from(els).reduce((s, el) => {
+			return Math.max(s, Number(el.innerText));
+		}, 0);
+		var target = document.querySelector(".target");
+		target.innerText = max;
+		target.className = "computed";
+	},
+	MIN: () => {
+		var els = document.querySelectorAll(".highlighted");
+		var min = Array.from(els).reduce((s, el) => {
+			return Math.min(s, Number(el.innerText));
+		}, 0);
+		var target = document.querySelector(".target");
+		target.innerText = min;
+		target.className = "computed";
+	}
+};
+var COL_TITLES = ["", "A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K"];
+var ROW_TITLES = ["", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11"];
+var width = randomBetween(4, COL_TITLES.length);
+var height = randomBetween(4, ROW_TITLES.length);
+var table = document.querySelector("table");
+for (var i = 0; i < width; i++) {
+	var tr = document.createElement("tr");
+	for (var j = 0; j < height; j++) {
+		if (i === 0) {
+			var content = COL_TITLES[j];
+		} else if (j === 0) {
+			var content = ROW_TITLES[i];
+		} else {
+			var content = Math.round(Math.random() * 100);
+		}
+		var td = document.createElement("td");
+		td.innerText = content;
+		tr.appendChild(td);
+	}
+	table.appendChild(tr);
+}
+
+function randomBetween(min, max) {
+	return Math.round(min + (max - min) * Math.random());
+}
+
+function randomCell(cell, direction) {
+	if (cell) {
+		if (direction === "horizontal") {
+			return {
+				row: cell.row,
+				col: randomBetween(cell.col + 1, width - 1)
+			};
+		} else {
+			return {
+				row: randomBetween(cell.row + 1, height - 1),
+				col: cell.col
+			};
+		}
+	}
+	return {
+		row: randomBetween(1, height - 3),
+		col: randomBetween(1, width - 3)
+	};
+}
+
+function getCell(cell) {
+	var row = document.querySelectorAll("tr")[cell.row];
+	var el = row.children[cell.col];
+	return el;
+}
+
+var cell = {};
+
+function highlightRange(start, end, dir) {
+	var startCell = getCell(start);
+	var endCell = getCell(end);
+	var i, j;
+
+	if (dir === "vertical") {
+		for (i = start.row; i <= end.row; i++) {
+			var cell = getCell({ row: i, col: start.col });
+			cell.className = "highlighted";
+		}
+	} else {
+		for (j = start.col; j <= end.col; j++) {
+			var cell = getCell({ row: start.row, col: j });
+			cell.className = "highlighted";
+		}
+	}
+
+	cell.className = "target";
+}
+
+function clearSelection() {
+	var cells = document.querySelectorAll("td");
+	for (var i = 0; i < cells.length; i++) {
+		cells[i].className = "";
+	}
+}
+
+function performCalculation() {
+	clearSelection();
+	var operations = Object.keys(OPERATIONS);
+	var operation = operations[Math.floor(Math.random() * operations.length)];
+	var direction = Math.random() > 0.5 ? "horizontal" : "vertical";
+	cell.className = "";
+	var start = randomCell();
+	var end = randomCell(start, direction);
+	highlightRange(start, end, direction);
+	updateFormula(start, end, operation);
+	setTimeout(() => {
+		runOperation(operation);
+		setTimeout(performCalculation, 500);
+	}, 1000);
+}
+
+function runOperation(operation) {
+	OPERATIONS[operation]();
+}
+
+function updateFormula(start, end, operation) {
+	var h3 = document.querySelector("h3");
+	h3.innerText =
+		operation +
+		" " +
+		COL_TITLES[start.col] +
+		ROW_TITLES[start.row] +
+		":" +
+		COL_TITLES[end.col] +
+		ROW_TITLES[end.row];
+}
+
+performCalculation();
+</script>
+</body>
+
+</html>
