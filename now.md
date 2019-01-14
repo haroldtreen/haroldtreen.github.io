@@ -4,6 +4,15 @@ title: Now
 permalink: /now/
 ---
 
+### January 13th, 2019
+- I'm still working at Squarespace in New York (and it's still great 👍).
+- I'm still living in the same apartment.
+- I'm in the middle of [Team Performance Workshop](https://magnettheater.com/class/improv-team-workshop/) @ The Magnet Theater. It's the final class in Magnet's improv curriculum. Next week will be my first of 8 shows on the main stage.
+- I've been simultaneously mentoring a level 1 improv class. They are a super bunch and our class show is Friday!
+- I've been going to a bunch of dance parties such as [The Get Down](https://www.thegetdownnyc.com/) and [Daybreaker](https://www.daybreaker.com/communities/nyc/) (and I even volunteer for Daybreaker!).
+- I'm still exploring all the activities New York has to offer and recently discovered [The Joy List](https://joylist.nyc/) as an awesome source of events. The most recent one I tried was [Skip The Small Talk](https://www.skipthesmalltalk.org/).
+- At the same time I'm trying to slow down a bit. I have the tendency to try and do everything, but recently I've been feeling spread thin. Looking to find more depth with the things I'm already involved in rather than constantly chasing new experiences.
+
 ### April 22nd, 2017
 - I'm working at Squarespace in New York (and it's great 👍).
 - I'm living in Brooklyn with some awesome people from the Recurse Center 🖥.
