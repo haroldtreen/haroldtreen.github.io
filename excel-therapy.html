@@ -1,187 +1,393 @@
 <html>
-<head>
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-td {
-	min-width: 40px;
-	border: 1px solid white;
-}
+	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link
+			href="https://fonts.googleapis.com/css?family=Open+Sans"
+			rel="stylesheet"
+		/>
+		<style>
+			body {
+				font-family: 'Open Sans', sans-serif;
+			}
 
-.highlighted {
-	border: 1px dashed black;
-}
+			td {
+				min-width: 40px;
+				border: 1px solid white;
+			}
 
-.computed {
-	background-color: yellow;
-	border: 1px solid blue;
-}
+			.highlighted {
+				border: 1px dashed black;
+			}
 
-.target {
-	border: 1px solid blue;
-}
-</style>
-</head>
-<body>
-<div id="content">
-	<center><h1>🔢 Excel Therapy 🤒</h1>
-	<h3>???</h3>
-	<table>
-	</table></center>
-</div>
-<script>
-var OPERATIONS = {
-	ADD: () => {
-		var els = document.querySelectorAll(".highlighted");
-		var sum = Array.from(els).reduce((s, el) => {
-			return s + Number(el.innerText);
-		}, 0);
-		var target = document.querySelector(".target");
-		target.innerText = sum;
-		target.className = "computed";
-	},
-	AVG: () => {
-		var els = document.querySelectorAll(".highlighted");
-		var sum = Array.from(els).reduce((s, el) => {
-			return s + Number(el.innerText);
-		}, 0);
-		var target = document.querySelector(".target");
-		target.innerText = Math.round(sum / els.length);
-		target.className = "computed";
-	},
-	MAX: () => {
-		var els = document.querySelectorAll(".highlighted");
-		var max = Array.from(els).reduce((s, el) => {
-			return Math.max(s, Number(el.innerText));
-		}, 0);
-		var target = document.querySelector(".target");
-		target.innerText = max;
-		target.className = "computed";
-	},
-	MIN: () => {
-		var els = document.querySelectorAll(".highlighted");
-		var min = Array.from(els).reduce((s, el) => {
-			return Math.min(s, Number(el.innerText));
-		}, 0);
-		var target = document.querySelector(".target");
-		target.innerText = min;
-		target.className = "computed";
-	}
-};
-var COL_TITLES = ["", "A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K"];
-var ROW_TITLES = ["", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11"];
-var width = randomBetween(4, COL_TITLES.length);
-var height = randomBetween(4, ROW_TITLES.length);
-var table = document.querySelector("table");
-for (var i = 0; i < width; i++) {
-	var tr = document.createElement("tr");
-	for (var j = 0; j < height; j++) {
-		if (i === 0) {
-			var content = COL_TITLES[j];
-		} else if (j === 0) {
-			var content = ROW_TITLES[i];
-		} else {
-			var content = Math.round(Math.random() * 100);
-		}
-		var td = document.createElement("td");
-		td.innerText = content;
-		tr.appendChild(td);
-	}
-	table.appendChild(tr);
-}
+			.computed {
+				background-color: yellow;
+				border: 1px solid blue;
+			}
 
-function randomBetween(min, max) {
-	return Math.round(min + (max - min) * Math.random());
-}
+			.target {
+				border: 1px solid blue;
+			}
 
-function randomCell(cell, direction) {
-	if (cell) {
-		if (direction === "horizontal") {
-			return {
-				row: cell.row,
-				col: randomBetween(cell.col + 1, width - 1)
+			.perfect {
+				background-color: greenyellow;
+			}
+
+			#messages {
+				display: none;
+			}
+
+			p {
+				margin: 0;
+				padding: 10px;
+			}
+
+			p:nth-child(6n + 1) {
+				background: #ff0900;
+			}
+			p:nth-child(6n + 2) {
+				background: #ff7f00;
+			}
+			p:nth-child(6n + 3) {
+				background: #ffef00;
+			}
+			p:nth-child(6n + 4) {
+				background: #00f11d;
+			}
+			p:nth-child(6n + 5) {
+				background: #0079ff;
+			}
+			p:nth-child(6n + 6) {
+				background: #a800ff;
+			}
+		</style>
+	</head>
+	<body>
+		<div id="content">
+			<center>
+				<h1>🔢 Excel Therapy 🤒</h1>
+				<h1>30th Birthday Edition 🎂</h1>
+				<h3>???</h3>
+				<table></table>
+
+				<div id="messages">
+					<h2>Happy Birthday! 🎉</h2>
+					<h3 id="partyMeter"></h3>
+					<div id="lines"></div>
+				</div>
+			</center>
+		</div>
+		<script>
+			const LINES = [
+				'Kelly,',
+				'You are such a wonderful person...',
+				"I'm so excited to celebrate with you on this special day...",
+				'So excited that I started coding for you...',
+				'We are going to eat so many tacos...',
+				'I hope you\'ll agree this is cooler website content than "Have a great day!"...',
+				'You can do anything you put your mind to...',
+				'Especially when anything is Excel...',
+				"I hope you've found this therepeutic...",
+				'Happy 30th Birthday 🎂...',
+				'Love you sooooo much! ❤️',
+				'Beep Boop 🤖'
+			];
+			var OPERATIONS = {
+				ADD: () => {
+					const sum = OPERATION_CALCULATOR.SUM();
+					var target = document.querySelector('.target');
+					target.innerText = sum;
+					target.className = 'computed';
+				},
+				AVG: () => {
+					let avg = OPERATION_CALCULATOR.AVG();
+					var target = document.querySelector('.target');
+					target.innerText = avg;
+					target.className = 'computed';
+				},
+				MAX: () => {
+					const max = OPERATION_CALCULATOR.MAX();
+					var target = document.querySelector('.target');
+					target.innerText = max;
+					target.className = 'computed';
+				},
+				MIN: () => {
+					const min = OPERATION_CALCULATOR.MIN();
+					var target = document.querySelector('.target');
+					target.innerText = min;
+					target.className = 'computed';
+				}
 			};
-		} else {
-			return {
-				row: randomBetween(cell.row + 1, height - 1),
-				col: cell.col
+			let OPERATION_CALCULATOR = {
+				ADD: () => {
+					var els = document.querySelectorAll('.highlighted');
+					var sum = Array.from(els).reduce((s, el) => {
+						return s + Number(el.innerText);
+					}, 0);
+				},
+				AVG: () => {
+					var els = document.querySelectorAll('.highlighted');
+					var sum = Array.from(els).reduce((s, el) => {
+						return s + Number(el.innerText);
+					}, 0);
+					return Math.round(sum / els.length);
+				},
+				MAX: () => {
+					var els = document.querySelectorAll('.highlighted');
+					var max = Math.max(
+						...Array.from(els).map(el => {
+							return Number(el.innerText);
+						})
+					);
+
+					return max;
+				},
+				MIN: () => {
+					var els = document.querySelectorAll('.highlighted');
+					var min = Math.min(
+						...Array.from(els).map(el => {
+							return Number(el.innerText);
+						})
+					);
+					return min;
+				}
 			};
-		}
-	}
-	return {
-		row: randomBetween(1, height - 3),
-		col: randomBetween(1, width - 3)
-	};
-}
 
-function getCell(cell) {
-	var row = document.querySelectorAll("tr")[cell.row];
-	var el = row.children[cell.col];
-	return el;
-}
+			var COL_TITLES = [
+				'',
+				'A',
+				'B',
+				'C',
+				'D',
+				'E',
+				'F',
+				'G',
+				'H',
+				'I',
+				'J',
+				'K'
+			];
+			var ROW_TITLES = [
+				'',
+				'1',
+				'2',
+				'3',
+				'4',
+				'5',
+				'6',
+				'7',
+				'8',
+				'9',
+				'10',
+				'11'
+			];
+			var width = randomBetween(4, COL_TITLES.length - 1);
+			var height = randomBetween(4, ROW_TITLES.length - 1);
+			var table = document.querySelector('table');
+			for (var i = 0; i < height; i++) {
+				var tr = document.createElement('tr');
+				for (var j = 0; j < width; j++) {
+					if (i === 0) {
+						var content = COL_TITLES[j];
+					} else if (j === 0) {
+						var content = ROW_TITLES[i];
+					} else {
+						var content = Math.round(Math.random() * 100);
+					}
+					var td = document.createElement('td');
+					td.innerText = content;
+					tr.appendChild(td);
+				}
+				table.appendChild(tr);
+			}
 
-var cell = {};
+			function randomBetween(min, max) {
+				return Math.round(min + (max - min) * Math.random());
+			}
 
-function highlightRange(start, end, dir) {
-	var startCell = getCell(start);
-	var endCell = getCell(end);
-	var i, j;
+			function randomCell(cell, direction) {
+				if (cell) {
+					if (direction === 'horizontal') {
+						return {
+							row: cell.row,
+							col: randomBetween(cell.col + 1, width - 1)
+						};
+					} else {
+						return {
+							row: randomBetween(cell.row + 1, height - 1),
+							col: cell.col
+						};
+					}
+				}
+				return {
+					row: randomBetween(1, height - 2),
+					col: randomBetween(1, width - 2)
+				};
+			}
 
-	if (dir === "vertical") {
-		for (i = start.row; i <= end.row; i++) {
-			var cell = getCell({ row: i, col: start.col });
-			cell.className = "highlighted";
-		}
-	} else {
-		for (j = start.col; j <= end.col; j++) {
-			var cell = getCell({ row: start.row, col: j });
-			cell.className = "highlighted";
-		}
-	}
+			function getCell(cell) {
+				var row = document.querySelectorAll('tr')[cell.row];
+				var el = row.children[cell.col];
+				return el;
+			}
 
-	cell.className = "target";
-}
+			var cell = {};
 
-function clearSelection() {
-	var cells = document.querySelectorAll("td");
-	for (var i = 0; i < cells.length; i++) {
-		cells[i].className = "";
-	}
-}
+			function highlightRange(start, end, dir) {
+				var startCell = getCell(start);
+				var endCell = getCell(end);
+				var i, j;
 
-function performCalculation() {
-	clearSelection();
-	var operations = Object.keys(OPERATIONS);
-	var operation = operations[Math.floor(Math.random() * operations.length)];
-	var direction = Math.random() > 0.5 ? "horizontal" : "vertical";
-	cell.className = "";
-	var start = randomCell();
-	var end = randomCell(start, direction);
-	highlightRange(start, end, direction);
-	updateFormula(start, end, operation);
-	setTimeout(() => {
-		runOperation(operation);
-		setTimeout(performCalculation, 500);
-	}, 1000);
-}
+				if (dir === 'vertical') {
+					for (i = start.row; i <= end.row; i++) {
+						var cell = getCell({ row: i, col: start.col });
+						cell.className = 'highlighted';
+					}
+				} else {
+					for (j = start.col; j <= end.col; j++) {
+						var cell = getCell({ row: start.row, col: j });
+						cell.className = 'highlighted';
+					}
+				}
 
-function runOperation(operation) {
-	OPERATIONS[operation]();
-}
+				cell.className = 'target';
+			}
 
-function updateFormula(start, end, operation) {
-	var h3 = document.querySelector("h3");
-	h3.innerText =
-		operation +
-		" " +
-		COL_TITLES[start.col] +
-		ROW_TITLES[start.row] +
-		":" +
-		COL_TITLES[end.col] +
-		ROW_TITLES[end.row];
-}
+			function clearSelection() {
+				var cells = document.querySelectorAll('td');
+				for (var i = 0; i < cells.length; i++) {
+					cells[i].className = '';
+				}
+			}
 
-performCalculation();
-</script>
-</body>
+			function calculateBoardAverage() {
+				const [header, ...trs] = document.querySelectorAll('tr');
+				let sum = 0;
+				let numCells = (height - 1) * (width - 1);
 
+				trs.forEach(tr => {
+					const [label, ...tds] = tr.children;
+					tds.forEach(td => {
+						sum += Number(td.innerText);
+					});
+				});
+				return sum / numCells;
+			}
+
+			function selectOperation() {
+				var operations = Object.keys(OPERATIONS);
+				let finalOperation = null;
+				const boardAvg = calculateBoardAverage();
+				operations.reduce((acc, operation) => {
+					const operationValue = OPERATION_CALCULATOR[operation]();
+					if (!acc) {
+						finalOperation = operation;
+						return operationValue;
+					}
+
+					if (
+						Math.abs(0.5 * (boardAvg + acc) - 30) <
+						Math.abs(0.5 * (boardAvg + operationValue) - 30)
+					) {
+						return acc;
+					} else {
+						finalOperation = operation;
+						return operationValue;
+					}
+				});
+				return finalOperation;
+			}
+
+			function chooseCell(locA, locB) {
+				const cellA = getCell(locA);
+				const cellB = getCell(locB);
+				return Math.abs(Number(cellA.innerText) - 30) >
+					Math.abs(Number(cellB.innerText) - 30)
+					? locA
+					: locB;
+			}
+
+			function chooseEndCell(start, direction) {
+				let end = null;
+				if (direction === 'vertical') {
+					end = { row: start.row + 1, col: start.col };
+					for (i = start.row + 1; i < height; i++) {
+						end = chooseCell(end, { row: i, col: start.col });
+					}
+				} else {
+					end = { row: start.row, col: start.col + 1 };
+					for (j = start.col + 1; j < width; j++) {
+						end = chooseCell(end, { row: start.row, col: j });
+					}
+				}
+				return end;
+			}
+
+			function highlightTargetNums() {
+				const [header, ...trs] = document.querySelectorAll('tr');
+				trs.forEach(tr => {
+					const [label, ...tds] = tr.children;
+					tds.forEach(td => {
+						if (Number(td.innerText) === 30) {
+							td.className += ' perfect';
+						}
+					});
+				});
+			}
+
+			function renderMessages() {
+				const perfectCount = document.querySelectorAll('.perfect')
+					.length;
+
+				if (perfectCount > 0) {
+					const messages = document.querySelector('#messages');
+					messages.style = 'display: block;';
+
+					const partyMeter = document.querySelector('#partyMeter');
+					const lines = document.querySelector('#lines');
+					partyMeter.innerText = '';
+					lines.innerHTML = LINES.map((l, i) => {
+						return i < perfectCount ? '<p>' + l + '</p>' : '';
+					}).join('');
+					for (let i = 0; i < perfectCount; i++) {
+						partyMeter.innerText += '🥳';
+					}
+				}
+			}
+
+			function performCalculation() {
+				clearSelection();
+				var direction = Math.random() > 0.5 ? 'horizontal' : 'vertical';
+				cell.className = '';
+				var start = randomCell();
+				var end = chooseEndCell(start, direction);
+				highlightRange(start, end, direction);
+				highlightTargetNums();
+				var operation = selectOperation();
+				updateFormula(start, end, operation);
+				setTimeout(() => {
+					runOperation(operation);
+					renderMessages();
+					setTimeout(performCalculation, 100);
+				}, 200);
+			}
+
+			function runOperation(operation) {
+				OPERATIONS[operation]();
+			}
+
+			function updateFormula(start, end, operation) {
+				var h3 = document.querySelector('h3');
+				h3.innerText =
+					operation +
+					' ' +
+					COL_TITLES[start.col] +
+					ROW_TITLES[start.row] +
+					':' +
+					COL_TITLES[end.col] +
+					ROW_TITLES[end.row];
+			}
+
+			performCalculation();
+		</script>
+	</body>
 </html>
