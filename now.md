@@ -4,6 +4,15 @@ title: Now
 permalink: /now/
 ---
 
+### November 24th, 2019
+
+- I just bought a new 16" Macbook Pro and excited to work on a machine that isn't 7 years old.
+- I've been ad-hoc facilitating for a [Mindfulness and Improv group](https://www.facebook.com/presenceatplay/).
+- I'm living in Fort Green and enjoying the Brownstone life.
+- I switch from Internal Products to the Customer Operations Engineering team at Squarespace. Building all things customer support related.
+- I've been going to the gym for the last 7 months and have added 30lbs of body.
+- I'm slowing down even more and trying to figure what all the living in the present stuff means.
+
 ### January 13th, 2019
 - I'm still working at Squarespace in New York (and it's still great 👍).
 - I'm still living in the same apartment.

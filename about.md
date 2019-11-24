@@ -32,7 +32,7 @@ My name is Harold Treen. Here's a little bit about what I do.
 ### Full-Time
 
 **Squarespace**  
-I currently work on the Internal Tools team at Squarespace ([https://squarespace.com](http://squarespace.com))
+I currently work on the Customer Operations Engineering team at Squarespace ([https://squarespace.com](http://squarespace.com))
 
 ### Contracting
 After graduating, I took a sabbatical to travel and do contract work. Clients included:
@@ -83,6 +83,6 @@ B.A.Sc. Computer Engineering with Professional Internship
 
 ## For Fun
 
-Because there's more to life than coding.
+Because there's more to life than software.
 
 {% include carousel.html name="fun" %}
