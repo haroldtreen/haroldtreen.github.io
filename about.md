@@ -31,8 +31,12 @@ My name is Harold Treen. Here's a little bit about what I do.
 
 ### Full-Time
 
+**Facebook**
+
+I currently work on the Design Tools team. When I first joined I did a stint on [Instagram Web](http://instagram.com/).
+
 **Squarespace**  
-I currently work on the Customer Operations Engineering team at Squarespace ([https://squarespace.com](http://squarespace.com))
+I worked at Squarespace for just over 3 years. While there, I built Internal Tools for Finance, Compliance, IT and Customer Operations. I also launched [Squarespace Marketplace](https://www.squarespace.com/designer/home).
 
 ### Contracting
 After graduating, I took a sabbatical to travel and do contract work. Clients included:
