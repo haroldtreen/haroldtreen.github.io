@@ -4,6 +4,14 @@ title: Now
 permalink: /now/
 ---
 
+### August 5th, 2023
+
+- I'm still working on Design tools 🎨. Our teams work was featured at [Figma Config](https://youtu.be/s9fwTc0fRs0?t=988).
+- I was cast on an Improv Team at the [Magnet Theater](https://magnettheater.com/). We completed our first season and got renewed for a second 🎉. The team is "Dreamboat" and we're [performing every Wednesday](https://magnettheater.com/ensembles/dreamboat/).
+- I've been getting deeper into coffee. I travelled to Portland in April for the SCA Expo and volunteered for 3 days. I also upgraded my espresso setup with a Decent DE1 PRo.
+- I've been search of new dance communities and begun some volunteering with [What The Float](https://www.whatthefloat.com/).
+- I've been getting back into the gym routine and have a goal of joining the 1000lb club (Squat 1RM + Bench 1RM + Deadlift 1RM >= 1000lbs). I'm currently in the ~782lb club (186lb + 219lb + 377lb).
+
 ### April 11th, 2021
 
 - I am now working at Facebook on the Design Tools team 🎉. We build tooling to help engineers and designers create higher quality products.
